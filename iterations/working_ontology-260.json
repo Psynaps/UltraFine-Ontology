@@ -1,0 +1,314 @@
+{
+    "entity": {
+        "person": {
+            "actor": {},
+            "athlete": {
+                "baseball_player": {},
+                "basketball_player": {},
+                "football_player": {}
+            },
+            "author": {},
+            "engineer": {},
+            "doctor": {},
+            "artist": {
+                "filmmaker": {},
+                "sculptor": {}
+            },
+            "director": {},
+            "coach": {},
+            "adult": {
+                "man": {},
+                "woman": {}
+            },
+            "performer": {
+                "musician": {
+                    "singer": {},
+                    "guitarist": {
+                        "bass_guitarist": {},
+                        "electric_guitarist": {}
+                    },
+                    "drummer": {},
+                    "pianist": {}
+                },
+                "dancer": {},
+                "comedian": {}
+            },
+            "criminal": {},
+            "official": {
+                "politician": {
+                    "president": {},
+                    "senator": {},
+                    "congressman": {}
+                },
+                "first_lady": {},
+                "minister": {},
+                "mayor": {},
+                "governor": {}
+            },
+            "professional": {
+                "lawyer": {},
+                "judge": {},
+                "architect": {},
+                "scientist": {
+                    "rocket_scientist": {},
+                    "biologist": {},
+                    "physicist": {},
+                    "economist": {},
+                    "psychologist": {}
+                },
+                "contractor": {},
+                "banker": {},
+                "journalist": {},
+                "developer": {},
+                "designer": {},
+                "advisor": {},
+                "photographer": {}
+            },
+            "expert": {
+                "analyst": {},
+                "consultant": {}
+            },
+            "male": {},
+            "female": {},
+            "teacher": {},
+            "student": {},
+            "monarch": {},
+            "religious_leader": {}
+        },
+        "organization": {
+            "agency": {},
+            "company": {},
+            "department": {},
+            "airline": {},
+            "government": {},
+            "authority": {},
+            "hospital": {},
+            "bank": {},
+            "school": {},
+            "association": {},
+            "corporation": {},
+            "club": {},
+            "foundation": {},
+            "bureau": {},
+            "union": {},
+            "cooperative": {},
+            "broadcast_station": {},
+            "news_agency": {}
+        },
+        "group": {
+            "army": {},
+            "team": {},
+            "ethnic_group": {},
+            "military": {},
+            "league": {},
+            "political_party": {},
+            "society": {}
+        },
+        "location": {
+            "place": {
+                "airport": {},
+                "building": {},
+                "cemetery": {},
+                "park": {},
+                "stadium": {},
+                "museum": {},
+                "temple": {}
+            },
+            "bridge": {},
+            "facility": {},
+            "hotel": {},
+            "library": {},
+            "music_school": {},
+            "planet": {},
+            "province": {},
+            "rail": {},
+            "railway": {},
+            "restaurant": {},
+            "road": {}
+        },
+        "object": {
+            "tool": {
+                "hammer": {}
+            },
+            "item": {
+                "food_stamp": {},
+                "award": {}
+            },
+            "weapon": {
+                "gun": {
+                    "assault_rifle": {}
+                },
+                "assault_weapon": {}
+            },
+            "vehicle": {
+                "airplane": {},
+                "car": {},
+                "automobile": {}
+            },
+            "technology": {
+                "computer": {},
+                "software": {}
+            },
+            "instrument": {
+                "guitar": {},
+                "piano": {}
+            },
+            "furniture": {
+                "chair": {},
+                "table": {},
+                "bed": {}
+            },
+            "device": {
+                "phone": {},
+                "camera": {},
+                "laptop": {}
+            },
+            "clothing": {
+                "shirt": {},
+                "pants": {},
+                "hat": {}
+            },
+            "machine": {},
+            "container": {
+                "box": {}
+            },
+            "currency": {},
+            "drug": {},
+            "food": {},
+            "game": {},
+            "internet": {},
+            "mass_transit": {},
+            "medicine": {},
+            "mobile_phone": {},
+            "product": {},
+            "programming_language": {},
+            "ship": {}
+        },
+        "living_thing": {
+            "animal": {},
+            "plant": {},
+            "bird": {},
+            "insect": {},
+            "fish": {},
+            "body_part": {}
+        },
+        "institution": {
+            "academic": {
+                "school": {
+                    "university": {}
+                }
+            }
+        },
+        "nation": {
+            "country": {}
+        },
+        "media": {
+            "film": {}
+        },
+        "geography": {},
+        "health": {},
+        "language": {},
+        "law": {}
+    },
+    "event": {
+        "accident": {},
+        "attack": {},
+        "conflict": {},
+        "political": {
+            "election": {}
+        },
+        "contest": {},
+        "festival": {},
+        "ceremony": {},
+        "conference": {},
+        "concert": {},
+        "meeting": {},
+        "celebration": {},
+        "debate": {},
+        "exhibition": {},
+        "protest": {},
+        "workshop": {},
+        "seminar": {},
+        "holiday": {},
+        "natural_disaster": {}
+    },
+    "subject": {
+        "science": {
+            "chemistry": {},
+            "biology": {},
+            "disease": {},
+            "physics": {},
+            "mathematics": {}
+        },
+        "education": {
+            "degree": {}
+        },
+        "art": {},
+        "history": {},
+        "philosophy": {},
+        "psychology": {},
+        "economics": {},
+        "literature": {},
+        "geography": {},
+        "health": {},
+        "language": {},
+        "law": {}
+    },
+    "action": {
+        "help": {},
+        "broadcast": {}
+    },
+    "industry": {
+        "business": {
+            "company": {}
+        },
+        "entertainment": {
+            "movie": {},
+            "music": {}
+        },
+        "service": {},
+        "technology": {},
+        "healthcare": {},
+        "retail": {},
+        "finance": {},
+        "agriculture": {},
+        "manufacturing": {}
+    },
+    "media": {
+        "news": {},
+        "play": {}
+    },
+    "time": {},
+    "idea": {
+        "yes": {},
+        "color": {
+            "red": {
+                "cherry_red": {}
+            },
+            "blue": {
+                "baby_blue": {}
+            }
+        },
+        "death_wish": {},
+        "good": {},
+        "bad": {},
+        "concept": {},
+        "god": {},
+        "heritage": {},
+        "leisure": {},
+        "other": {},
+        "religion": {},
+        "scientific_method": {},
+        "sign": {}
+    },
+    "illness": {
+        "disease": {
+            "cancer": {
+                "breast_cancer": {},
+                "lung_cancer": {}
+            }
+        },
+        "infection": {},
+        "sickness": {}
+    }
+}

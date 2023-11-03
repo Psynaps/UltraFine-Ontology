@@ -1,0 +1,174 @@
+{
+    "entity": {
+        "person": {
+            "actor": {},
+            "athlete": {
+                "baseball_player": {},
+                "basketball_player": {},
+                "football_player": {}
+            },
+            "author": {},
+            "engineer": {},
+            "doctor": {},
+            "artist": {},
+            "director": {},
+            "coach": {},
+            "adult": {
+                "man": {},
+                "woman": {}
+            },
+            "performer": {
+                "musician": {
+                    "singer": {},
+                    "guitarist": {
+                        "bass_guitarist": {},
+                        "electric_guitarist": {}
+                    },
+                    "drummer": {}
+                }
+            },
+            "criminal": {},
+            "official": {
+                "politician": {
+                    "president": {},
+                    "senator": {},
+                    "congressman": {}
+                }
+            },
+            "professional": {
+                "lawyer": {},
+                "judge": {},
+                "architect": {},
+                "scientist": {
+                    "rocket_scientist": {}
+                }
+            },
+            "expert": {},
+            "male": {},
+            "female": {}
+        },
+        "organization": {
+            "agency": {},
+            "company": {},
+            "department": {},
+            "airline": {},
+            "government": {},
+            "authority": {}
+        },
+        "group": {
+            "army": {},
+            "team": {}
+        },
+        "location": {
+            "place": {
+                "airport": {},
+                "building": {},
+                "cemetery": {}
+            },
+            "geographical": {
+                "city": {},
+                "country": {},
+                "county": {},
+                "sea": {}
+            }
+        },
+        "object": {
+            "tool": {
+                "hammer": {}
+            },
+            "item": {
+                "food_stamp": {},
+                "award": {}
+            },
+            "weapon": {
+                "gun": {
+                    "assault_rifle": {}
+                },
+                "assault_weapon": {}
+            },
+            "vehicle": {
+                "airplane": {},
+                "car": {}
+            },
+            "technology": {
+                "computer": {}
+            }
+        },
+        "living_thing": {
+            "animal": {}
+        },
+        "dead_thing": {
+            "dead_horse": {}
+        },
+        "institution": {
+            "academic": {
+                "school": {
+                    "university": {}
+                }
+            }
+        },
+        "nation": {
+            "country": {}
+        }
+    },
+    "event": {
+        "accident": {},
+        "attack": {},
+        "conflict": {},
+        "political": {
+            "election": {}
+        }
+    },
+    "subject": {
+        "science": {
+            "chemistry": {},
+            "biology": {},
+            "disease": {}
+        },
+        "education": {
+            "degree": {}
+        },
+        "art": {}
+    },
+    "action": {
+        "help": {},
+        "broadcast": {}
+    },
+    "industry": {
+        "business": {
+            "company": {}
+        },
+        "entertainment": {
+            "movie": {},
+            "music": {}
+        },
+        "service": {}
+    },
+    "media": {},
+    "time": {},
+    "idea": {
+        "yes": {},
+        "color": {
+            "red": {
+                "cherry_red": {}
+            },
+            "blue": {
+                "baby_blue": {}
+            }
+        },
+        "death_wish": {},
+        "good": {},
+        "bad": {},
+        "concept": {}
+    },
+    "illness": {
+        "disease": {
+            "cancer": {
+                "breast_cancer": {},
+                "lung_cancer": {}
+            }
+        },
+        "infection": {},
+        "sickness": {}
+    }
+}

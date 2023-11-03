@@ -71,7 +71,30 @@
             "male": {},
             "female": {},
             "teacher": {},
-            "student": {}
+            "student": {},
+            "monarch": {},
+            "religious_leader": {},
+            "soldier": {},
+            "account_manager": {},
+            "ace": {},
+            "activist": {},
+            "actress": {},
+            "administrator": {},
+            "admiral": {},
+            "adviser": {},
+            "advocate": {},
+            "agent": {},
+            "aide": {},
+            "aid_worker": {},
+            "age": {},
+            "ambassador": {},
+            "archer": {},
+            "art_historian": {},
+            "commuter": {},
+            "companion": {},
+            "composer": {},
+            "computer_scientist": {},
+            "consumer": {}
         },
         "organization": {
             "agency": {},
@@ -82,18 +105,31 @@
             "authority": {},
             "hospital": {},
             "bank": {},
-            "school": {},
             "association": {},
             "corporation": {},
             "club": {},
             "foundation": {},
             "bureau": {},
             "union": {},
-            "cooperative": {}
+            "cooperative": {},
+            "broadcast_station": {},
+            "news_agency": {},
+            "stock_exchange": {},
+            "administration": {},
+            "affiliation": {},
+            "comprehensive_school": {}
         },
         "group": {
             "army": {},
-            "team": {}
+            "team": {},
+            "ethnic_group": {},
+            "military": {},
+            "league": {},
+            "political_party": {},
+            "society": {},
+            "action_group": {},
+            "air_force": {},
+            "age_group": {}
         },
         "location": {
             "place": {
@@ -104,7 +140,42 @@
                 "stadium": {},
                 "museum": {},
                 "temple": {}
-            }
+            },
+            "bridge": {},
+            "facility": {
+                "animal_shelter": {}
+            },
+            "hotel": {},
+            "library": {},
+            "music_school": {},
+            "planet": {},
+            "province": {},
+            "rail": {},
+            "railway": {},
+            "restaurant": {},
+            "road": {},
+            "city": {},
+            "county": {},
+            "island": {},
+            "mountain": {},
+            "structure": {},
+            "theater": {},
+            "abbey": {},
+            "stage": {},
+            "academic_institution": {},
+            "academy": {},
+            "access_road": {},
+            "air_base": {},
+            "aircraft": {},
+            "aircraft_carrier": {},
+            "airfield": {},
+            "alley": {},
+            "apartment_building": {},
+            "apartment_complex": {},
+            "arena": {},
+            "art_gallery": {},
+            "archive": {},
+            "company_town": {}
         },
         "object": {
             "tool": {
@@ -124,9 +195,6 @@
                 "airplane": {},
                 "car": {},
                 "automobile": {}
-            },
-            "technology": {
-                "computer": {}
             },
             "instrument": {
                 "guitar": {},
@@ -150,14 +218,51 @@
             "machine": {},
             "container": {
                 "box": {}
-            }
+            },
+            "computer": {},
+            "currency": {},
+            "drug": {},
+            "food": {},
+            "game": {},
+            "internet": {},
+            "mass_transit": {},
+            "medicine": {},
+            "mobile_phone": {},
+            "product": {},
+            "programming_language": {},
+            "ship": {},
+            "spacecraft": {},
+            "subway": {},
+            "train": {},
+            "action_figure": {},
+            "address_book": {},
+            "agenda": {},
+            "alarm_clock": {},
+            "ammunition": {},
+            "altar": {},
+            "anchor": {},
+            "apparatus": {},
+            "apparel": {},
+            "armor": {},
+            "arrow": {},
+            "art_collection": {},
+            "artillery": {},
+            "compact_car": {},
+            "composite": {},
+            "composite_material": {},
+            "complex": {},
+            "component": {}
         },
         "living_thing": {
             "animal": {},
             "plant": {},
             "bird": {},
             "insect": {},
-            "fish": {}
+            "fish": {},
+            "body_part": {},
+            "fruit": {
+                "apple": {}
+            }
         },
         "institution": {
             "academic": {
@@ -167,7 +272,20 @@
             }
         },
         "nation": {
-            "country": {}
+            "country": {},
+            "american": {}
+        },
+        "geography": {
+            "active_volcano": {},
+            "alpine": {},
+            "amazon": {},
+            "altitude": {},
+            "archipelago": {},
+            "area": {},
+            "area_code": {}
+        },
+        "health": {
+            "alternative_medicine": {}
         }
     },
     "event": {
@@ -188,48 +306,155 @@
         "exhibition": {},
         "protest": {},
         "workshop": {},
-        "seminar": {}
+        "seminar": {},
+        "holiday": {},
+        "natural_disaster": {}
     },
     "subject": {
         "science": {
             "chemistry": {},
-            "biology": {},
-            "disease": {},
+            "biology": {
+                "ancestry": {},
+                "animal_fat": {}
+            },
             "physics": {},
-            "mathematics": {}
+            "mathematics": {},
+            "measurement": {
+                "unit": {
+                    "acre": {}
+                }
+            },
+            "physical": {},
+            "air": {},
+            "algorithm": {},
+            "aluminum": {},
+            "analysis": {},
+            "angle": {},
+            "arc": {},
+            "arch": {},
+            "artificial_intelligence": {},
+            "computing": {
+                "computer_architecture": {},
+                "computer_graphics": {},
+                "computer_language": {},
+                "computer_model": {},
+                "computer_program": {},
+                "computer_science": {},
+                "computer_system": {},
+                "computer_virus": {},
+                "computer_vision": {}
+            }
         },
         "education": {
             "degree": {}
         },
-        "art": {},
-        "history": {},
+        "art": {
+            "architecture": {}
+        },
+        "history": {
+            "ancient": {},
+            "apartheid": {}
+        },
         "philosophy": {},
-        "psychology": {},
-        "economics": {},
-        "literature": {}
+        "psychology": {
+            "anger": {},
+            "anxiety": {}
+        },
+        "economics": {
+            "acquisition": {}
+        },
+        "literature": {},
+        "language": {
+            "american_spelling": {},
+            "compound": {},
+            "compound_word": {},
+            "language_family": {}
+        },
+        "law": {
+            "adoption": {},
+            "alien": {},
+            "amendment": {},
+            "animal_rights": {},
+            "arrest_warrant": {}
+        },
+        "treatment": {},
+        "abortion": {},
+        "academic_discipline": {},
+        "accent": {},
+        "accounting": {},
+        "acid": {},
+        "aging": {},
+        "agreement": {},
+        "aid": {}
     },
     "action": {
         "help": {},
         "broadcast": {}
     },
     "industry": {
-        "business": {
-            "company": {}
-        },
+        "business": {},
         "entertainment": {
             "movie": {},
             "music": {}
         },
         "service": {},
-        "technology": {},
+        "technology": {
+            "analog": {},
+            "application": {},
+            "application_program": {},
+            "application_software": {}
+        },
         "healthcare": {},
         "retail": {},
-        "finance": {},
+        "finance": {
+            "angel_investor": {}
+        },
         "agriculture": {},
-        "manufacturing": {}
+        "manufacturing": {},
+        "aerospace": {},
+        "affiliate": {},
+        "air_carrier": {},
+        "aircraft_engine": {},
+        "airliner": {},
+        "air_navigation": {},
+        "air_raid": {},
+        "airspace": {},
+        "alcohol": {},
+        "commerce": {},
+        "commercial": {}
     },
-    "media": {},
-    "time": {},
+    "media": {
+        "news": {},
+        "play": {},
+        "television_channel": {},
+        "television_network": {},
+        "television_program": {},
+        "website": {},
+        "writing": {},
+        "academy_award": {},
+        "action_film": {},
+        "action_movie": {},
+        "adaptation": {},
+        "advertisement": {},
+        "advertising": {},
+        "adventure_game": {},
+        "airing": {},
+        "album": {},
+        "alternative_country": {},
+        "alternative_rock": {},
+        "animation": {},
+        "anime": {},
+        "anthem": {},
+        "art_film": {},
+        "article": {},
+        "compilation": {},
+        "composition": {},
+        "computer_game": {}
+    },
+    "time": {
+        "afternoon": {},
+        "anniversary": {}
+    },
     "idea": {
         "yes": {},
         "color": {
@@ -243,7 +468,71 @@
         "death_wish": {},
         "good": {},
         "bad": {},
-        "concept": {}
+        "concept": {},
+        "god": {},
+        "heritage": {},
+        "leisure": {},
+        "other": {},
+        "religion": {},
+        "scientific_method": {},
+        "sign": {},
+        "sport": {},
+        "title": {},
+        "transit": {},
+        "transportation": {},
+        "water": {},
+        "ability": {},
+        "absence": {},
+        "abuse": {},
+        "acceptance": {},
+        "access": {},
+        "access_control": {},
+        "accession": {},
+        "acclaim": {},
+        "accord": {},
+        "accordance": {},
+        "accuracy": {},
+        "achievement": {},
+        "act": {},
+        "activity": {},
+        "addiction": {},
+        "addition": {},
+        "address": {},
+        "adjustment": {},
+        "advance": {},
+        "advancement": {},
+        "adventure": {},
+        "advice": {},
+        "affair": {},
+        "aftermath": {},
+        "aggregate": {},
+        "aim": {},
+        "advisory": {},
+        "advocacy": {},
+        "alarm": {},
+        "alert": {},
+        "alliance": {},
+        "allocation": {},
+        "ally": {},
+        "alternative": {},
+        "alpha": {},
+        "amount": {},
+        "annual": {},
+        "answer": {},
+        "appearance": {},
+        "appointment": {},
+        "appreciation": {},
+        "approach": {},
+        "approval": {},
+        "arrangement": {},
+        "array": {},
+        "argument": {},
+        "comparison": {},
+        "competition": {},
+        "competitor": {},
+        "complaint": {},
+        "complement": {},
+        "compulsory": {}
     },
     "illness": {
         "disease": {

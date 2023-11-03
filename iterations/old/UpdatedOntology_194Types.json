@@ -1,0 +1,254 @@
+{
+    "entity": {
+        "person": {
+            "actor": {},
+            "athlete": {
+                "baseball_player": {},
+                "basketball_player": {},
+                "football_player": {}
+            },
+            "author": {},
+            "engineer": {},
+            "doctor": {},
+            "artist": {
+                "filmmaker": {}
+            },
+            "director": {},
+            "coach": {},
+            "adult": {
+                "man": {},
+                "woman": {}
+            },
+            "performer": {
+                "musician": {
+                    "singer": {},
+                    "guitarist": {
+                        "bass_guitarist": {},
+                        "electric_guitarist": {}
+                    },
+                    "drummer": {},
+                    "pianist": {}
+                },
+                "dancer": {}
+            },
+            "criminal": {
+                "thief": {}
+            },
+            "official": {
+                "politician": {
+                    "president": {},
+                    "senator": {},
+                    "congressman": {}
+                },
+                "first_lady": {}
+            },
+            "professional": {
+                "lawyer": {},
+                "judge": {},
+                "architect": {},
+                "scientist": {
+                    "rocket_scientist": {},
+                    "chemist": {},
+                    "biologist": {},
+                    "physicist": {},
+                    "mathematician": {},
+                    "economist": {},
+                    "psychologist": {},
+                    "sociologist": {},
+                    "geologist": {},
+                    "archaeologist": {},
+                    "astronomer": {}
+                },
+                "contractor": {},
+                "banker": {},
+                "journalist": {},
+                "accountant": {},
+                "developer": {},
+                "designer": {},
+                "advisor": {}
+            },
+            "expert": {
+                "analyst": {}
+            },
+            "male": {},
+            "female": {},
+            "teacher": {},
+            "student": {}
+        },
+        "organization": {
+            "agency": {},
+            "company": {},
+            "department": {},
+            "airline": {},
+            "government": {},
+            "authority": {},
+            "hospital": {},
+            "bank": {},
+            "school": {},
+            "association": {},
+            "corporation": {}
+        },
+        "group": {
+            "army": {},
+            "team": {}
+        },
+        "location": {
+            "place": {
+                "airport": {},
+                "building": {},
+                "cemetery": {},
+                "park": {},
+                "stadium": {}
+            },
+            "geographical": {
+                "city": {},
+                "country": {},
+                "county": {},
+                "sea": {},
+                "island": {},
+                "mountain": {},
+                "volcano": {},
+                "river": {},
+                "ocean": {},
+                "forest": {}
+            }
+        },
+        "object": {
+            "tool": {
+                "hammer": {}
+            },
+            "item": {
+                "food_stamp": {},
+                "award": {}
+            },
+            "weapon": {
+                "gun": {
+                    "assault_rifle": {}
+                },
+                "assault_weapon": {}
+            },
+            "vehicle": {
+                "airplane": {},
+                "car": {},
+                "automobile": {}
+            },
+            "technology": {
+                "computer": {},
+                "tablet": {}
+            },
+            "instrument": {
+                "guitar": {},
+                "piano": {}
+            },
+            "furniture": {
+                "chair": {},
+                "table": {}
+            },
+            "appliance": {
+                "fridge": {},
+                "oven": {}
+            },
+            "device": {
+                "phone": {},
+                "camera": {}
+            },
+            "clothing": {
+                "shirt": {},
+                "pants": {}
+            }
+        },
+        "living_thing": {
+            "animal": {},
+            "plant": {},
+            "bird": {},
+            "insect": {}
+        },
+        "dead_thing": {
+            "dead_horse": {}
+        },
+        "institution": {
+            "academic": {
+                "school": {
+                    "university": {}
+                }
+            }
+        },
+        "nation": {
+            "country": {}
+        }
+    },
+    "event": {
+        "accident": {},
+        "attack": {},
+        "conflict": {},
+        "political": {
+            "election": {}
+        },
+        "contest": {},
+        "festival": {},
+        "ceremony": {},
+        "conference": {},
+        "concert": {},
+        "sports_event": {},
+        "meeting": {}
+    },
+    "subject": {
+        "science": {
+            "chemistry": {},
+            "biology": {},
+            "disease": {},
+            "physics": {},
+            "mathematics": {}
+        },
+        "education": {
+            "degree": {}
+        },
+        "art": {},
+        "history": {},
+        "philosophy": {}
+    },
+    "action": {
+        "help": {},
+        "broadcast": {}
+    },
+    "industry": {
+        "business": {
+            "company": {}
+        },
+        "entertainment": {
+            "movie": {},
+            "music": {}
+        },
+        "service": {},
+        "technology": {},
+        "healthcare": {},
+        "retail": {}
+    },
+    "media": {},
+    "time": {},
+    "idea": {
+        "yes": {},
+        "color": {
+            "red": {
+                "cherry_red": {}
+            },
+            "blue": {
+                "baby_blue": {}
+            }
+        },
+        "death_wish": {},
+        "good": {},
+        "bad": {},
+        "concept": {}
+    },
+    "illness": {
+        "disease": {
+            "cancer": {
+                "breast_cancer": {},
+                "lung_cancer": {}
+            }
+        },
+        "infection": {},
+        "sickness": {}
+    }
+}

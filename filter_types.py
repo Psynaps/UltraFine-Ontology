@@ -43,6 +43,27 @@ def prune_ontology(ontology, not_in_file):
         del ontology[key]
 
 
+current_ontology = set()
+
+
+# function to take in ontology and count total number of keys recursively
+def count_keys(ontology):
+    count = 0
+    for key, value in ontology.items():
+        count += 1
+        if key not in current_ontology:
+            current_ontology.add(key)
+        else:
+            print(f"Duplicate key: {key}")
+        if isinstance(value, dict):
+            count += count_keys(value)
+        elif isinstance(value, list):
+            for item in value:
+                if isinstance(item, dict):
+                    count += count_keys(item)
+    return count
+
+
 # Read in the ontology
 with open("working_ontology.json", "r") as f:
     ontology = json.load(f)
@@ -65,6 +86,7 @@ with open("types_left_to_add.txt", "w") as f:
 
 # Check for types in ontology but not in file
 not_in_file = []
+print(len(types_set))
 check_type_in_file(ontology, types_set, not_in_file)
 print(
     f"{len(not_in_file)} types in ontology but not in file. Removing them from ontology"
@@ -77,9 +99,16 @@ prune_ontology(ontology, not_in_file)
 with open("filtered_working_ontology.json", "w") as f:
     json.dump(ontology, f, indent=4)
 
-print(f"Filtered {len(filtered_types)} types.")
+print(f"Filtered {len(not_in_file)} types out.", not_in_file)
+print(f"Types left: {len(filtered_types)} types.")
 print("Filtered types written to types_left_to_add.txt")
 print(f"Pruned ontology written to filtered_working_ontology.json")
+# print(
+#     f"Current ontology contains {10331-len(filtered_types)} types (don't understand why this is different from the number of keys)"
+# )
+print(f"Current ontology contains {count_keys(ontology)} keys")
+
+# print(f"Current ontology contains {len(current_ontology)} keys")
 
 # Then you are able to use filtered_working_ontology.json as a new seed ontology,
 # and the types_left_to_add.txt as a new list of types to add, to further prompt to add new terms

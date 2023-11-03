@@ -88,6 +88,7 @@
             "aid_worker": {},
             "age": {},
             "ambassador": {},
+            "anchor": {},
             "archer": {},
             "art_historian": {},
             "commuter": {},
@@ -105,6 +106,7 @@
             "authority": {},
             "hospital": {},
             "bank": {},
+            "school": {},
             "association": {},
             "corporation": {},
             "club": {},
@@ -116,10 +118,13 @@
             "news_agency": {},
             "stock_exchange": {},
             "administration": {},
+            "amazon": {},
             "affiliation": {},
+            "angel_investor": {},
             "educational_organization": {
                 "comprehensive_school": {}
             },
+            "company_town": {},
             "comprehensive_school": {}
         },
         "group": {
@@ -132,7 +137,8 @@
             "society": {},
             "action_group": {},
             "air_force": {},
-            "age_group": {}
+            "age_group": {},
+            "ancestry": {}
         },
         "location": {
             "place": {
@@ -199,6 +205,10 @@
                 "car": {},
                 "automobile": {}
             },
+            "technology": {
+                "computer": {},
+                "software": {}
+            },
             "instrument": {
                 "guitar": {},
                 "piano": {}
@@ -222,7 +232,6 @@
             "container": {
                 "box": {}
             },
-            "computer": {},
             "currency": {},
             "drug": {},
             "food": {},
@@ -246,6 +255,7 @@
             "anchor": {},
             "apparatus": {},
             "apparel": {},
+            "apple": {},
             "armor": {},
             "arrow": {},
             "art_collection": {},
@@ -254,7 +264,13 @@
             "composite": {},
             "composite_material": {},
             "complex": {},
-            "component": {}
+            "component": {},
+            "computer_architecture": {},
+            "computer_game": {},
+            "computer_graphics": {},
+            "computer_model": {},
+            "computer_program": {},
+            "computer_virus": {}
         },
         "living_thing": {
             "animal": {},
@@ -263,6 +279,7 @@
             "insect": {},
             "fish": {},
             "body_part": {},
+            "apple": {},
             "fruit": {
                 "apple": {}
             }
@@ -278,6 +295,9 @@
             "country": {},
             "american": {}
         },
+        "media": {
+            "film": {}
+        },
         "geography": {
             "active_volcano": {},
             "alpine": {},
@@ -289,6 +309,20 @@
         },
         "health": {
             "alternative_medicine": {}
+        },
+        "language": {
+            "american_spelling": {},
+            "compound": {},
+            "compound_word": {},
+            "computer_language": {},
+            "language_family": {}
+        },
+        "law": {
+            "adoption": {},
+            "alien": {},
+            "amendment": {},
+            "animal_rights": {},
+            "arrest_warrant": {}
         }
     },
     "event": {
@@ -338,6 +372,7 @@
             "artificial_intelligence": {},
             "computing": {
                 "computer_architecture": {},
+                "computer_game": {},
                 "computer_graphics": {},
                 "computer_language": {},
                 "computer_model": {},
@@ -345,8 +380,11 @@
                 "computer_science": {},
                 "computer_system": {},
                 "computer_virus": {},
-                "computer_vision": {}
-            }
+                "computer_vision": {},
+                "computing": {}
+            },
+            "computer_science": {},
+            "computer_vision": {}
         },
         "education": {
             "degree": {}
@@ -367,10 +405,23 @@
             "acquisition": {}
         },
         "literature": {},
+        "geography": {
+            "active_volcano": {},
+            "alpine": {},
+            "amazon": {},
+            "altitude": {},
+            "archipelago": {},
+            "area": {},
+            "area_code": {}
+        },
+        "health": {
+            "alternative_medicine": {}
+        },
         "language": {
             "american_spelling": {},
             "compound": {},
             "compound_word": {},
+            "computer_language": {},
             "language_family": {}
         },
         "law": {
@@ -389,7 +440,7 @@
         "aging": {},
         "agreement": {},
         "aid": {},
-        "religous": {
+        "religion": {
             "angel": {},
             "archbishop": {},
             "archdiocese": {}
@@ -400,7 +451,9 @@
         "broadcast": {}
     },
     "industry": {
-        "business": {},
+        "business": {
+            "company": {}
+        },
         "entertainment": {
             "movie": {},
             "music": {}
@@ -428,6 +481,7 @@
         "air_raid": {},
         "airspace": {},
         "alcohol": {},
+        "amazon": {},
         "commerce": {},
         "commercial": {}
     },
@@ -457,7 +511,8 @@
         "article": {},
         "compilation": {},
         "composition": {},
-        "computer_game": {}
+        "computer_game": {},
+        "computer_graphics": {}
     },
     "time": {
         "afternoon": {},
@@ -502,6 +557,7 @@
         "accuracy": {},
         "achievement": {},
         "act": {},
+        "action": {},
         "activity": {},
         "addiction": {},
         "addition": {},
@@ -525,6 +581,7 @@
         "alternative": {},
         "alpha": {},
         "amount": {},
+        "analysis": {},
         "annual": {},
         "answer": {},
         "appearance": {},
@@ -540,7 +597,8 @@
         "competitor": {},
         "complaint": {},
         "complement": {},
-        "compulsory": {}
+        "compulsory": {},
+        "commercial": {}
     },
     "illness": {
         "disease": {

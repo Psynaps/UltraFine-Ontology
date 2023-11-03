@@ -81,20 +81,7 @@
             "actress": {},
             "administrator": {},
             "admiral": {},
-            "adviser": {},
-            "advocate": {},
-            "agent": {},
-            "aide": {},
-            "aid_worker": {},
-            "age": {},
-            "ambassador": {},
-            "archer": {},
-            "art_historian": {},
-            "commuter": {},
-            "companion": {},
-            "composer": {},
-            "computer_scientist": {},
-            "consumer": {}
+            "adviser": {}
         },
         "organization": {
             "agency": {},
@@ -105,6 +92,7 @@
             "authority": {},
             "hospital": {},
             "bank": {},
+            "school": {},
             "association": {},
             "corporation": {},
             "club": {},
@@ -115,12 +103,7 @@
             "broadcast_station": {},
             "news_agency": {},
             "stock_exchange": {},
-            "administration": {},
-            "affiliation": {},
-            "educational_organization": {
-                "comprehensive_school": {}
-            },
-            "comprehensive_school": {}
+            "administration": {}
         },
         "group": {
             "army": {},
@@ -130,9 +113,7 @@
             "league": {},
             "political_party": {},
             "society": {},
-            "action_group": {},
-            "air_force": {},
-            "age_group": {}
+            "action_group": {}
         },
         "location": {
             "place": {
@@ -145,9 +126,7 @@
                 "temple": {}
             },
             "bridge": {},
-            "facility": {
-                "animal_shelter": {}
-            },
+            "facility": {},
             "hotel": {},
             "library": {},
             "music_school": {},
@@ -167,18 +146,7 @@
             "stage": {},
             "academic_institution": {},
             "academy": {},
-            "access_road": {},
-            "air_base": {},
-            "aircraft": {},
-            "aircraft_carrier": {},
-            "airfield": {},
-            "alley": {},
-            "apartment_building": {},
-            "apartment_complex": {},
-            "arena": {},
-            "art_gallery": {},
-            "archive": {},
-            "company_town": {}
+            "access_road": {}
         },
         "object": {
             "tool": {
@@ -198,6 +166,10 @@
                 "airplane": {},
                 "car": {},
                 "automobile": {}
+            },
+            "technology": {
+                "computer": {},
+                "software": {}
             },
             "instrument": {
                 "guitar": {},
@@ -222,7 +194,6 @@
             "container": {
                 "box": {}
             },
-            "computer": {},
             "currency": {},
             "drug": {},
             "food": {},
@@ -238,23 +209,7 @@
             "subway": {},
             "train": {},
             "action_figure": {},
-            "address_book": {},
-            "agenda": {},
-            "alarm_clock": {},
-            "ammunition": {},
-            "altar": {},
-            "anchor": {},
-            "apparatus": {},
-            "apparel": {},
-            "armor": {},
-            "arrow": {},
-            "art_collection": {},
-            "artillery": {},
-            "compact_car": {},
-            "composite": {},
-            "composite_material": {},
-            "complex": {},
-            "component": {}
+            "address_book": {}
         },
         "living_thing": {
             "animal": {},
@@ -262,10 +217,7 @@
             "bird": {},
             "insect": {},
             "fish": {},
-            "body_part": {},
-            "fruit": {
-                "apple": {}
-            }
+            "body_part": {}
         },
         "institution": {
             "academic": {
@@ -275,20 +227,18 @@
             }
         },
         "nation": {
-            "country": {},
-            "american": {}
+            "country": {}
+        },
+        "media": {
+            "film": {}
         },
         "geography": {
-            "active_volcano": {},
-            "alpine": {},
-            "amazon": {},
-            "altitude": {},
-            "archipelago": {},
-            "area": {},
-            "area_code": {}
+            "active_volcano": {}
         },
-        "health": {
-            "alternative_medicine": {}
+        "health": {},
+        "language": {},
+        "law": {
+            "adoption": {}
         }
     },
     "event": {
@@ -316,10 +266,8 @@
     "subject": {
         "science": {
             "chemistry": {},
-            "biology": {
-                "ancestry": {},
-                "animal_fat": {}
-            },
+            "biology": {},
+            "disease": {},
             "physics": {},
             "mathematics": {},
             "measurement": {
@@ -327,109 +275,53 @@
                     "acre": {}
                 }
             },
-            "physical": {},
-            "air": {},
-            "algorithm": {},
-            "aluminum": {},
-            "analysis": {},
-            "angle": {},
-            "arc": {},
-            "arch": {},
-            "artificial_intelligence": {},
-            "computing": {
-                "computer_architecture": {},
-                "computer_graphics": {},
-                "computer_language": {},
-                "computer_model": {},
-                "computer_program": {},
-                "computer_science": {},
-                "computer_system": {},
-                "computer_virus": {},
-                "computer_vision": {}
-            }
+            "physical": {}
         },
         "education": {
             "degree": {}
         },
-        "art": {
-            "architecture": {}
-        },
-        "history": {
-            "ancient": {},
-            "apartheid": {}
-        },
+        "art": {},
+        "history": {},
         "philosophy": {},
-        "psychology": {
-            "anger": {},
-            "anxiety": {}
-        },
+        "psychology": {},
         "economics": {
             "acquisition": {}
         },
         "literature": {},
-        "language": {
-            "american_spelling": {},
-            "compound": {},
-            "compound_word": {},
-            "language_family": {}
+        "geography": {
+            "active_volcano": {}
         },
+        "health": {},
+        "language": {},
         "law": {
-            "adoption": {},
-            "alien": {},
-            "amendment": {},
-            "animal_rights": {},
-            "arrest_warrant": {}
+            "adoption": {}
         },
         "treatment": {},
         "abortion": {},
         "academic_discipline": {},
         "accent": {},
         "accounting": {},
-        "acid": {},
-        "aging": {},
-        "agreement": {},
-        "aid": {},
-        "religous": {
-            "angel": {},
-            "archbishop": {},
-            "archdiocese": {}
-        }
+        "acid": {}
     },
     "action": {
         "help": {},
         "broadcast": {}
     },
     "industry": {
-        "business": {},
+        "business": {
+            "company": {}
+        },
         "entertainment": {
             "movie": {},
             "music": {}
         },
         "service": {},
-        "technology": {
-            "analog": {},
-            "application": {},
-            "application_program": {},
-            "application_software": {}
-        },
+        "technology": {},
         "healthcare": {},
         "retail": {},
-        "finance": {
-            "angel_investor": {}
-        },
+        "finance": {},
         "agriculture": {},
-        "manufacturing": {},
-        "aerospace": {},
-        "affiliate": {},
-        "air_carrier": {},
-        "aircraft_engine": {},
-        "airliner": {},
-        "air_navigation": {},
-        "air_raid": {},
-        "airspace": {},
-        "alcohol": {},
-        "commerce": {},
-        "commercial": {}
+        "manufacturing": {}
     },
     "media": {
         "news": {},
@@ -445,24 +337,9 @@
         "adaptation": {},
         "advertisement": {},
         "advertising": {},
-        "adventure_game": {},
-        "airing": {},
-        "album": {},
-        "alternative_country": {},
-        "alternative_rock": {},
-        "animation": {},
-        "anime": {},
-        "anthem": {},
-        "art_film": {},
-        "article": {},
-        "compilation": {},
-        "composition": {},
-        "computer_game": {}
+        "adventure_game": {}
     },
-    "time": {
-        "afternoon": {},
-        "anniversary": {}
-    },
+    "time": {},
     "idea": {
         "yes": {},
         "color": {
@@ -502,6 +379,7 @@
         "accuracy": {},
         "achievement": {},
         "act": {},
+        "action": {},
         "activity": {},
         "addiction": {},
         "addition": {},
@@ -510,37 +388,7 @@
         "advance": {},
         "advancement": {},
         "adventure": {},
-        "advice": {},
-        "affair": {},
-        "aftermath": {},
-        "aggregate": {},
-        "aim": {},
-        "advisory": {},
-        "advocacy": {},
-        "alarm": {},
-        "alert": {},
-        "alliance": {},
-        "allocation": {},
-        "ally": {},
-        "alternative": {},
-        "alpha": {},
-        "amount": {},
-        "annual": {},
-        "answer": {},
-        "appearance": {},
-        "appointment": {},
-        "appreciation": {},
-        "approach": {},
-        "approval": {},
-        "arrangement": {},
-        "array": {},
-        "argument": {},
-        "comparison": {},
-        "competition": {},
-        "competitor": {},
-        "complaint": {},
-        "complement": {},
-        "compulsory": {}
+        "advice": {}
     },
     "illness": {
         "disease": {
