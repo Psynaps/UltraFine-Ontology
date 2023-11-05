@@ -1,0 +1,1898 @@
+{
+    "Entity": {
+        "Object": {
+            "Physical Object": {
+                "Living Beings": {
+                    "Humans": {
+                        "By Demographics": {
+                            "Children": {
+                                "Infants": {},
+                                "Toddlers": {},
+                                "School Age": {}
+                            },
+                            "Adults": {
+                                "Young Adults": {},
+                                "Middle-Aged Adults": {},
+                                "Senior Adults": {}
+                            },
+                            "Elderly": {
+                                "Retirees": {},
+                                "Elderly with Assistance Needs": {}
+                            }
+                        },
+                        "By Occupation": {
+                            "Healthcare Professional": {
+                                "Doctors": {
+                                    "General Practitioners": {},
+                                    "Specialists": {}
+                                },
+                                "Nurses": {},
+                                "Paramedics": {}
+                            },
+                            "Educator": {
+                                "Teachers": {},
+                                "Professors": {},
+                                "Tutors": {}
+                            },
+                            "Engineer": {
+                                "Mechanical Engineers": {},
+                                "Software Engineers": {},
+                                "Civil Engineers": {}
+                            }
+                        },
+                        "By Role": {
+                            "Consumer": {
+                                "Online Shoppers": {},
+                                "Retail Shoppers": {}
+                            },
+                            "Citizen": {
+                                "Voters": {},
+                                "Community Members": {}
+                            },
+                            "Leader": {
+                                "Political Leaders": {},
+                                "Community Leaders": {},
+                                "Business Leaders": {}
+                            }
+                        }
+                    },
+                    "Animals": {
+                        "Domestic": {
+                            "Pets": {
+                                "Dogs": {
+                                    "Sporting Group": {},
+                                    "Working Group": {},
+                                    "Toy Group": {}
+                                },
+                                "Cats": {
+                                    "Longhair Breeds": {},
+                                    "Shorthair Breeds": {}
+                                },
+                                "Birds": {
+                                    "Parrots": {},
+                                    "Canaries": {},
+                                    "Finches": {}
+                                }
+                            },
+                            "Farm Animals": {
+                                "Cattle": {
+                                    "Dairy Breeds": {},
+                                    "Beef Breeds": {}
+                                },
+                                "Poultry": {
+                                    "Chickens": {
+                                        "Layers": {},
+                                        "Broilers": {}
+                                    },
+                                    "Ducks": {},
+                                    "Geese": {}
+                                },
+                                "Swine": {
+                                    "Piglets": {},
+                                    "Sows": {},
+                                    "Boars": {}
+                                }
+                            }
+                        },
+                        "Wild": {
+                            "Mammals": {
+                                "Carnivores": {
+                                    "Felines": {},
+                                    "Canines": {}
+                                },
+                                "Herbivores": {
+                                    "Bovines": {},
+                                    "Equines": {}
+                                }
+                            },
+                            "Birds": {
+                                "Raptors": {
+                                    "Eagles": {},
+                                    "Hawks": {}
+                                },
+                                "Songbirds": {
+                                    "Finches": {},
+                                    "Warblers": {}
+                                }
+                            },
+                            "Reptiles": {
+                                "Snakes": {
+                                    "Venomous": {},
+                                    "Non-Venomous": {}
+                                },
+                                "Lizards": {
+                                    "Geckos": {},
+                                    "Iguanas": {}
+                                }
+                            }
+                        }
+                    },
+                    "Plants": {
+                        "Flowering": {
+                            "Trees": {
+                                "Deciduous": {},
+                                "Evergreen": {}
+                            },
+                            "Shrubs": {
+                                "Ornamental": {},
+                                "Functional": {}
+                            },
+                            "Herbs": {
+                                "Culinary": {},
+                                "Medicinal": {}
+                            }
+                        },
+                        "Non-Flowering": {
+                            "Ferns": {
+                                "Tree Ferns": {},
+                                "Ground Ferns": {}
+                            },
+                            "Mosses": {
+                                "Peat Mosses": {},
+                                "Granite Mosses": {}
+                            },
+                            "Algae": {
+                                "Green Algae": {},
+                                "Brown Algae": {}
+                            }
+                        }
+                    }
+                },
+                "Non-living Beings": {
+                    "Natural Objects": {
+                        "Geological Formations": {
+                            "Mountains": {},
+                            "Valleys": {},
+                            "Plains": {},
+                            "Plateaus": {}
+                        },
+                        "Bodies of Water": {
+                            "Oceans": {},
+                            "Rivers": {},
+                            "Lakes": {},
+                            "Glaciers": {}
+                        },
+                        "Celestial Bodies": {
+                            "Stars": {},
+                            "Planets": {},
+                            "Asteroids": {},
+                            "Comets": {}
+                        },
+                        "Minerals": {
+                            "Crystals": {},
+                            "Rocks": {},
+                            "Precious Stones": {},
+                            "Metal Ores": {}
+                        }
+                    },
+                    "Artificial Objects": {
+                        "Buildings & Structures": {
+                            "Residential": {},
+                            "Commercial": {},
+                            "Industrial": {},
+                            "Monuments": {}
+                        },
+                        "Vehicles": {
+                            "Land": {
+                                "Cars": {},
+                                "Trains": {},
+                                "Motorcycles": {}
+                            },
+                            "Air": {
+                                "Aeroplanes": {},
+                                "Helicopters": {},
+                                "Drones": {}
+                            },
+                            "Water": {
+                                "Ships": {},
+                                "Boats": {},
+                                "Submarines": {}
+                            },
+                            "Space": {
+                                "Spacecraft": {},
+                                "Satellites": {}
+                            }
+                        },
+                        "Technology & Devices": {
+                            "Computing": {
+                                "Desktops": {},
+                                "Laptops": {},
+                                "Tablets": {},
+                                "Servers": {}
+                            },
+                            "Communication": {
+                                "Smartphones": {},
+                                "Radios": {},
+                                "Televisions": {},
+                                "Satellite Communications": {}
+                            },
+                            "Household": {
+                                "Appliances": {},
+                                "Furniture": {},
+                                "Tools": {}
+                            }
+                        },
+                        "Infrastructure": {
+                            "Transport": {
+                                "Roads": {},
+                                "Bridges": {},
+                                "Tunnels": {},
+                                "Airports": {},
+                                "Ports": {}
+                            },
+                            "Utilities": {
+                                "Power Plants": {},
+                                "Water Treatment": {},
+                                "Waste Management": {}
+                            },
+                            "Communications": {
+                                "Internet": {
+                                    "Data Centers": {},
+                                    "Networking Hardware": {}
+                                },
+                                "Postal": {},
+                                "Telecommunications": {
+                                    "Cell Towers": {},
+                                    "Undersea Cables": {}
+                                }
+                            }
+                        }
+                    },
+                    "Cultural Objects": {
+                        "Art": {
+                            "Sculptures": {},
+                            "Paintings": {},
+                            "Installations": {},
+                            "Digital Art": {}
+                        },
+                        "Literature": {
+                            "Books": {},
+                            "Manuscripts": {},
+                            "Magazines": {},
+                            "Online Publications": {}
+                        },
+                        "Musical Instruments": {
+                            "String Instruments": {},
+                            "Wind Instruments": {},
+                            "Percussion Instruments": {},
+                            "Electronic Instruments": {}
+                        },
+                        "Historical Artifacts": {
+                            "Tools & Weapons": {},
+                            "Clothing & Jewelry": {},
+                            "Coins & Medals": {},
+                            "Fossils": {}
+                        }
+                    },
+                    "Consumer Goods": {
+                        "Food & Beverage": {
+                            "Packaged Foods": {},
+                            "Beverages": {},
+                            "Fresh Produce": {},
+                            "Confectionery": {}
+                        },
+                        "Clothing & Apparel": {
+                            "Garments": {},
+                            "Footwear": {},
+                            "Accessories": {},
+                            "Jewelry": {}
+                        },
+                        "Electronics": {
+                            "Consumer Electronics": {},
+                            "Personal Gadgets": {},
+                            "Audio & Video Equipment": {},
+                            "Gaming Consoles": {}
+                        },
+                        "Health & Beauty": {
+                            "Personal Care Products": {},
+                            "Cosmetics": {},
+                            "Pharmaceuticals": {},
+                            "Wellness Products": {}
+                        }
+                    }
+                }
+            },
+            "Abstract Object": {
+                "Mathematical": {
+                    "Numbers": {
+                        "Real": {},
+                        "Complex": {},
+                        "Natural": {}
+                    },
+                    "Shapes": {
+                        "2D": {
+                            "Circle": {},
+                            "Square": {},
+                            "Triangle": {}
+                        },
+                        "3D": {
+                            "Sphere": {},
+                            "Cube": {},
+                            "Pyramid": {}
+                        }
+                    },
+                    "Equations": {
+                        "Algebraic": {},
+                        "Differential": {},
+                        "Statistical": {}
+                    }
+                },
+                "Linguistic": {
+                    "Words": {
+                        "Nouns": {},
+                        "Verbs": {},
+                        "Adjectives": {}
+                    },
+                    "Phrases": {
+                        "Idioms": {},
+                        "Proverbs": {},
+                        "Quotes": {}
+                    },
+                    "Languages": {
+                        "Indo-European": {
+                            "English": {},
+                            "Spanish": {},
+                            "German": {}
+                        },
+                        "Sino-Tibetan": {
+                            "Chinese": {},
+                            "Tibetan": {}
+                        },
+                        "Afro-Asiatic": {
+                            "Arabic": {},
+                            "Hebrew": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Time": {
+            "Absolute Time": {
+                "Chronological": {
+                    "Eras": {
+                        "Prehistoric": {},
+                        "Ancient": {},
+                        "Medieval": {},
+                        "Modern": {}
+                    },
+                    "Years": {
+                        "Decades": {},
+                        "Centuries": {},
+                        "Millennia": {}
+                    },
+                    "Dates": {
+                        "Holidays": {},
+                        "Historical Events": {},
+                        "Personal Significance": {}
+                    }
+                },
+                "Cyclical": {
+                    "Seasons": {
+                        "Spring": {},
+                        "Summer": {},
+                        "Autumn": {},
+                        "Winter": {}
+                    },
+                    "Months": {
+                        "January": {},
+                        "February": {},
+                        "March": {},
+                        "April": {},
+                        "May": {},
+                        "June": {},
+                        "July": {},
+                        "August": {},
+                        "September": {},
+                        "October": {},
+                        "November": {},
+                        "December": {}
+                    },
+                    "Days of the Week": {
+                        "Weekdays": {
+                            "Monday": {},
+                            "Tuesday": {},
+                            "Wednesday": {},
+                            "Thursday": {},
+                            "Friday": {}
+                        },
+                        "Weekend": {
+                            "Saturday": {},
+                            "Sunday": {}
+                        }
+                    }
+                }
+            },
+            "Relative Time": {
+                "Duration": {
+                    "Milliseconds": {},
+                    "Seconds": {},
+                    "Minutes": {},
+                    "Hours": {},
+                    "Days": {},
+                    "Weeks": {},
+                    "Months": {},
+                    "Years": {}
+                },
+                "Sequence": {
+                    "Before": {},
+                    "After": {},
+                    "Simultaneous": {}
+                }
+            }
+        },
+        "Location": {
+            "Geographic Location": {
+                "Natural Features": {
+                    "Mountains": {
+                        "Mountain Ranges": {},
+                        "Peaks": {},
+                        "Volcanoes": {}
+                    },
+                    "Water Bodies": {
+                        "Seas": {},
+                        "Lakes": {},
+                        "Rivers": {},
+                        "Oceans": {}
+                    },
+                    "Landforms": {
+                        "Islands": {},
+                        "Valleys": {},
+                        "Plains": {},
+                        "Deserts": {}
+                    },
+                    "Forest and Vegetation": {
+                        "Rainforests": {},
+                        "Woodlands": {},
+                        "Grasslands": {},
+                        "Wetlands": {}
+                    }
+                },
+                "Administrative Regions": {
+                    "Continents": {
+                        "Africa": {
+                            "Subregions": {
+                                "North Africa": {},
+                                "Sub-Saharan Africa": {
+                                    "East Africa": {},
+                                    "West Africa": {},
+                                    "Central Africa": {},
+                                    "Southern Africa": {}
+                                }
+                            },
+                            "Countries": {
+                                "Nigeria": {},
+                                "Egypt": {},
+                                "South Africa": {},
+                                "Kenya": {},
+                                "Ethiopia": {},
+                                "Ghana": {},
+                                "Morocco": {},
+                                "Uganda": {},
+                                "Algeria": {},
+                                "Sudan": {}
+                            }
+                        },
+                        "Antarctica": {
+                            "Research Stations": {
+                                "McMurdo Station": {},
+                                "Amundsen-Scott South Pole Station": {},
+                                "Scott Base": {}
+                            }
+                        },
+                        "Asia": {
+                            "Subregions": {
+                                "Central Asia": {},
+                                "East Asia": {},
+                                "South Asia": {},
+                                "Southeast Asia": {},
+                                "Western Asia": {}
+                            },
+                            "Countries": {
+                                "China": {},
+                                "India": {},
+                                "Indonesia": {},
+                                "Pakistan": {},
+                                "Bangladesh": {},
+                                "Japan": {},
+                                "Philippines": {},
+                                "Vietnam": {},
+                                "Turkey": {},
+                                "Iran": {}
+                            }
+                        },
+                        "Europe": {
+                            "Subregions": {
+                                "Northern Europe": {},
+                                "Western Europe": {},
+                                "Eastern Europe": {},
+                                "Southern Europe": {}
+                            },
+                            "Countries": {
+                                "Germany": {},
+                                "France": {},
+                                "United Kingdom": {},
+                                "Italy": {},
+                                "Spain": {},
+                                "Poland": {},
+                                "Romania": {},
+                                "Netherlands": {},
+                                "Belgium": {},
+                                "Greece": {}
+                            }
+                        },
+                        "North America": {
+                            "Subregions": {
+                                "Canada": {},
+                                "United States": {},
+                                "Mexico": {},
+                                "Central America": {},
+                                "Caribbean": {}
+                            },
+                            "Countries": {
+                                "Canada": {},
+                                "United States": {},
+                                "Mexico": {},
+                                "Guatemala": {},
+                                "Cuba": {},
+                                "Haiti": {},
+                                "Dominican Republic": {},
+                                "Honduras": {},
+                                "Nicaragua": {},
+                                "Costa Rica": {}
+                            }
+                        },
+                        "Australia": {
+                            "Subregions": {
+                                "Australia": {},
+                                "New Zealand": {},
+                                "Melanesia": {},
+                                "Micronesia": {},
+                                "Polynesia": {}
+                            },
+                            "Countries": {
+                                "Australia": {},
+                                "Papua New Guinea": {},
+                                "New Zealand": {},
+                                "Fiji": {},
+                                "Solomon Islands": {},
+                                "Vanuatu": {},
+                                "Samoa": {},
+                                "Kiribati": {},
+                                "Tonga": {},
+                                "Marshall Islands": {}
+                            }
+                        },
+                        "South America": {
+                            "Subregions": {
+                                "Andean States": {},
+                                "Southern Cone": {},
+                                "Brazil": {},
+                                "The Guianas": {}
+                            },
+                            "Countries": {
+                                "Brazil": {},
+                                "Argentina": {},
+                                "Colombia": {},
+                                "Venezuela": {},
+                                "Peru": {},
+                                "Chile": {},
+                                "Ecuador": {},
+                                "Bolivia": {},
+                                "Paraguay": {},
+                                "Uruguay": {}
+                            }
+                        }
+                    },
+                    "Countries": {
+                        "By Continent": {
+                            "African Countries": {
+                                "Nigeria": {},
+                                "Egypt": {},
+                                "South Africa": {}
+                            },
+                            "Asian Countries": {
+                                "China": {},
+                                "India": {},
+                                "Japan": {}
+                            },
+                            "European Countries": {
+                                "Germany": {},
+                                "France": {},
+                                "United Kingdom": {}
+                            },
+                            "North American Countries": {
+                                "Canada": {},
+                                "United States": {},
+                                "Mexico": {}
+                            },
+                            "Oceania Countries": {
+                                "Australia": {},
+                                "New Zealand": {}
+                            },
+                            "South American Countries": {
+                                "Brazil": {},
+                                "Argentina": {},
+                                "Colombia": {}
+                            }
+                        }
+                    },
+                    "States and Provinces": {
+                        "USA States": {
+                            "California": {
+                                "Los Angeles": {},
+                                "San Francisco": {},
+                                "San Diego": {}
+                            },
+                            "Texas": {
+                                "Houston": {},
+                                "Dallas": {},
+                                "Austin": {}
+                            },
+                            "New York": {
+                                "New York City": {},
+                                "Buffalo": {},
+                                "Rochester": {}
+                            },
+                            "Florida": {
+                                "Miami": {},
+                                "Orlando": {},
+                                "Tampa": {}
+                            },
+                            "Illinois": {
+                                "Chicago": {},
+                                "Springfield": {},
+                                "Peoria": {}
+                            }
+                        },
+                        "Canadian Provinces": {
+                            "Ontario": {
+                                "Toronto": {},
+                                "Ottawa": {},
+                                "Mississauga": {}
+                            },
+                            "Quebec": {
+                                "Montreal": {},
+                                "Quebec City": {},
+                                "Laval": {}
+                            },
+                            "British Columbia": {
+                                "Vancouver": {},
+                                "Victoria": {},
+                                "Surrey": {}
+                            },
+                            "Alberta": {
+                                "Calgary": {},
+                                "Edmonton": {},
+                                "Red Deer": {}
+                            },
+                            "Manitoba": {
+                                "Winnipeg": {},
+                                "Brandon": {},
+                                "Steinbach": {}
+                            }
+                        },
+                        "Indian States": {
+                            "Uttar Pradesh": {
+                                "Lucknow": {},
+                                "Kanpur": {},
+                                "Varanasi": {}
+                            },
+                            "Maharashtra": {
+                                "Mumbai": {},
+                                "Pune": {},
+                                "Nagpur": {}
+                            },
+                            "Bihar": {
+                                "Patna": {},
+                                "Gaya": {},
+                                "Bhagalpur": {}
+                            },
+                            "West Bengal": {
+                                "Kolkata": {},
+                                "Darjeeling": {},
+                                "Siliguri": {}
+                            },
+                            "Karnataka": {
+                                "Bengaluru": {},
+                                "Mysore": {},
+                                "Hubli-Dharwad": {}
+                            }
+                        },
+                        "Australian States and Territories": {
+                            "New South Wales": {
+                                "Sydney": {},
+                                "Newcastle": {},
+                                "Wollongong": {}
+                            },
+                            "Victoria": {
+                                "Melbourne": {},
+                                "Geelong": {},
+                                "Ballarat": {}
+                            },
+                            "Queensland": {
+                                "Brisbane": {},
+                                "Gold Coast": {},
+                                "Cairns": {}
+                            },
+                            "Western Australia": {
+                                "Perth": {},
+                                "Mandurah": {},
+                                "Bunbury": {}
+                            },
+                            "South Australia": {
+                                "Adelaide": {},
+                                "Mount Gambier": {},
+                                "Whyalla": {}
+                            }
+                        }
+                    },
+                    "Cities and Towns": {
+                        "Capital Cities": {
+                        },
+                        "Metropolitan Areas": {
+                        },
+                        "Small Towns": {
+                        },
+                        "Villages": {
+                        }
+                    }
+                },
+                "Man-Made Features": {
+                    "Infrastructure": {
+                        "Airports": {},
+                        "Ports": {},
+                        "Railway Stations": {},
+                        "Bridges": {}
+                    },
+                    "Cultural Sites": {
+                        "Historical Sites": {},
+                        "Monuments": {},
+                        "Museums": {},
+                        "Religious Sites": {}
+                    },
+                    "Commercial Areas": {
+                        "Shopping Districts": {},
+                        "Business Centers": {},
+                        "Industrial Zones": {}
+                    },
+                    "Residential Areas": {
+                        "Suburbs": {},
+                        "Urban Neighborhoods": {},
+                        "Rural Communities": {},
+                        "Gated Communities": {}
+                    }
+                },
+                "Geopolitical Entities": {
+                    "Economic Blocks": {
+                        "European Union": {
+                            "Eurozone": {},
+                            "Schengen Area": {},
+                            "Outermost Regions": {}
+                        },
+                        "ASEAN": {
+                            "AFTA": {},
+                            "Mekong Basin Development": {},
+                            "ASEAN+3": {}
+                        },
+                        "NAFTA": {
+                            "USMCA": {},
+                            "Sectors": {
+                                "Automotive": {},
+                                "Agriculture": {},
+                                "Textiles": {}
+                            }
+                        },
+                        "APEC": {
+                            "Free Trade Agreements": {},
+                            "Business Facilitation": {},
+                            "Sustainable Development": {}
+                        },
+                        "MERCOSUR": {
+                            "Customs Union": {},
+                            "Structural Convergence Fund": {},
+                            "Citizen's Residence Agreement": {}
+                        }
+                    },
+                    "Political Alliances": {
+                        "NATO": {
+                            "Military Cooperation": {},
+                            "Strategic Concepts": {},
+                            "Partnership for Peace": {}
+                        },
+                        "UN": {
+                            "Security Council": {},
+                            "General Assembly": {},
+                            "Specialized Agencies": {}
+                        },
+                        "African Union": {
+                            "Peace and Security Council": {},
+                            "Pan-African Parliament": {},
+                            "New Partnership for Africa's Development": {}
+                        },
+                        "Commonwealth of Nations": {
+                            "Commonwealth Games": {},
+                            "Commonwealth Foundation": {},
+                            "Commonwealth Secretariat": {}
+                        }
+                    },
+                    "Conflict Zones": {
+                        "War Zones": {
+                            "Syria": {},
+                            "Yemen": {},
+                            "Afghanistan": {}
+                        },
+                        "Disputed Territories": {
+                            "Kashmir": {
+                                "India Claimed": {},
+                                "Pakistan Claimed": {},
+                                "China Claimed": {}
+                            },
+                            "Taiwan Strait": {
+                                "Taiwan": {},
+                                "People's Republic of China": {}
+                            },
+                            "South China Sea": {
+                                "Paracel Islands": {},
+                                "Spratly Islands": {}
+                            }
+                        },
+                        "Occupied Territories": {
+                            "Palestinian Territories": {
+                                "West Bank": {},
+                                "Gaza Strip": {}
+                            },
+                            "Crimea": {
+                                "Russian Administration": {},
+                                "Ukrainian Claim": {}
+                            }
+                        }
+                    },
+                    "Special Regions": {
+                        "Autonomous Regions": {
+                            "Hong Kong": {},
+                            "Tibet": {},
+                            "Greenland": {}
+                        },
+                        "Overseas Territories": {
+                            "Falkland Islands": {},
+                            "Gibraltar": {},
+                            "French Polynesia": {}
+                        },
+                        "International Cities": {
+                            "Brussels": {
+                                "European Commission": {},
+                                "European Parliament": {}
+                            },
+                            "Geneva": {
+                                "United Nations": {},
+                                "Red Cross": {}
+                            },
+                            "New York City": {
+                                "United Nations Headquarters": {},
+                                "Consulates": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Astronomical Location": {
+                "Celestial Bodies": {
+                    "Stars": {
+                        "By Size": {
+                            "Red Giants": {},
+                            "White Dwarfs": {},
+                            "Neutron Stars": {}
+                        },
+                        "By Brightness": {
+                            "Supergiants": {},
+                            "Main Sequence": {},
+                            "Dwarfs": {}
+                        }
+                    },
+                    "Moons": {}
+                },
+                "Man-Made Objects": {
+                    "Satellites": {},
+                    "Space Stations": {}
+                }
+            }
+        },
+        "Organization": {
+            "Commercial": {
+                "Corporations": {
+                    "Multinational": {},
+                    "Public": {},
+                    "Private": {}
+                },
+                "Small Businesses": {
+                    "Family-Owned": {},
+                    "Startups": {},
+                    "Franchises": {}
+                },
+                "Partnerships": {
+                    "General Partnerships": {},
+                    "Limited Partnerships": {},
+                    "Joint Ventures": {}
+                }
+            },
+            "Educational": {
+                "Schools": {
+                    "Primary": {
+                        "Public": {},
+                        "Private": {},
+                        "Charter": {}
+                    },
+                    "Secondary": {
+                        "Public": {},
+                        "Private": {},
+                        "Vocational": {}
+                    },
+                    "Tertiary": {
+                        "Universities": {},
+                        "Colleges": {},
+                        "Technical Institutes": {}
+                    }
+                },
+                "Research Institutions": {
+                    "Government-Funded": {},
+                    "Private": {},
+                    "Corporate": {}
+                }
+            },
+            "Governmental": {
+                "Federal": {
+                    "Executive Branch": {},
+                    "Legislative Branch": {},
+                    "Judicial Branch": {}
+                },
+                "State": {
+                    "Governor's Office": {},
+                    "State Legislature": {},
+                    "State Courts": {}
+                },
+                "Local": {
+                    "City Hall": {},
+                    "County Government": {},
+                    "Municipal Agencies": {}
+                }
+            },
+            "Non-Profit": {
+                "Charities": {
+                    "Health": {},
+                    "Education": {},
+                    "Environment": {}
+                },
+                "NGOs": {
+                    "Human Rights": {},
+                    "Disaster Relief": {},
+                    "Economic Development": {}
+                },
+                "Foundations": {
+                    "Private": {},
+                    "Community": {},
+                    "Corporate": {}
+                }
+            }
+        },
+        "Event": {
+            "Natural Event": {
+                "Weather": {
+                    "Storms": {},
+                    "Heatwaves": {},
+                    "Cold Snaps": {}
+                },
+                "Geological": {
+                    "Earthquakes": {},
+                    "Volcanic Eruptions": {},
+                    "Landslides": {}
+                }
+            },
+            "Human-Created Event": {
+                "Political": {
+                    "Elections": {},
+                    "Treaties": {},
+                    "Protests": {}
+                },
+                "Cultural": {
+                    "Festivals": {},
+                    "Concerts": {},
+                    "Exhibitions": {}
+                },
+                "Technological": {
+                    "Product Launches": {},
+                    "Innovations": {},
+                    "Breakthroughs": {}
+                }
+            }
+        },
+        "Action": {
+            "Physical Action": {
+                "Movement": {
+                    "Walking": {
+                        "Hiking": {},
+                        "Strolling": {},
+                        "Marching": {}
+                    },
+                    "Running": {
+                        "Sprinting": {},
+                        "Jogging": {},
+                        "Racing": {}
+                    },
+                    "Swimming": {
+                        "Freestyle": {},
+                        "Butterfly Stroke": {},
+                        "Breaststroke": {}
+                    }
+                },
+                "Manipulation": {
+                    "Lifting": {
+                        "Weightlifting": {},
+                        "Hoisting": {},
+                        "Elevating": {}
+                    },
+                    "Pushing": {
+                        "Shoving": {},
+                        "Pressing": {},
+                        "Compressing": {}
+                    },
+                    "Pulling": {
+                        "Tugging": {},
+                        "Dragging": {},
+                        "Hauling": {}
+                    }
+                },
+                "Creation": {
+                    "Building": {
+                        "Construction": {},
+                        "Assembly": {},
+                        "Craftsmanship": {}
+                    },
+                    "Cooking": {
+                        "Baking": {},
+                        "Frying": {},
+                        "Steaming": {}
+                    },
+                    "Crafting": {
+                        "Knitting": {},
+                        "Woodworking": {},
+                        "Pottery": {}
+                    }
+                }
+            },
+            "Mental Action": {
+                "Cognitive Processes": {
+                    "Thinking": {
+                        "Analyzing": {},
+                        "Judging": {},
+                        "Synthesizing": {}
+                    },
+                    "Learning": {
+                        "Studying": {},
+                        "Practicing": {},
+                        "Memorizing": {}
+                    },
+                    "Problem-Solving": {
+                        "Troubleshooting": {},
+                        "Brainstorming": {},
+                        "Decision Making": {}
+                    }
+                },
+                "Emotional Processes": {
+                    "Feeling": {
+                        "Joy": {},
+                        "Sadness": {},
+                        "Anger": {}
+                    },
+                    "Expressing": {
+                        "Writing": {},
+                        "Speaking": {},
+                        "Gesturing": {}
+                    },
+                    "Repressing": {
+                        "Withholding": {},
+                        "Suppressing": {},
+                        "Concealing": {}
+                    }
+                }
+            }
+        },
+        "Subject": {
+            "Academic Subject": {
+                "Sciences": {
+                    "Biology": {
+                        "Zoology": {
+                            "Mammalogy": {
+                                "Marine Mammalogy": {},
+                                "Terrestrial Mammalogy": {},
+                                "Primate Biology": {}
+                            },
+                            "Ornithology": {
+                                "Bird Conservation": {},
+                                "Avian Ecology": {},
+                                "Flight Mechanics": {}
+                            },
+                            "Entomology": {
+                                "Insect Taxonomy": {},
+                                "Pest Control": {},
+                                "Pollination Biology": {}
+                            }
+                        },
+                        "Botany": {
+                            "Phycology": {
+                                "Algal Blooms": {},
+                                "Marine Phycology": {},
+                                "Freshwater Phycology": {}
+                            },
+                            "Bryology": {
+                                "Moss Ecology": {},
+                                "Liverwort Taxonomy": {},
+                                "Bryophyte Conservation": {}
+                            },
+                            "Pteridology": {
+                                "Fern Reproduction": {},
+                                "Fern Ecology": {},
+                                "Fern Taxonomy": {}
+                            }
+                        },
+                        "Microbiology": {
+                            "Virology": {
+                                "Viral Pathogenesis": {},
+                                "Antiviral Therapy": {},
+                                "Viral Evolution": {}
+                            },
+                            "Bacteriology": {
+                                "Bacterial Genetics": {},
+                                "Pathogenic Bacteria": {},
+                                "Environmental Bacteriology": {}
+                            },
+                            "Mycology": {
+                                "Fungal Ecology": {},
+                                "Medical Mycology": {},
+                                "Fungal Genetics": {}
+                            }
+                        }
+                    },
+                    "Physics": {
+                        "Mechanics": {
+                            "Classical Mechanics": {
+                                "Kinematics": {},
+                                "Dynamics": {},
+                                "Statistical Mechanics": {}
+                            },
+                            "Quantum Mechanics": {
+                                "Quantum Field Theory": {},
+                                "Quantum Electrodynamics": {},
+                                "Quantum Computing": {}
+                            }
+                        },
+                        "Thermodynamics": {
+                            "Statistical Thermodynamics": {},
+                            "Chemical Thermodynamics": {},
+                            "Equilibrium Thermodynamics": {}
+                        },
+                        "Electromagnetism": {
+                            "Electrodynamics": {},
+                            "Magnetostatics": {},
+                            "Electromagnetic Theory": {}
+                        }
+                    },
+                    "Chemistry": {
+                        "Organic Chemistry": {
+                            "Stereochemistry": {},
+                            "Organometallic Chemistry": {},
+                            "Polymer Chemistry": {}
+                        },
+                        "Inorganic Chemistry": {
+                            "Coordination Chemistry": {},
+                            "Bioinorganic Chemistry": {},
+                            "Solid State Chemistry": {}
+                        },
+                        "Physical Chemistry": {
+                            "Quantum Chemistry": {},
+                            "Kinetics": {},
+                            "Surface Science": {}
+                        }
+                    }
+                },
+                "Humanities": {
+                    "History": {
+                        "Ancient": {
+                            "Classical Antiquity": {},
+                            "Prehistoric History": {},
+                            "Ancient Civilizations": {}
+                        },
+                        "Medieval": {
+                            "Feudalism": {},
+                            "Medieval Warfare": {},
+                            "Medieval Society": {}
+                        },
+                        "Modern": {
+                            "Industrial Revolution": {},
+                            "Contemporary History": {},
+                            "Post-Colonial Studies": {}
+                        }
+                    },
+                    "Literature": {
+                        "Classics": {
+                            "Greek Literature": {},
+                            "Roman Literature": {},
+                            "Classical Reception": {}
+                        },
+                        "Contemporary": {
+                            "Modernist Literature": {},
+                            "Postmodern Literature": {},
+                            "Digital Literature": {}
+                        },
+                        "World Literature": {
+                            "African Literature": {},
+                            "Asian Literature": {},
+                            "Latin American Literature": {}
+                        }
+                    },
+                    "Philosophy": {
+                        "Ethics": {
+                            "Virtue Ethics": {
+                                "Aristotelian Ethics": {},
+                                "Modern Virtue Ethics": {}
+                            },
+                            "Deontology": {
+                                "Kantian Ethics": {},
+                                "Rights-based Approaches": {}
+                            },
+                            "Consequentialism": {
+                                "Utilitarianism": {},
+                                "Ethical Egoism": {}
+                            }
+                        },
+                        "Logic": {
+                            "Symbolic Logic": {},
+                            "Philosophical Logic": {},
+                            "Mathematical Logic": {}
+                        },
+                        "Metaphysics": {
+                            "Ontology": {
+                                "Existentialism": {},
+                                "Phenomenology": {},
+                                "Process Philosophy": {}
+                            },
+                            "Epistemology": {
+                                "Skepticism": {},
+                                "Rationalism": {},
+                                "Empiricism": {}
+                            },
+                            "Cosmology": {
+                                "Physical Cosmology": {},
+                                "Philosophical Cosmology": {},
+                                "Religious Cosmology": {}
+                            }
+                        }
+                    }
+                },
+                "Social Sciences": {
+                    "Psychology": {
+                        "Clinical": {
+                            "Psychotherapy": {},
+                            "Clinical Neuropsychology": {},
+                            "Child and Adolescent Psychology": {}
+                        },
+                        "Cognitive": {
+                            "Memory": {},
+                            "Perception": {},
+                            "Language Acquisition": {}
+                        },
+                        "Developmental": {
+                            "Lifespan Development": {},
+                            "Cognitive Development": {},
+                            "Social Development": {}
+                        }
+                    },
+                    "Sociology": {
+                        "Criminology": {
+                            "Juvenile Delinquency": {},
+                            "White-collar Crime": {},
+                            "Penology": {}
+                        },
+                        "Demography": {
+                            "Population Studies": {},
+                            "Migration": {},
+                            "Urbanization": {}
+                        },
+                        "Urban": {
+                            "Urban Planning": {},
+                            "Community Development": {},
+                            "Urban Sociology": {}
+                        }
+                    },
+                    "Economics": {
+                        "Microeconomics": {
+                            "Consumer Behavior": {},
+                            "Market Structure": {},
+                            "Game Theory": {}
+                        },
+                        "Macroeconomics": {
+                            "Economic Growth": {},
+                            "Monetary Policy": {},
+                            "Fiscal Policy": {}
+                        },
+                        "Econometrics": {
+                            "Regression Analysis": {},
+                            "Time Series Analysis": {},
+                            "Economic Forecasting": {}
+                        }
+                    }
+                }
+            },
+            "Artistic Subject": {
+                "Visual Arts": {
+                    "Painting": {
+                        "Oil Painting": {
+                            "Portrait Painting": {},
+                            "Landscape Painting": {},
+                            "Abstract Painting": {}
+                        },
+                        "Watercolor": {
+                            "Still Life": {},
+                            "Urban Sketching": {},
+                            "Watercolor Portraiture": {}
+                        },
+                        "Acrylics": {
+                            "Mixed Media": {},
+                            "Acrylic Pouring": {},
+                            "Pop Art": {}
+                        }
+                    },
+                    "Sculpture": {
+                        "Stone Carving": {
+                            "Marble Sculpture": {},
+                            "Limestone Carving": {},
+                            "Granite Sculpture": {}
+                        },
+                        "Bronze Casting": {
+                            "Lost-wax Casting": {},
+                            "Sand Casting": {},
+                            "Figurative Sculpture": {}
+                        },
+                        "Wood Sculpting": {
+                            "Relief Carving": {},
+                            "Whittling": {},
+                            "Chainsaw Carving": {}
+                        }
+                    },
+                    "Photography": {
+                        "Portrait": {
+                            "Studio Photography": {},
+                            "Environmental Portraiture": {},
+                            "Headshots": {}
+                        },
+                        "Landscape": {
+                            "Nature Photography": {},
+                            "Urban Landscape": {},
+                            "Astrophotography": {}
+                        },
+                        "Wildlife": {
+                            "Bird Photography": {},
+                            "Macro Photography": {},
+                            "Underwater Photography": {}
+                        }
+                    },
+                    "Digital Arts": {
+                        "Graphic Design": {
+                            "Branding": {},
+                            "Typography": {},
+                            "Web Design": {}
+                        },
+                        "3D Modeling": {
+                            "Character Design": {},
+                            "Architectural Visualization": {},
+                            "Product Modeling": {}
+                        },
+                        "Animation": {
+                            "2D Animation": {},
+                            "3D Animation": {},
+                            "Motion Graphics": {}
+                        }
+                    }
+                },
+                "Performing Arts": {
+                    "Music": {
+                        "Composition": {
+                            "Film Scoring": {},
+                            "Electronic Music": {},
+                            "Orchestral Composition": {}
+                        },
+                        "Performance": {
+                            "Solo": {
+                                "Piano": {},
+                                "Violin": {},
+                                "Classical Guitar": {}
+                            },
+                            "Ensemble": {
+                                "Chamber Music": {},
+                                "Jazz Band": {},
+                                "Rock Group": {}
+                            }
+                        },
+                        "Music Theory": {
+                            "Harmony": {},
+                            "Counterpoint": {},
+                            "Music Analysis": {}
+                        }
+                    },
+                    "Dance": {
+                        "Ballet": {
+                            "Classical Ballet": {},
+                            "Contemporary Ballet": {},
+                            "Neoclassical Ballet": {}
+                        },
+                        "Contemporary": {
+                            "Modern Dance": {},
+                            "Improvisation": {},
+                            "Dance Theater": {}
+                        },
+                        "Ballroom": {
+                            "Latin Dance": {},
+                            "Standard Ballroom": {},
+                            "Swing Dance": {}
+                        }
+                    },
+                    "Theater": {
+                        "Acting": {
+                            "Method Acting": {},
+                            "Classical Acting": {},
+                            "Physical Theater": {}
+                        },
+                        "Directing": {
+                            "Stage Direction": {},
+                            "Film Direction": {},
+                            "Opera Directing": {}
+                        },
+                        "Playwriting": {
+                            "Dramatic Writing": {},
+                            "Screenwriting": {},
+                            "Storytelling": {}
+                        }
+                    },
+                    "Circus Arts": {
+                        "Acrobatics": {
+                            "Tumbling": {},
+                            "Partner Acrobatics": {},
+                            "Aerial Silks": {}
+                        },
+                        "Clowning": {
+                            "Character Clown": {},
+                            "Physical Comedy": {},
+                            "Circus Clown": {}
+                        },
+                        "Juggling": {
+                            "Ball Juggling": {},
+                            "Club Juggling": {},
+                            "Fire Juggling": {}
+                        }
+                    }
+                },
+                "Literary Arts": {
+                    "Poetry": {
+                        "Lyric": {
+                            "Sonnet": {},
+                            "Haiku": {},
+                            "Free Verse": {}
+                        },
+                        "Narrative": {
+                            "Epic Poetry": {},
+                            "Ballad": {},
+                            "Verse Novel": {}
+                        },
+                        "Epic": {
+                            "Heroic Epic": {},
+                            "Mock Epic": {},
+                            "Modern Epic": {}
+                        }
+                    },
+                    "Prose": {
+                        "Fiction": {
+                            "Novel": {
+                                "Historical Novel": {},
+                                "Science Fiction": {},
+                                "Fantasy": {}
+                            },
+                            "Short Story": {
+                                "Flash Fiction": {},
+                                "Anthology": {},
+                                "Genre Fiction": {}
+                            }
+                        },
+                        "Non-Fiction": {
+                            "Essay": {
+                                "Personal Essay": {},
+                                "Argumentative Essay": {},
+                                "Descriptive Essay": {}
+                            },
+                            "Biography": {
+                                "Autobiography": {},
+                                "Memoir": {},
+                                "Literary Biography": {}
+                            },
+                            "Creative Nonfiction": {
+                                "Travel Writing": {},
+                                "Food Writing": {},
+                                "Nature Writing": {}
+                            }
+                        }
+                    },
+                    "Drama": {
+                        "Tragedy": {
+                            "Greek Tragedy": {},
+                            "Shakespearean Tragedy": {},
+                            "Modern Tragedy": {}
+                        },
+                        "Comedy": {
+                            "Satire": {},
+                            "Romantic Comedy": {},
+                            "Commedia dell'arte": {}
+                        },
+                        "Tragicomedy": {
+                            "Dark Comedy": {},
+                            "Absurdist Fiction": {},
+                            "Dramedy": {}
+                        }
+                    }
+                }
+            },
+            "Professional Subject": {
+                "Engineering": {
+                    "Mechanical Engineering": {
+                        "Thermodynamics": {
+                            "Heat Transfer": {},
+                            "Energy Systems": {},
+                            "Combustion": {}
+                        },
+                        "Mechatronics": {
+                            "Robotics": {},
+                            "Control Systems": {},
+                            "Automation": {}
+                        },
+                        "Fluid Dynamics": {
+                            "Aerodynamics": {},
+                            "Hydraulics": {},
+                            "Computational Fluid Dynamics": {}
+                        }
+                    },
+                    "Electrical Engineering": {
+                        "Signal Processing": {
+                            "Digital Signal Processing": {},
+                            "Image Processing": {},
+                            "Audio Engineering": {}
+                        },
+                        "Power Systems": {
+                            "Renewable Energy": {},
+                            "Smart Grids": {},
+                            "High Voltage Engineering": {}
+                        },
+                        "Microelectronics": {
+                            "Semiconductor Devices": {},
+                            "Integrated Circuits": {},
+                            "VLSI Design": {}
+                        }
+                    },
+                    "Civil Engineering": {
+                        "Structural": {
+                            "Earthquake Engineering": {},
+                            "Bridge Design": {},
+                            "Building Structures": {}
+                        },
+                        "Environmental": {
+                            "Water Resources": {},
+                            "Waste Management": {},
+                            "Environmental Impact Assessment": {}
+                        },
+                        "Transportation": {
+                            "Traffic Engineering": {},
+                            "Highway Design": {},
+                            "Urban Transport Systems": {}
+                        }
+                    },
+                    "Software Engineering": {
+                        "System Architecture": {
+                            "Enterprise Systems": {},
+                            "Cloud Computing": {},
+                            "Microservices": {}
+                        },
+                        "Software Development": {
+                            "Agile Methodologies": {},
+                            "DevOps": {},
+                            "Mobile App Development": {}
+                        },
+                        "Cybersecurity": {
+                            "Cryptology": {},
+                            "Network Security": {},
+                            "Information Assurance": {}
+                        }
+                    }
+                },
+                "Medicine": {
+                    "General Practice": {
+                        "Primary Care": {
+                            "Family Medicine": {},
+                            "Geriatrics": {},
+                            "Pediatrics": {}
+                        },
+                        "Preventive Medicine": {
+                            "Public Health": {},
+                            "Occupational Medicine": {},
+                            "Epidemiology": {}
+                        }
+                    },
+                    "Specializations": {
+                        "Cardiology": {
+                            "Interventional Cardiology": {},
+                            "Electrophysiology": {},
+                            "Heart Failure": {}
+                        },
+                        "Neurology": {
+                            "Stroke Medicine": {},
+                            "Neurodegenerative Disorders": {},
+                            "Clinical Neurophysiology": {}
+                        },
+                        "Pediatrics": {
+                            "Pediatric Oncology": {},
+                            "Neonatology": {},
+                            "Pediatric Immunology": {}
+                        }
+                    },
+                    "Surgery": {
+                        "General Surgery": {
+                            "Laparoscopic Surgery": {},
+                            "Trauma Surgery": {},
+                            "Colorectal Surgery": {}
+                        },
+                        "Orthopedic": {
+                            "Joint Replacement": {},
+                            "Spinal Surgery": {},
+                            "Sports Medicine": {}
+                        },
+                        "Cardiothoracic": {
+                            "Coronary Artery Bypass": {},
+                            "Heart Transplant": {},
+                            "Thoracic Oncology": {}
+                        }
+                    }
+                },
+                "Law": {
+                    "Criminal Law": {
+                        "Defense": {
+                            "Public Defense": {},
+                            "Private Defense": {},
+                            "Juvenile Defense": {}
+                        },
+                        "Prosecution": {
+                            "District Attorney": {},
+                            "Federal Prosecution": {},
+                            "Special Prosecution": {}
+                        },
+                        "Forensic Science": {
+                            "Crime Scene Investigation": {},
+                            "Forensic Pathology": {},
+                            "Digital Forensics": {}
+                        }
+                    },
+                    "Civil Law": {
+                        "Contract Law": {
+                            "Business Contracts": {},
+                            "Employment Contracts": {},
+                            "Lease Agreements": {}
+                        },
+                        "Tort Law": {
+                            "Personal Injury": {},
+                            "Product Liability": {},
+                            "Defamation": {}
+                        },
+                        "Property Law": {
+                            "Real Estate": {},
+                            "Intellectual Property": {},
+                            "Landlord-Tenant": {}
+                        }
+                    },
+                    "International Law": {
+                        "Human Rights": {
+                            "International Tribunals": {},
+                            "Refugee Law": {},
+                            "Child Rights": {}
+                        },
+                        "Environmental Law": {
+                            "Climate Change": {},
+                            "Biodiversity": {},
+                            "Sustainable Development": {}
+                        },
+                        "Trade Law": {
+                            "WTO Law": {},
+                            "Customs Law": {},
+                            "Regional Trade Agreements": {}
+                        }
+                    }
+                },
+                "Education": {
+                    "Early Childhood Education": {
+                        "Childhood Development": {},
+                        "Play-based Learning": {},
+                        "Early Literacy": {}
+                    },
+                    "Primary Education": {
+                        "Curriculum Development": {},
+                        "Inclusive Education": {},
+                        "Educational Psychology": {}
+                    },
+                    "Secondary Education": {
+                        "STEM Education": {},
+                        "Language Arts": {},
+                        "Social Studies": {}
+                    },
+                    "Higher Education": {
+                        "University Teaching": {},
+                        "Academic Advising": {},
+                        "Curriculum Theory": {}
+                    },
+                    "Special Education": {
+                        "Learning Disabilities": {},
+                        "Gifted Education": {},
+                        "Assistive Technologies": {}
+                    }
+                },
+                "Business": {
+                    "Management": {
+                        "Strategic Planning": {},
+                        "Organizational Behavior": {},
+                        "Human Resources": {}
+                    },
+                    "Finance": {
+                        "Corporate Finance": {},
+                        "Investment Banking": {},
+                        "Personal Finance": {}
+                    },
+                    "Marketing": {
+                        "Digital Marketing": {},
+                        "Market Research": {},
+                        "Brand Management": {}
+                    },
+                    "Entrepreneurship": {
+                        "Startup Dynamics": {},
+                        "Venture Capital": {},
+                        "Innovation Management": {}
+                    },
+                    "Accounting": {
+                        "Financial Accounting": {},
+                        "Managerial Accounting": {},
+                        "Auditing": {}
+                    }
+                }
+            }
+        },
+        "Idea": {
+            "Philosophy": {
+                "Metaphysics": {
+                    "Ontology": {
+                        "Nature of Being": {},
+                        "Existence": {},
+                        "Reality": {}
+                    },
+                    "Epistemology": {
+                        "Belief": {},
+                        "Knowledge": {},
+                        "Truth": {}
+                    },
+                    "Cosmology": {
+                        "Origin": {},
+                        "Structure": {},
+                        "Future": {}
+                    }
+                },
+                "Ethics": {
+                    "Moral Philosophy": {
+                        "Virtue Ethics": {},
+                        "Deontology": {},
+                        "Consequentialism": {}
+                    },
+                    "Applied Ethics": {
+                        "Bioethics": {},
+                        "Business Ethics": {},
+                        "Environmental Ethics": {}
+                    },
+                    "Political Philosophy": {
+                        "Justice": {},
+                        "Liberty": {},
+                        "Rights": {}
+                    }
+                },
+                "Aesthetics": {
+                    "Theory of Art": {},
+                    "Philosophy of Beauty": {},
+                    "Criticism": {}
+                }
+            },
+            "Religion": {
+                "World Religions": {
+                    "Christianity": {
+                        "Catholicism": {},
+                        "Protestantism": {},
+                        "Orthodoxy": {}
+                    },
+                    "Islam": {
+                        "Sunni": {},
+                        "Shi'a": {},
+                        "Sufism": {}
+                    },
+                    "Hinduism": {
+                        "Vaishnavism": {},
+                        "Shaivism": {},
+                        "Shaktism": {}
+                    }
+                },
+                "Indigenous Religions": {
+                    "Native American": {},
+                    "African Traditional": {},
+                    "Australian Aboriginal": {}
+                },
+                "New Religious Movements": {
+                    "Scientology": {},
+                    "Neopaganism": {},
+                    "New Age": {}
+                }
+            },
+            "Concept": {
+                "Theoretical Concepts": {
+                    "Liberty": {
+                        "Political Freedom": {},
+                        "Free Will": {},
+                        "Freedom of Expression": {}
+                    },
+                    "Justice": {
+                        "Social Justice": {},
+                        "Criminal Justice": {},
+                        "Legal Justice": {}
+                    },
+                    "Equality": {
+                        "Gender Equality": {},
+                        "Racial Equality": {},
+                        "Economic Equality": {}
+                    }
+                },
+                "Practical Concepts": {
+                    "Democracy": {
+                        "Direct Democracy": {},
+                        "Representative Democracy": {},
+                        "Constitutional Democracy": {}
+                    },
+                    "Capitalism": {
+                        "Free Market": {},
+                        "Social Market": {},
+                        "State Capitalism": {}
+                    },
+                    "Sustainability": {
+                        "Environmental Sustainability": {},
+                        "Economic Sustainability": {},
+                        "Social Sustainability": {}
+                    }
+                }
+            }
+        }
+    }
+}

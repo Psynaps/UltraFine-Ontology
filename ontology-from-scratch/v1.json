@@ -1,0 +1,272 @@
+{
+    "Entity": {
+        "Object": {
+            "Physical Object": {
+                "Living Beings": {
+                    "Humans": {},
+                    "Animals": {
+                        "Domestic": {},
+                        "Wild": {}
+                    },
+                    "Plants": {
+                        "Flowering": {},
+                        "Non-Flowering": {}
+                    }
+                },
+                "Non-living Beings": {
+                    "Natural": {
+                        "Geological Formations": {},
+                        "Bodies of Water": {}
+                    },
+                    "Artificial": {
+                        "Vehicles": {},
+                        "Buildings": {},
+                        "Tools": {}
+                    }
+                }
+            },
+            "Abstract Object": {
+                "Mathematical": {
+                    "Numbers": {},
+                    "Shapes": {},
+                    "Equations": {}
+                },
+                "Linguistic": {
+                    "Words": {},
+                    "Phrases": {},
+                    "Languages": {}
+                }
+            }
+        },
+        "Time": {
+            "Absolute Time": {
+                "Chronological": {
+                    "Eras": {},
+                    "Years": {},
+                    "Dates": {}
+                },
+                "Cyclical": {
+                    "Seasons": {},
+                    "Months": {},
+                    "Days of the Week": {}
+                }
+            },
+            "Relative Time": {
+                "Duration": {
+                    "Milliseconds": {},
+                    "Minutes": {},
+                    "Hours": {}
+                },
+                "Sequence": {
+                    "Before": {},
+                    "After": {},
+                    "Simultaneous": {}
+                }
+            }
+        },
+        "Location": {
+            "Geographical Location": {
+                "Political": {
+                    "Countries": {},
+                    "States": {},
+                    "Cities": {}
+                },
+                "Physical": {
+                    "Mountains": {},
+                    "Rivers": {},
+                    "Continents": {}
+                }
+            },
+            "Astronomical Location": {
+                "Celestial Bodies": {
+                    "Stars": {
+                        "By Size": {
+                            "Red Giants": {},
+                            "White Dwarfs": {},
+                            "Neutron Stars": {}
+                        },
+                        "By Brightness": {
+                            "Supergiants": {},
+                            "Main Sequence": {},
+                            "Dwarfs": {}
+                        },
+                        "Planets": {},
+                        "Moons": {}
+                    },
+                    "Man-Made Objects": {
+                        "Satellites": {},
+                        "Space Stations": {}
+                    }
+                }
+            },
+            "Organization": {
+                "Commercial": {
+                    "Corporations": {},
+                    "Small Businesses": {},
+                    "Partnerships": {}
+                },
+                "Educational": {
+                    "Schools": {
+                        "Primary": {},
+                        "Secondary": {},
+                        "Tertiary": {}
+                    },
+                    "Research Institutions": {}
+                },
+                "Governmental": {
+                    "Federal": {},
+                    "State": {},
+                    "Local": {}
+                },
+                "Non-Profit": {
+                    "Charities": {},
+                    "NGOs": {},
+                    "Foundations": {}
+                }
+            },
+            "Event": {
+                "Natural Event": {
+                    "Weather": {
+                        "Storms": {},
+                        "Heatwaves": {},
+                        "Cold Snaps": {}
+                    },
+                    "Geological": {
+                        "Earthquakes": {},
+                        "Volcanic Eruptions": {},
+                        "Landslides": {}
+                    }
+                },
+                "Human-Created Event": {
+                    "Political": {
+                        "Elections": {},
+                        "Treaties": {},
+                        "Protests": {}
+                    },
+                    "Cultural": {
+                        "Festivals": {},
+                        "Concerts": {},
+                        "Exhibitions": {}
+                    },
+                    "Technological": {
+                        "Product Launches": {},
+                        "Innovations": {},
+                        "Breakthroughs": {}
+                    }
+                }
+            },
+            "Action": {
+                "Physical Action": {
+                    "Movement": {
+                        "Walking": {},
+                        "Running": {},
+                        "Swimming": {}
+                    },
+                    "Manipulation": {
+                        "Lifting": {},
+                        "Pushing": {},
+                        "Pulling": {}
+                    },
+                    "Creation": {
+                        "Building": {},
+                        "Cooking": {},
+                        "Crafting": {}
+                    }
+                },
+                "Mental Action": {
+                    "Cognitive Processes": {
+                        "Thinking": {},
+                        "Learning": {},
+                        "Problem-Solving": {}
+                    },
+                    "Emotional Processes": {
+                        "Feeling": {},
+                        "Expressing": {},
+                        "Repressing": {}
+                    }
+                }
+            },
+            "Subject": {
+                "Academic Subject": {
+                    "Sciences": {
+                        "Biology": {},
+                        "Physics": {},
+                        "Chemistry": {}
+                    },
+                    "Humanities": {
+                        "History": {},
+                        "Literature": {},
+                        "Philosophy": {}
+                    },
+                    "Social Sciences": {
+                        "Psychology": {},
+                        "Sociology": {},
+                        "Economics": {}
+                    }
+                },
+                "Artistic Subject": {
+                    "Visual Arts": {
+                        "Painting": {},
+                        "Sculpture": {},
+                        "Photography": {}
+                    },
+                    "Performing Arts": {
+                        "Music": {},
+                        "Dance": {},
+                        "Theater": {}
+                    },
+                    "Literary Arts": {
+                        "Poetry": {},
+                        "Prose": {},
+                        "Drama": {}
+                    }
+                },
+                "Professional Subject": {
+                    "Engineering": {
+                        "Mechanical": {},
+                        "Electrical": {},
+                        "Civil": {}
+                    },
+                    "Medicine": {
+                        "General Practice": {},
+                        "Specializations": {},
+                        "Surgery": {}
+                    },
+                    "Law": {
+                        "Criminal": {},
+                        "Civil": {},
+                        "International": {}
+                    }
+                }
+            },
+            "Idea": {
+                "Philosophy": {
+                    "Metaphysics": {},
+                    "Ethics": {},
+                    "Aesthetics": {}
+                },
+                "Religion": {
+                    "World Religions": {
+                        "Christianity": {},
+                        "Islam": {},
+                        "Hinduism": {}
+                    },
+                    "Indigenous Religions": {},
+                    "New Religious Movements": {}
+                },
+                "Concept": {
+                    "Theoretical Concepts": {
+                        "Liberty": {},
+                        "Justice": {},
+                        "Equality": {}
+                    },
+                    "Practical Concepts": {
+                        "Democracy": {},
+                        "Capitalism": {},
+                        "Sustainability": {}
+                    }
+                }
+            }
+        }
+    }
+}

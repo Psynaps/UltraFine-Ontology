@@ -1,0 +1,835 @@
+{
+    "Entity": {
+        "Object": {
+            "Physical Object": {
+                "Living Beings": {
+                    "Humans": {
+                        "By Demographics": {
+                            "Children": {
+                                "Infants": {},
+                                "Toddlers": {},
+                                "School Age": {}
+                            },
+                            "Adults": {
+                                "Young Adults": {},
+                                "Middle-Aged Adults": {},
+                                "Senior Adults": {}
+                            },
+                            "Elderly": {
+                                "Retirees": {},
+                                "Elderly with Assistance Needs": {}
+                            }
+                        },
+                        "By Occupation": {
+                            "Healthcare Professional": {
+                                "Doctors": {
+                                    "General Practitioners": {},
+                                    "Specialists": {}
+                                },
+                                "Nurses": {},
+                                "Paramedics": {}
+                            },
+                            "Educator": {
+                                "Teachers": {},
+                                "Professors": {},
+                                "Tutors": {}
+                            },
+                            "Engineer": {
+                                "Mechanical Engineers": {},
+                                "Software Engineers": {},
+                                "Civil Engineers": {}
+                            }
+                        },
+                        "By Role": {
+                            "Consumer": {
+                                "Online Shoppers": {},
+                                "Retail Shoppers": {}
+                            },
+                            "Citizen": {
+                                "Voters": {},
+                                "Community Members": {}
+                            },
+                            "Leader": {
+                                "Political Leaders": {},
+                                "Community Leaders": {},
+                                "Business Leaders": {}
+                            }
+                        }
+                    },
+                    "Animals": {
+                        "Domestic": {
+                            "Pets": {
+                                "Dogs": {
+                                    "Sporting Group": {},
+                                    "Working Group": {},
+                                    "Toy Group": {}
+                                },
+                                "Cats": {
+                                    "Longhair Breeds": {},
+                                    "Shorthair Breeds": {}
+                                },
+                                "Birds": {
+                                    "Parrots": {},
+                                    "Canaries": {},
+                                    "Finches": {}
+                                }
+                            },
+                            "Farm Animals": {
+                                "Cattle": {
+                                    "Dairy Breeds": {},
+                                    "Beef Breeds": {}
+                                },
+                                "Poultry": {
+                                    "Chickens": {
+                                        "Layers": {},
+                                        "Broilers": {}
+                                    },
+                                    "Ducks": {},
+                                    "Geese": {}
+                                },
+                                "Swine": {
+                                    "Piglets": {},
+                                    "Sows": {},
+                                    "Boars": {}
+                                }
+                            }
+                        },
+                        "Wild": {
+                            "Mammals": {
+                                "Carnivores": {
+                                    "Felines": {},
+                                    "Canines": {}
+                                },
+                                "Herbivores": {
+                                    "Bovines": {},
+                                    "Equines": {}
+                                }
+                            },
+                            "Birds": {
+                                "Raptors": {
+                                    "Eagles": {},
+                                    "Hawks": {}
+                                },
+                                "Songbirds": {
+                                    "Finches": {},
+                                    "Warblers": {}
+                                }
+                            },
+                            "Reptiles": {
+                                "Snakes": {
+                                    "Venomous": {},
+                                    "Non-Venomous": {}
+                                },
+                                "Lizards": {
+                                    "Geckos": {},
+                                    "Iguanas": {}
+                                }
+                            }
+                        }
+                    },
+                    "Plants": {
+                        "Flowering": {
+                            "Trees": {
+                                "Deciduous": {},
+                                "Evergreen": {}
+                            },
+                            "Shrubs": {
+                                "Ornamental": {},
+                                "Functional": {}
+                            },
+                            "Herbs": {
+                                "Culinary": {},
+                                "Medicinal": {}
+                            }
+                        },
+                        "Non-Flowering": {
+                            "Ferns": {
+                                "Tree Ferns": {},
+                                "Ground Ferns": {}
+                            },
+                            "Mosses": {
+                                "Peat Mosses": {},
+                                "Granite Mosses": {}
+                            },
+                            "Algae": {
+                                "Green Algae": {},
+                                "Brown Algae": {}
+                            }
+                        }
+                    }
+                },
+                "Non-living Beings": {
+                    "Natural": {
+                        "Geological Formations": {
+                            "Mountains": {
+                                "Volcanic": {
+                                    "Active": {},
+                                    "Dormant": {},
+                                    "Extinct": {}
+                                },
+                                "Sedimentary": {
+                                    "Cliff": {},
+                                    "Plateau": {}
+                                },
+                                "Fold": {},
+                                "Fault-block": {}
+                            },
+                            "Bodies of Water": {
+                                "Oceans": {
+                                    "Pacific": {},
+                                    "Atlantic": {},
+                                    "Indian": {}
+                                },
+                                "Lakes": {
+                                    "Freshwater": {},
+                                    "Saltwater": {}
+                                },
+                                "Rivers": {
+                                    "Perennial": {},
+                                    "Intermittent": {},
+                                    "Ephemeral": {}
+                                }
+                            }
+                        },
+                        "Artificial": {
+                            "Vehicles": {
+                                "Land": {
+                                    "Cars": {
+                                        "Electric": {},
+                                        "Hybrid": {},
+                                        "Internal Combustion": {}
+                                    },
+                                    "Trains": {
+                                        "Freight": {},
+                                        "Passenger": {},
+                                        "High-Speed": {}
+                                    },
+                                    "Bicycles": {
+                                        "Road": {},
+                                        "Mountain": {},
+                                        "Electric": {}
+                                    }
+                                },
+                                "Air": {
+                                    "Airplanes": {
+                                        "Commercial": {},
+                                        "Private": {},
+                                        "Military": {}
+                                    },
+                                    "Helicopters": {
+                                        "Medical": {},
+                                        "Military": {},
+                                        "News Coverage": {}
+                                    },
+                                    "Drones": {
+                                        "Recreational": {},
+                                        "Commercial": {},
+                                        "Military": {}
+                                    }
+                                },
+                                "Water": {
+                                    "Ships": {
+                                        "Cargo": {},
+                                        "Cruise": {},
+                                        "Naval": {}
+                                    },
+                                    "Boats": {
+                                        "Fishing": {},
+                                        "Rowing": {},
+                                        "Sailing": {}
+                                    },
+                                    "Submarines": {
+                                        "Military": {},
+                                        "Research": {},
+                                        "Recreational": {}
+                                    }
+                                }
+                            },
+                            "Buildings": {
+                                "Residential": {
+                                    "Houses": {
+                                        "Detached": {},
+                                        "Semi-detached": {},
+                                        "Terraced": {}
+                                    },
+                                    "Apartments": {
+                                        "Low-rise": {},
+                                        "High-rise": {}
+                                    },
+                                    "Dormitories": {
+                                        "University": {},
+                                        "Boarding School": {}
+                                    }
+                                },
+                                "Commercial": {
+                                    "Offices": {
+                                        "Skyscrapers": {},
+                                        "Business Parks": {}
+                                    },
+                                    "Stores": {
+                                        "Retail": {},
+                                        "Wholesale": {},
+                                        "Department": {}
+                                    },
+                                    "Warehouses": {
+                                        "Distribution Centers": {},
+                                        "Storage": {}
+                                    }
+                                },
+                                "Industrial": {
+                                    "Factories": {
+                                        "Manufacturing": {},
+                                        "Processing": {}
+                                    },
+                                    "Power Plants": {
+                                        "Nuclear": {},
+                                        "Fossil Fuels": {},
+                                        "Renewable Energy": {}
+                                    },
+                                    "Refineries": {
+                                        "Oil": {},
+                                        "Sugar": {},
+                                        "Metals": {}
+                                    }
+                                }
+                            },
+                            "Tools": {
+                                "Hand Tools": {
+                                    "Hammers": {
+                                        "Claw": {},
+                                        "Sledge": {},
+                                        "Ball-peen": {}
+                                    },
+                                    "Screwdrivers": {
+                                        "Flat-head": {},
+                                        "Phillips": {},
+                                        "Torx": {}
+                                    },
+                                    "Saws": {
+                                        "Hand": {},
+                                        "Circular": {},
+                                        "Bandsaw": {}
+                                    }
+                                },
+                                "Power Tools": {
+                                    "Drills": {
+                                        "Corded": {},
+                                        "Cordless": {},
+                                        "Hammer": {}
+                                    },
+                                    "Sanders": {
+                                        "Belt": {},
+                                        "Orbital": {},
+                                        "Disc": {}
+                                    },
+                                    "Grinders": {
+                                        "Bench": {},
+                                        "Angle": {},
+                                        "Die": {}
+                                    }
+                                },
+                                "Gardening Tools": {
+                                    "Shovels": {
+                                        "Spade": {},
+                                        "Scoop": {},
+                                        "Trenching": {}
+                                    },
+                                    "Rakes": {
+                                        "Leaf": {},
+                                        "Landscape": {},
+                                        "Thatching": {}
+                                    },
+                                    "Pruners": {
+                                        "Anvil": {},
+                                        "Bypass": {},
+                                        "Ratchet": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Abstract Object": {
+                "Mathematical": {
+                    "Numbers": {
+                        "Real": {},
+                        "Complex": {},
+                        "Natural": {}
+                    },
+                    "Shapes": {
+                        "2D": {
+                            "Circle": {},
+                            "Square": {},
+                            "Triangle": {}
+                        },
+                        "3D": {
+                            "Sphere": {},
+                            "Cube": {},
+                            "Pyramid": {}
+                        }
+                    },
+                    "Equations": {
+                        "Algebraic": {},
+                        "Differential": {},
+                        "Statistical": {}
+                    }
+                },
+                "Linguistic": {
+                    "Words": {
+                        "Nouns": {},
+                        "Verbs": {},
+                        "Adjectives": {}
+                    },
+                    "Phrases": {
+                        "Idioms": {},
+                        "Proverbs": {},
+                        "Quotes": {}
+                    },
+                    "Languages": {
+                        "Indo-European": {
+                            "English": {},
+                            "Spanish": {},
+                            "German": {}
+                        },
+                        "Sino-Tibetan": {
+                            "Chinese": {},
+                            "Tibetan": {}
+                        },
+                        "Afro-Asiatic": {
+                            "Arabic": {},
+                            "Hebrew": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Time": {
+            "Absolute Time": {
+                "Chronological": {
+                    "Eras": {
+                        "Prehistoric": {},
+                        "Ancient": {},
+                        "Medieval": {},
+                        "Modern": {}
+                    },
+                    "Years": {
+                        "Decades": {},
+                        "Centuries": {},
+                        "Millennia": {}
+                    },
+                    "Dates": {
+                        "Holidays": {},
+                        "Historical Events": {},
+                        "Personal Significance": {}
+                    }
+                },
+                "Cyclical": {
+                    "Seasons": {
+                        "Spring": {},
+                        "Summer": {},
+                        "Autumn": {},
+                        "Winter": {}
+                    },
+                    "Months": {
+                        "January": {},
+                        "February": {},
+                        "March": {},
+                        "April": {},
+                        "May": {},
+                        "June": {},
+                        "July": {},
+                        "August": {},
+                        "September": {},
+                        "October": {},
+                        "November": {},
+                        "December": {}
+                    },
+                    "Days of the Week": {
+                        "Weekdays": {
+                            "Monday": {},
+                            "Tuesday": {},
+                            "Wednesday": {},
+                            "Thursday": {},
+                            "Friday": {}
+                        },
+                        "Weekend": {
+                            "Saturday": {},
+                            "Sunday": {}
+                        }
+                    }
+                }
+            },
+            "Relative Time": {
+                "Duration": {
+                    "Milliseconds": {},
+                    "Seconds": {},
+                    "Minutes": {},
+                    "Hours": {},
+                    "Days": {},
+                    "Weeks": {},
+                    "Months": {},
+                    "Years": {}
+                },
+                "Sequence": {
+                    "Before": {},
+                    "After": {},
+                    "Simultaneous": {}
+                }
+            }
+        },
+        "Location": {
+            "Geographical Location": {
+                "Political": {
+                    "Countries": {
+                        "By Continent": {
+                            "Africa": {
+                                "Egypt": {},
+                                "Nigeria": {},
+                                "South Africa": {}
+                            },
+                            "Asia": {
+                                "China": {},
+                                "India": {},
+                                "Japan": {}
+                            },
+                            "Europe": {
+                                "France": {},
+                                "Germany": {},
+                                "United Kingdom": {}
+                            },
+                            "North America": {
+                                "Canada": {},
+                                "Mexico": {},
+                                "United States": {}
+                            },
+                            "South America": {
+                                "Brazil": {},
+                                "Argentina": {},
+                                "Chile": {}
+                            },
+                            "Oceania": {
+                                "Australia": {},
+                                "New Zealand": {},
+                                "Fiji": {}
+                            },
+                            "Antarctica": {}
+                        },
+                        "By Political Division": {
+                            "States": {},
+                            "Provinces": {},
+                            "Territories": {}
+                        }
+                    },
+                    "States": {
+                        "By Country": {
+                            "United States": {
+                                "California": {},
+                                "New York": {},
+                                "Texas": {}
+                            },
+                            "Germany": {
+                                "Bavaria": {},
+                                "Berlin": {},
+                                "North Rhine-Westphalia": {}
+                            },
+                            "India": {
+                                "Uttar Pradesh": {},
+                                "Maharashtra": {},
+                                "Bihar": {}
+                            }
+                        }
+                    },
+                    "Cities": {
+                        "By Population": {
+                            "Megalopolises": {},
+                            "Metropolises": {},
+                            "Towns": {}
+                        },
+                        "By Feature": {
+                            "Capital Cities": {},
+                            "Coastal Cities": {},
+                            "Historical Cities": {}
+                        }
+                    }
+                },
+                "Physical": {
+                    "Mountains": {
+                        "By Height": {
+                            "Over 8000 Meters": {},
+                            "5000 to 7999 Meters": {},
+                            "Under 5000 Meters": {}
+                        },
+                        "By Location": {
+                            "Himalayas": {},
+                            "Rockies": {},
+                            "Andes": {}
+                        }
+                    },
+                    "Rivers": {
+                        "By Length": {
+                            "Nile": {},
+                            "Amazon": {},
+                            "Yangtze": {}
+                        },
+                        "By Discharge": {
+                            "Amazon": {},
+                            "Congo": {},
+                            "Ganges": {}
+                        }
+                    },
+                    "Continents": {
+                        "Africa": {},
+                        "Antarctica": {},
+                        "Asia": {},
+                        "Europe": {},
+                        "North America": {},
+                        "Oceania": {},
+                        "South America": {}
+                    }
+                }
+            },
+            "Astronomical Location": {
+                "Celestial Bodies": {
+                    "Stars": {
+                        "By Size": {
+                            "Red Giants": {},
+                            "White Dwarfs": {},
+                            "Neutron Stars": {}
+                        },
+                        "By Brightness": {
+                            "Supergiants": {},
+                            "Main Sequence": {},
+                            "Dwarfs": {}
+                        }
+                    },
+                    "Moons": {}
+                },
+                "Man-Made Objects": {
+                    "Satellites": {},
+                    "Space Stations": {}
+                }
+            }
+        },
+        "Organization": {
+            "Commercial": {
+                "Corporations": {
+                    "Multinational": {},
+                    "Public": {},
+                    "Private": {}
+                },
+                "Small Businesses": {
+                    "Family-Owned": {},
+                    "Startups": {},
+                    "Franchises": {}
+                },
+                "Partnerships": {
+                    "General Partnerships": {},
+                    "Limited Partnerships": {},
+                    "Joint Ventures": {}
+                }
+            },
+            "Educational": {
+                "Schools": {
+                    "Primary": {
+                        "Public": {},
+                        "Private": {},
+                        "Charter": {}
+                    },
+                    "Secondary": {
+                        "Public": {},
+                        "Private": {},
+                        "Vocational": {}
+                    },
+                    "Tertiary": {
+                        "Universities": {},
+                        "Colleges": {},
+                        "Technical Institutes": {}
+                    }
+                },
+                "Research Institutions": {
+                    "Government-Funded": {},
+                    "Private": {},
+                    "Corporate": {}
+                }
+            },
+            "Governmental": {
+                "Federal": {
+                    "Executive Branch": {},
+                    "Legislative Branch": {},
+                    "Judicial Branch": {}
+                },
+                "State": {
+                    "Governor's Office": {},
+                    "State Legislature": {},
+                    "State Courts": {}
+                },
+                "Local": {
+                    "City Hall": {},
+                    "County Government": {},
+                    "Municipal Agencies": {}
+                }
+            },
+            "Non-Profit": {
+                "Charities": {
+                    "Health": {},
+                    "Education": {},
+                    "Environment": {}
+                },
+                "NGOs": {
+                    "Human Rights": {},
+                    "Disaster Relief": {},
+                    "Economic Development": {}
+                },
+                "Foundations": {
+                    "Private": {},
+                    "Community": {},
+                    "Corporate": {}
+                }
+            }
+        },
+        "Event": {
+            "Natural Event": {
+                "Weather": {
+                    "Storms": {},
+                    "Heatwaves": {},
+                    "Cold Snaps": {}
+                },
+                "Geological": {
+                    "Earthquakes": {},
+                    "Volcanic Eruptions": {},
+                    "Landslides": {}
+                }
+            },
+            "Human-Created Event": {
+                "Political": {
+                    "Elections": {},
+                    "Treaties": {},
+                    "Protests": {}
+                },
+                "Cultural": {
+                    "Festivals": {},
+                    "Concerts": {},
+                    "Exhibitions": {}
+                },
+                "Technological": {
+                    "Product Launches": {},
+                    "Innovations": {},
+                    "Breakthroughs": {}
+                }
+            }
+        },
+        "Action": {
+            "Physical Action": {
+                "Movement": {
+                    "Walking": {},
+                    "Running": {},
+                    "Swimming": {}
+                },
+                "Manipulation": {
+                    "Lifting": {},
+                    "Pushing": {},
+                    "Pulling": {}
+                },
+                "Creation": {
+                    "Building": {},
+                    "Cooking": {},
+                    "Crafting": {}
+                }
+            },
+            "Mental Action": {
+                "Cognitive Processes": {
+                    "Thinking": {},
+                    "Learning": {},
+                    "Problem-Solving": {}
+                },
+                "Emotional Processes": {
+                    "Feeling": {},
+                    "Expressing": {},
+                    "Repressing": {}
+                }
+            }
+        },
+        "Subject": {
+            "Academic Subject": {
+                "Sciences": {
+                    "Biology": {},
+                    "Physics": {},
+                    "Chemistry": {}
+                },
+                "Humanities": {
+                    "History": {},
+                    "Literature": {},
+                    "Philosophy": {}
+                },
+                "Social Sciences": {
+                    "Psychology": {},
+                    "Sociology": {},
+                    "Economics": {}
+                }
+            },
+            "Artistic Subject": {
+                "Visual Arts": {
+                    "Painting": {},
+                    "Sculpture": {},
+                    "Photography": {}
+                },
+                "Performing Arts": {
+                    "Music": {},
+                    "Dance": {},
+                    "Theater": {}
+                },
+                "Literary Arts": {
+                    "Poetry": {},
+                    "Prose": {},
+                    "Drama": {}
+                }
+            },
+            "Professional Subject": {
+                "Engineering": {
+                    "Mechanical": {},
+                    "Electrical": {},
+                    "Civil": {}
+                },
+                "Medicine": {
+                    "General Practice": {},
+                    "Specializations": {},
+                    "Surgery": {}
+                },
+                "Law": {
+                    "Criminal": {},
+                    "Civil": {},
+                    "International": {}
+                }
+            }
+        },
+        "Idea": {
+            "Philosophy": {
+                "Metaphysics": {},
+                "Ethics": {},
+                "Aesthetics": {}
+            },
+            "Religion": {
+                "World Religions": {
+                    "Christianity": {},
+                    "Islam": {},
+                    "Hinduism": {}
+                },
+                "Indigenous Religions": {},
+                "New Religious Movements": {}
+            },
+            "Concept": {
+                "Theoretical Concepts": {
+                    "Liberty": {},
+                    "Justice": {},
+                    "Equality": {}
+                },
+                "Practical Concepts": {
+                    "Democracy": {},
+                    "Capitalism": {},
+                    "Sustainability": {}
+                }
+            }
+        }
+    }
+}
