@@ -73,6 +73,7 @@ def ask_user_for_selection(duplicate_key, paths, ontology):
         return 0  # Automatically return the index of the single path
 
     print("Please choose which path to keep by entering the number:")
+    print(f"0: Keep all paths for '{duplicate_key}'")
     for i, path in enumerate(paths, start=1):
         # Adjust the descendant count by subtracting 1 to not count the current node
         descendant_count = count_descendants(retrieve_subtree(ontology, path)) - 1
@@ -112,6 +113,10 @@ def update_paths_dict(paths_dict, selected_path, deleted_paths):
 
 # Function to remove non-selected duplicate paths from the ontology
 def remove_non_selected_paths(ontology, paths_dict, duplicate_key, selected_index):
+    if selected_index == -1:
+        # If the user selects to keep all paths, do nothing
+        return ontology, paths_dict
+    
     # Copy of the ontology for safe modifications
     modified_ontology = json.loads(json.dumps(ontology))
 

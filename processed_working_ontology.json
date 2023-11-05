@@ -62,7 +62,8 @@
         "developer": {},
         "designer": {},
         "advisor": {},
-        "photographer": {}
+        "photographer": {},
+        "baker": {}
       },
       "expert": {
         "analyst": {},
@@ -73,7 +74,9 @@
       "teacher": {},
       "student": {},
       "monarch": {},
-      "religious_leader": {},
+      "religious_leader": {
+        "archbishop": {}
+      },
       "soldier": {},
       "account_manager": {},
       "ace": {},
@@ -94,7 +97,11 @@
       "companion": {},
       "composer": {},
       "computer_scientist": {},
-      "consumer": {}
+      "consumer": {},
+      "astronaut": {},
+      "angel": {},
+      "audience": {},
+      "baby": {}
     },
     "organization": {
       "agency": {},
@@ -117,7 +124,11 @@
       "stock_exchange": {},
       "administration": {},
       "affiliation": {},
-      "comprehensive_school": {}
+      "comprehensive_school": {},
+      "institution": {
+        "asylum": {},
+        "auditorium": {}
+      }
     },
     "group": {
       "army": {},
@@ -194,7 +205,8 @@
       "vehicle": {
         "airplane": {},
         "car": {},
-        "automobile": {}
+        "automobile": {},
+        "auto": {}
       },
       "instrument": {
         "guitar": {},
@@ -222,7 +234,9 @@
       "computer": {},
       "currency": {},
       "drug": {},
-      "food": {},
+      "food": {
+        "bacon": {}
+      },
       "game": {},
       "internet": {},
       "mass_transit": {},
@@ -251,7 +265,12 @@
       "composite": {},
       "composite_material": {},
       "complex": {},
-      "component": {}
+      "component": {},
+      "bag": {},
+      "baggage": {},
+      "ball": {},
+      "balloon": {},
+      "banner": {}
     },
     "living_thing": {
       "animal": {},
@@ -259,9 +278,14 @@
       "bird": {},
       "insect": {},
       "fish": {},
-      "body_part": {},
       "fruit": {
         "apple": {}
+      },
+      "body": {
+        "arm": {},
+        "body_part": {
+          "back": {}
+        }
       }
     },
     "institution": {
@@ -282,11 +306,19 @@
       "altitude": {},
       "archipelago": {},
       "area": {},
-      "area_code": {}
+      "area_code": {},
+      "atmosphere": {},
+      "attraction": {},
+      "avenue": {}
     },
     "health": {
       "alternative_medicine": {}
-    }
+    },
+    "assistance_dog": {},
+    "assistant": {},
+    "associate": {},
+    "asian_elephant": {},
+    "ash": {}
   },
   "event": {
     "accident": {},
@@ -308,7 +340,22 @@
     "workshop": {},
     "seminar": {},
     "holiday": {},
-    "natural_disaster": {}
+    "natural_disaster": {},
+    "arrival": {},
+    "assassination": {},
+    "assault": {},
+    "assembly": {},
+    "assessment": {},
+    "asset": {},
+    "assignment": {},
+    "assistance": {},
+    "assumption": {},
+    "asteroid": {},
+    "athletics": {},
+    "anniversary": {},
+    "auction": {},
+    "audit": {},
+    "award_ceremony": {}
   },
   "subject": {
     "science": {
@@ -348,9 +395,6 @@
     "education": {
       "degree": {}
     },
-    "art": {
-      "architecture": {}
-    },
     "history": {
       "ancient": {},
       "apartheid": {}
@@ -385,11 +429,15 @@
     "acid": {},
     "aging": {},
     "agreement": {},
-    "aid": {}
+    "aid": {},
+    "aspect": {}
   },
   "action": {
     "help": {},
-    "broadcast": {}
+    "broadcast": {},
+    "assembly_line": {},
+    "attacker": {},
+    "attempt": {}
   },
   "industry": {
     "business": {},
@@ -421,7 +469,13 @@
     "airspace": {},
     "alcohol": {},
     "commerce": {},
-    "commercial": {}
+    "commercial": {},
+    "legal": {},
+    "software": {},
+    "association_football": {},
+    "automaker": {},
+    "aviation": {},
+    "banking": {}
   },
   "media": {
     "news": {},
@@ -449,11 +503,12 @@
     "article": {},
     "compilation": {},
     "composition": {},
-    "computer_game": {}
-  },
-  "time": {
-    "afternoon": {},
-    "anniversary": {}
+    "computer_game": {},
+    "film": {},
+    "atlas": {},
+    "audio": {},
+    "audio_commentary": {},
+    "autobiography": {}
   },
   "idea": {
     "yes": {},
@@ -532,7 +587,24 @@
     "competitor": {},
     "complaint": {},
     "complement": {},
-    "compulsory": {}
+    "compulsory": {},
+    "atomic_number": {},
+    "attention": {},
+    "attitude": {},
+    "attribution": {},
+    "availability": {},
+    "average": {},
+    "awareness": {},
+    "background": {},
+    "backing": {},
+    "balance": {},
+    "ban": {}
+  },
+  "time": {
+    "season": {
+      "autumn": {}
+    },
+    "afternoon": {}
   },
   "illness": {
     "disease": {
@@ -543,5 +615,22 @@
     },
     "infection": {},
     "sickness": {}
+  },
+  "art": {
+    "art_form": {},
+    "art_journal": {},
+    "art_movement": {},
+    "art_music": {},
+    "art_school": {},
+    "art_student": {},
+    "artwork": {},
+    "architecture": {}
+  },
+  "profession": {
+    "attorney": {},
+    "attorney_general": {}
+  },
+  "relationship": {
+    "aunt": {}
   }
 }
