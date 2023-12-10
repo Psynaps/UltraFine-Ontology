@@ -22,127 +22,195 @@
                         },
                         "By Occupation": {
                             "Healthcare Professional": {
-                              "Doctors": {
-                                "General Practitioners": {},
-                                "Specialists": {}
-                              },
-                              "Nurses": {},
-                              "Paramedics": {}
+                                "Doctors": {
+                                    "General Practitioners": {
+                                        "Family Physicians": {},
+                                        "Emergency Medicine Doctors": {},
+                                        "Hospitalists": {}
+                                    },
+                                    "Specialists": {
+                                        "Surgeons": {
+                                            "General Surgeons": {
+                                                "Sub-Specializations": {
+                                                    "Trauma Surgery": {},
+                                                    "Laparoscopic Surgery": {},
+                                                    "Breast Surgery": {},
+                                                    "Colorectal Surgery": {},
+                                                    "Endocrine Surgery": {},
+                                                    "Transplant Surgery": {},
+                                                    "Surgical Oncology": {}
+                                                },
+                                                "Procedures": {
+                                                    "Appendectomy": {},
+                                                    "Cholecystectomy": {},
+                                                    "Hernia Repair": {},
+                                                    "Mastectomy": {},
+                                                    "Thyroidectomy": {},
+                                                    "Colectomy": {},
+                                                    "Gastrectomy": {}
+                                                },
+                                                "Settings": {
+                                                    "Hospital": {
+                                                        "Emergency Room": {},
+                                                        "Operating Theatre": {},
+                                                        "Intensive Care Unit": {}
+                                                    },
+                                                    "Outpatient Surgery Centers": {},
+                                                    "Military Field Surgery": {},
+                                                    "Humanitarian Missions": {}
+                                                },
+                                                "Skills and Techniques": {
+                                                    "Minimally Invasive Surgery": {},
+                                                    "Robotic Surgery": {},
+                                                    "Open Surgery": {},
+                                                    "Preoperative and Postoperative Care": {},
+                                                    "Patient Education": {}
+                                                }
+                                            },
+                                            "Cardiothoracic Surgeons": {},
+                                            "Neurosurgeons": {},
+                                            "Orthopedic Surgeons": {},
+                                            "Plastic Surgeons": {}
+                                        },
+                                        "Physicians": {
+                                            "Cardiologists": {},
+                                            "Endocrinologists": {},
+                                            "Gastroenterologists": {},
+                                            "Nephrologists": {},
+                                            "Oncologists": {},
+                                            "Pediatricians": {},
+                                            "Psychiatrists": {},
+                                            "Rheumatologists": {}
+                                        },
+                                        "Other Specialists": {
+                                            "Anesthesiologists": {},
+                                            "Dermatologists": {},
+                                            "Infectious Disease Specialists": {},
+                                            "Neurologists": {},
+                                            "Obstetricians/Gynecologists": {},
+                                            "Ophthalmologists": {},
+                                            "Pathologists": {},
+                                            "Radiologists": {}
+                                        }
+                                    }
+                                },
+                                "Nurses": {},
+                                "Paramedics": {}
                             },
                             "Educator": {
-                              "Teachers": {},
-                              "Professors": {},
-                              "Tutors": {}
+                                "Teachers": {},
+                                "Professors": {},
+                                "Tutors": {}
                             },
                             "Engineer": {
-                              "Mechanical Engineers": {},
-                              "Software Engineers": {},
-                              "Civil Engineers": {}
+                                "Mechanical Engineers": {},
+                                "Software Engineers": {},
+                                "Civil Engineers": {}
                             },
                             "Legal Profession": {
-                              "Lawyers": {},
-                              "Paralegals": {},
-                              "Judges": {}
+                                "Lawyers": {},
+                                "Paralegals": {},
+                                "Judges": {}
                             },
                             "Art & Design": {
-                              "Artists": {},
-                              "Designers": {}
+                                "Artists": {},
+                                "Designers": {}
                             },
                             "Information Technology": {
-                              "IT Technicians": {},
-                              "Network Administrators": {},
-                              "Database Administrators": {}
+                                "IT Technicians": {},
+                                "Network Administrators": {},
+                                "Database Administrators": {}
                             },
                             "Finance": {
-                              "Accountants": {},
-                              "Financial Advisors": {},
-                              "Bankers": {}
+                                "Accountants": {},
+                                "Financial Advisors": {},
+                                "Bankers": {}
                             },
                             "Construction": {
-                              "Architects": {},
-                              "Construction Workers": {},
-                              "Electricians": {}
+                                "Architects": {},
+                                "Construction Workers": {},
+                                "Electricians": {}
                             },
                             "Entertainment": {
-                              "Actors": {},
-                              "Musicians": {},
-                              "Directors": {}
+                                "Actors": {},
+                                "Musicians": {},
+                                "Directors": {}
                             },
                             "Agriculture": {
-                              "Farmers": {},
-                              "Agronomists": {},
-                              "Horticulturists": {}
+                                "Farmers": {},
+                                "Agronomists": {},
+                                "Horticulturists": {}
                             },
                             "Science and Research": {
-                              "Biologists": {},
-                              "Chemists": {},
-                              "Physicists": {},
-                              "Environmental Scientists": {},
-                              "Social Scientists": {}
+                                "Biologists": {},
+                                "Chemists": {},
+                                "Physicists": {},
+                                "Environmental Scientists": {},
+                                "Social Scientists": {}
                             },
                             "Public Service": {
-                              "Police Officers": {},
-                              "Firefighters": {},
-                              "Urban Planners": {},
-                              "Policy Analysts": {}
+                                "Police Officers": {},
+                                "Firefighters": {},
+                                "Urban Planners": {},
+                                "Policy Analysts": {}
                             },
                             "Transportation": {
-                              "Pilots": {},
-                              "Train Conductors": {},
-                              "Truck Drivers": {},
-                              "Ship Captains": {}
+                                "Pilots": {},
+                                "Train Conductors": {},
+                                "Truck Drivers": {},
+                                "Ship Captains": {}
                             },
                             "Hospitality and Tourism": {
-                              "Chefs": {},
-                              "Hotel Managers": {},
-                              "Tour Guides": {},
-                              "Event Planners": {}
+                                "Chefs": {},
+                                "Hotel Managers": {},
+                                "Tour Guides": {},
+                                "Event Planners": {}
                             },
                             "Media and Communication": {
-                              "Journalists": {},
-                              "Public Relations Specialists": {},
-                              "Broadcasters": {},
-                              "Editors": {}
+                                "Journalists": {},
+                                "Public Relations Specialists": {},
+                                "Broadcasters": {},
+                                "Editors": {}
                             },
                             "Performing Arts": {
-                              "Dancers": {},
-                              "Comedians": {},
-                              "Theatre Directors": {}
+                                "Dancers": {},
+                                "Comedians": {},
+                                "Theatre Directors": {}
                             },
                             "Sports": {
-                              "Athletes": {},
-                              "Coaches": {},
-                              "Personal Trainers": {},
-                              "Sports Analysts": {}
+                                "Athletes": {},
+                                "Coaches": {},
+                                "Personal Trainers": {},
+                                "Sports Analysts": {}
                             },
                             "Trade Skills": {
-                              "Carpenters": {},
-                              "Plumbers": {},
-                              "Welders": {},
-                              "Tailors": {}
+                                "Carpenters": {},
+                                "Plumbers": {},
+                                "Welders": {},
+                                "Tailors": {}
                             },
                             "Business": {
-                              "Entrepreneurs": {},
-                              "Marketing Managers": {},
-                              "Sales Representatives": {},
-                              "Human Resources Specialists": {}
+                                "Entrepreneurs": {},
+                                "Marketing Managers": {},
+                                "Sales Representatives": {},
+                                "Human Resources Specialists": {}
                             },
                             "Culinary Arts": {
-                              "Chefs": {},
-                              "Bakers": {},
-                              "Sommeliers": {}
+                                "Chefs": {},
+                                "Bakers": {},
+                                "Sommeliers": {}
                             },
                             "Maritime": {
-                              "Sailors": {},
-                              "Ship Captains": {},
-                              "Marine Biologists": {}
+                                "Sailors": {},
+                                "Ship Captains": {},
+                                "Marine Biologists": {}
                             },
                             "Skilled Trades": {
-                              "Plumbers": {},
-                              "Carpenters": {},
-                              "Welders": {}
+                                "Plumbers": {},
+                                "Carpenters": {},
+                                "Welders": {}
                             }
-                          },
+                        },
                         "By Role": {
                             "Consumer": {
                                 "Online Shoppers": {},
@@ -228,6 +296,80 @@
                                     "Iguanas": {}
                                 }
                             }
+                        },
+                        "Extinct Animals": {
+                            "Dinosaurs": {
+                                "By Time Period": {
+                                    "Jurassic Dinosaurs": {
+                                        "By Clade": {
+                                            "Sauropodomorpha": {
+                                                "Apatosaurus": {},
+                                                "Brachiosaurus": {}
+                                            },
+                                            "Theropoda": {
+                                                "Allosaurus": {},
+                                                "Ceratosaurus": {},
+                                                "Compsognathus": {},
+                                                "Dilophosaurus": {},
+                                                "Gallimimus": {},
+                                                "Giganotosaurus": {},
+                                                "Velociraptor": {},
+                                                "Therizinosaurus": {}
+                                            },
+                                            "Ornithischia": {
+                                                "Stegosaurus": {},
+                                                "Pachycephalosaurus": {}
+                                            },
+                                            "Marginocephalia": {
+                                                "Triceratops": {}
+                                            },
+                                            "Thyreophora": {
+                                                "Ankylosaurus": {},
+                                                "Stegoceratops": {}
+                                            }
+                                        },
+                                        "By Size": {
+                                            "Large Jurassic Dinosaurs": {
+                                                "Brachiosaurus": {},
+                                                "Apatosaurus": {}
+                                            },
+                                            "Small Jurassic Dinosaurs": {
+                                                "Compsognathus": {}
+                                            }
+                                        },
+                                        "By Diet": {
+                                            "Herbivorous Jurassic Dinosaurs": {
+                                                "Brachiosaurus": {},
+                                                "Apatosaurus": {},
+                                                "Stegosaurus": {}
+                                            },
+                                            "Carnivorous Jurassic Dinosaurs": {
+                                                "Allosaurus": {},
+                                                "Ceratosaurus": {},
+                                                "Compsognathus": {},
+                                                "Dilophosaurus": {},
+                                                "Gallimimus": {},
+                                                "Giganotosaurus": {},
+                                                "Velociraptor": {},
+                                                "Therizinosaurus": {}
+                                            }
+                                        },
+                                        "By Habitat": {},
+                                        "By Continent": {},
+                                        "By Discovery": {
+                                            "Recently Discovered Jurassic Dinosaurs": {},
+                                            "First Discovered Jurassic Dinosaurs": {}
+                                        },
+                                        "By Paleobiology": {
+                                            "Feathered Jurassic Dinosaurs": {},
+                                            "Armored Jurassic Dinosaurs": {
+                                                "Ankylosaurus": {},
+                                                "Stegosaurus": {}
+                                            }
+                                        }
+                                    }
+                                }
+                            }
                         }
                     },
                     "Plants": {
@@ -290,419 +432,419 @@
                     },
                     "Artificial Objects": {
                         "Buildings & Structures": {
-                          "Residential": {
-                            "Apartments": {},
-                            "Bungalows": {},
-                            "Condominiums": {},
-                            "Dormitories": {}
-                          },
-                          "Commercial": {
-                            "Shopping Malls": {},
-                            "Office Buildings": {},
-                            "Warehouses": {},
-                            "Hotels": {}
-                          },
-                          "Industrial": {
-                            "Factories": {},
-                            "Refineries": {},
-                            "Power Stations": {},
-                            "Mills": {}
-                          },
-                          "Monuments": {
-                            "Statues": {},
-                            "Memorials": {},
-                            "Castles": {},
-                            "Palaces": {}
-                          }
+                            "Residential": {
+                                "Apartments": {},
+                                "Bungalows": {},
+                                "Condominiums": {},
+                                "Dormitories": {}
+                            },
+                            "Commercial": {
+                                "Shopping Malls": {},
+                                "Office Buildings": {},
+                                "Warehouses": {},
+                                "Hotels": {}
+                            },
+                            "Industrial": {
+                                "Factories": {},
+                                "Refineries": {},
+                                "Power Stations": {},
+                                "Mills": {}
+                            },
+                            "Monuments": {
+                                "Statues": {},
+                                "Memorials": {},
+                                "Castles": {},
+                                "Palaces": {}
+                            }
                         },
                         "Vehicles": {
-                          "Land": {
-                            "Cars": {
-                              "By Fuel Type": {
-                                "Electric Cars": {},
-                                "Hybrid Cars": {},
-                                "Diesel Cars": {},
-                                "Gasoline Cars": {}
-                              },
-                              "By Body Style": {
-                                "Coupes": {},
-                                "Sedans": {},
-                                "Hatchbacks": {},
-                                "SUVs": {},
-                                "Convertibles": {}
-                              },
-                              "By Size": {
-                                "Compact Cars": {},
-                                "Mid-size Cars": {},
-                                "Full-size Cars": {},
-                                "Luxury Cars": {}
-                              }
+                            "Land": {
+                                "Cars": {
+                                    "By Fuel Type": {
+                                        "Electric Cars": {},
+                                        "Hybrid Cars": {},
+                                        "Diesel Cars": {},
+                                        "Gasoline Cars": {}
+                                    },
+                                    "By Body Style": {
+                                        "Coupes": {},
+                                        "Sedans": {},
+                                        "Hatchbacks": {},
+                                        "SUVs": {},
+                                        "Convertibles": {}
+                                    },
+                                    "By Size": {
+                                        "Compact Cars": {},
+                                        "Mid-size Cars": {},
+                                        "Full-size Cars": {},
+                                        "Luxury Cars": {}
+                                    }
+                                },
+                                "Trains": {
+                                    "By Service Type": {
+                                        "Passenger Trains": {},
+                                        "Freight Trains": {},
+                                        "High-speed Trains": {}
+                                    },
+                                    "By Propulsion": {
+                                        "Electric Locomotives": {},
+                                        "Diesel Locomotives": {},
+                                        "Steam Locomotives": {}
+                                    },
+                                    "By Specialty": {
+                                        "Bullet Trains": {},
+                                        "Monorails": {},
+                                        "Light Rails": {}
+                                    }
+                                },
+                                "Motorcycles": {
+                                    "By Type": {
+                                        "Cruiser Motorcycles": {},
+                                        "Sport Bikes": {},
+                                        "Touring Motorcycles": {},
+                                        "Dirt Bikes": {}
+                                    },
+                                    "By Engine Size": {
+                                        "Under 500cc": {},
+                                        "500cc to 1000cc": {},
+                                        "Over 1000cc": {}
+                                    },
+                                    "By Purpose": {
+                                        "Road Motorcycles": {},
+                                        "Off-Road Motorcycles": {},
+                                        "Racing Motorcycles": {}
+                                    }
+                                },
+                                "Commercial Vehicles": {
+                                    "Delivery Vans": {},
+                                    "Dump Trucks": {},
+                                    "Semi-trailer Trucks": {}
+                                },
+                                "Public Transportation": {
+                                    "City Buses": {},
+                                    "School Buses": {},
+                                    "Trams": {}
+                                },
+                                "Personal Vehicles": {
+                                    "Sedans": {},
+                                    "SUVs": {},
+                                    "Convertibles": {},
+                                    "Hatchbacks": {}
+                                },
+                                "Specialized Vehicles": {
+                                    "Ambulances": {},
+                                    "Fire Engines": {},
+                                    "Police Cars": {}
+                                },
+                                "Agricultural Vehicles": {
+                                    "Harvesters": {},
+                                    "Tractors": {},
+                                    "Ploughs": {}
+                                },
+                                "Construction Vehicles": {
+                                    "Excavators": {},
+                                    "Bulldozers": {},
+                                    "Cranes": {},
+                                    "Forklifts": {}
+                                }
                             },
-                            "Trains": {
-                              "By Service Type": {
-                                "Passenger Trains": {},
-                                "Freight Trains": {},
-                                "High-speed Trains": {}
-                              },
-                              "By Propulsion": {
-                                "Electric Locomotives": {},
-                                "Diesel Locomotives": {},
-                                "Steam Locomotives": {}
-                              },
-                              "By Specialty": {
-                                "Bullet Trains": {},
-                                "Monorails": {},
-                                "Light Rails": {}
-                              }
+                            "Air": {
+                                "Aeroplanes": {
+                                    "Commercial Aircraft": {
+                                        "Narrow-body Aircraft": {},
+                                        "Wide-body Aircraft": {},
+                                        "Regional Jets": {}
+                                    },
+                                    "Private Aircraft": {
+                                        "Business Jets": {},
+                                        "Private Planes": {},
+                                        "Helicopters": {}
+                                    }
+                                },
+                                "Helicopters": {
+                                    "Utility Helicopters": {},
+                                    "Attack Helicopters": {},
+                                    "Transport Helicopters": {}
+                                },
+                                "Drones": {
+                                    "Consumer Drones": {},
+                                    "Commercial Drones": {},
+                                    "Military Drones": {}
+                                },
+                                "Gliders": {},
+                                "Blimps": {},
+                                "Hang Gliders": {}
                             },
-                            "Motorcycles": {
-                              "By Type": {
-                                "Cruiser Motorcycles": {},
-                                "Sport Bikes": {},
-                                "Touring Motorcycles": {},
-                                "Dirt Bikes": {}
-                              },
-                              "By Engine Size": {
-                                "Under 500cc": {},
-                                "500cc to 1000cc": {},
-                                "Over 1000cc": {}
-                              },
-                              "By Purpose": {
-                                "Road Motorcycles": {},
-                                "Off-Road Motorcycles": {},
-                                "Racing Motorcycles": {}
-                              }
+                            "Water": {
+                                "Ships": {
+                                    "Cargo Ships": {
+                                        "Container Ships": {},
+                                        "Bulk Carriers": {},
+                                        "Tankers": {}
+                                    },
+                                    "Passenger Ships": {
+                                        "Cruise Ships": {},
+                                        "Ferries": {}
+                                    },
+                                    "Specialized Ships": {
+                                        "Icebreakers": {},
+                                        "Research Vessels": {}
+                                    }
+                                },
+                                "Boats": {
+                                    "Motorboats": {
+                                        "Speedboats": {},
+                                        "Fishing Boats": {}
+                                    },
+                                    "Sailboats": {
+                                        "Yachts": {},
+                                        "Dinghies": {}
+                                    },
+                                    "Small Craft": {
+                                        "Kayaks": {},
+                                        "Canoes": {}
+                                    }
+                                },
+                                "Submarines": {
+                                    "Military Submarines": {
+                                        "Ballistic Missile Submarines": {},
+                                        "Attack Submarines": {}
+                                    },
+                                    "Research Submarines": {
+                                        "Deep Sea Submersibles": {},
+                                        "Autonomous Underwater Vehicles": {}
+                                    }
+                                },
+                                "Yachts": {
+                                    "Luxury Yachts": {},
+                                    "Super Yachts": {}
+                                }
                             },
-                            "Commercial Vehicles": {
-                              "Delivery Vans": {},
-                              "Dump Trucks": {},
-                              "Semi-trailer Trucks": {}
-                            },
-                            "Public Transportation": {
-                              "City Buses": {},
-                              "School Buses": {},
-                              "Trams": {}
-                            },
-                            "Personal Vehicles": {
-                              "Sedans": {},
-                              "SUVs": {},
-                              "Convertibles": {},
-                              "Hatchbacks": {}
-                            },
-                            "Specialized Vehicles": {
-                              "Ambulances": {},
-                              "Fire Engines": {},
-                              "Police Cars": {}
-                            },
-                            "Agricultural Vehicles": {
-                              "Harvesters": {},
-                              "Tractors": {},
-                              "Ploughs": {}
-                            },
-                            "Construction Vehicles": {
-                              "Excavators": {},
-                              "Bulldozers": {},
-                              "Cranes": {},
-                              "Forklifts": {}
+                            "Space": {
+                                "Manned Spacecraft": {
+                                    "Space Shuttles": {},
+                                    "Space Stations": {
+                                        "Low Earth Orbit Stations": {},
+                                        "Lunar Orbit Stations": {}
+                                    },
+                                    "Exploration Spacecraft": {
+                                        "Mars Rovers": {},
+                                        "Lunar Landers": {},
+                                        "Deep Space Probes": {}
+                                    }
+                                },
+                                "Unmanned Spacecraft": {
+                                    "Satellites": {
+                                        "Communication Satellites": {},
+                                        "Weather Satellites": {},
+                                        "Earth Observation Satellites": {}
+                                    },
+                                    "Space Probes": {
+                                        "Interplanetary Probes": {},
+                                        "Asteroid Probes": {},
+                                        "Comet Probes": {}
+                                    },
+                                    "Rovers": {
+                                        "Mars Rovers": {},
+                                        "Lunar Rovers": {}
+                                    }
+                                },
+                                "Launch Vehicles": {
+                                    "Orbital Rockets": {
+                                        "Heavy-lift Launch Vehicles": {},
+                                        "Medium-lift Launch Vehicles": {},
+                                        "Light-lift Launch Vehicles": {}
+                                    },
+                                    "Suborbital Rockets": {},
+                                    "Spaceplanes": {}
+                                }
                             }
-                        },
-                          "Air": {
-                            "Aeroplanes": {
-                              "Commercial Aircraft": {
-                                "Narrow-body Aircraft": {},
-                                "Wide-body Aircraft": {},
-                                "Regional Jets": {}
-                              },
-                              "Private Aircraft": {
-                                "Business Jets": {},
-                                "Private Planes": {},
-                                "Helicopters": {}
-                              }
-                            },
-                            "Helicopters": {
-                              "Utility Helicopters": {},
-                              "Attack Helicopters": {},
-                              "Transport Helicopters": {}
-                            },
-                            "Drones": {
-                              "Consumer Drones": {},
-                              "Commercial Drones": {},
-                              "Military Drones": {}
-                            },
-                            "Gliders": {},
-                            "Blimps": {},
-                            "Hang Gliders": {}
-                          },
-                          "Water": {
-                            "Ships": {
-                              "Cargo Ships": {
-                                "Container Ships": {},
-                                "Bulk Carriers": {},
-                                "Tankers": {}
-                              },
-                              "Passenger Ships": {
-                                "Cruise Ships": {},
-                                "Ferries": {}
-                              },
-                              "Specialized Ships": {
-                                "Icebreakers": {},
-                                "Research Vessels": {}
-                              }
-                            },
-                            "Boats": {
-                              "Motorboats": {
-                                "Speedboats": {},
-                                "Fishing Boats": {}
-                              },
-                              "Sailboats": {
-                                "Yachts": {},
-                                "Dinghies": {}
-                              },
-                              "Small Craft": {
-                                "Kayaks": {},
-                                "Canoes": {}
-                              }
-                            },
-                            "Submarines": {
-                              "Military Submarines": {
-                                "Ballistic Missile Submarines": {},
-                                "Attack Submarines": {}
-                              },
-                              "Research Submarines": {
-                                "Deep Sea Submersibles": {},
-                                "Autonomous Underwater Vehicles": {}
-                              }
-                            },
-                            "Yachts": {
-                              "Luxury Yachts": {},
-                              "Super Yachts": {}
-                            }
-                          },
-                          "Space": {
-                            "Manned Spacecraft": {
-                              "Space Shuttles": {},
-                              "Space Stations": {
-                                "Low Earth Orbit Stations": {},
-                                "Lunar Orbit Stations": {}
-                              },
-                              "Exploration Spacecraft": {
-                                "Mars Rovers": {},
-                                "Lunar Landers": {},
-                                "Deep Space Probes": {}
-                              }
-                            },
-                            "Unmanned Spacecraft": {
-                              "Satellites": {
-                                "Communication Satellites": {},
-                                "Weather Satellites": {},
-                                "Earth Observation Satellites": {}
-                              },
-                              "Space Probes": {
-                                "Interplanetary Probes": {},
-                                "Asteroid Probes": {},
-                                "Comet Probes": {}
-                              },
-                              "Rovers": {
-                                "Mars Rovers": {},
-                                "Lunar Rovers": {}
-                              }
-                            },
-                            "Launch Vehicles": {
-                              "Orbital Rockets": {
-                                "Heavy-lift Launch Vehicles": {},
-                                "Medium-lift Launch Vehicles": {},
-                                "Light-lift Launch Vehicles": {}
-                              },
-                              "Suborbital Rockets": {},
-                              "Spaceplanes": {}
-                            }
-                          }                          
                         },
                         "Technology & Devices": {
                             "Computing Equipment": {
-                              "Personal Computing": {
-                                "Desktops": {
-                                  "Gaming Desktops": {},
-                                  "Workstations": {}
+                                "Personal Computing": {
+                                    "Desktops": {
+                                        "Gaming Desktops": {},
+                                        "Workstations": {}
+                                    },
+                                    "Laptops": {
+                                        "Ultrabooks": {},
+                                        "Gaming Laptops": {},
+                                        "Netbooks": {}
+                                    },
+                                    "Tablets": {
+                                        "iOS Tablets": {},
+                                        "Android Tablets": {},
+                                        "Windows Tablets": {}
+                                    }
                                 },
-                                "Laptops": {
-                                  "Ultrabooks": {},
-                                  "Gaming Laptops": {},
-                                  "Netbooks": {}
+                                "Data Centers": {
+                                    "Servers": {
+                                        "Blade Servers": {},
+                                        "Rack Servers": {}
+                                    },
+                                    "Storage Solutions": {
+                                        "SAN Storage": {},
+                                        "NAS Storage": {}
+                                    }
                                 },
-                                "Tablets": {
-                                  "iOS Tablets": {},
-                                  "Android Tablets": {},
-                                  "Windows Tablets": {}
+                                "Network Devices": {
+                                    "Routers": {
+                                        "Wireless Routers": {},
+                                        "Core Routers": {}
+                                    },
+                                    "Switches": {
+                                        "Managed Switches": {},
+                                        "Unmanaged Switches": {}
+                                    },
+                                    "Modems": {
+                                        "DSL Modems": {},
+                                        "Cable Modems": {}
+                                    }
                                 }
-                              },
-                              "Data Centers": {
-                                "Servers": {
-                                  "Blade Servers": {},
-                                  "Rack Servers": {}
-                                },
-                                "Storage Solutions": {
-                                  "SAN Storage": {},
-                                  "NAS Storage": {}
-                                }
-                              },
-                              "Network Devices": {
-                                "Routers": {
-                                  "Wireless Routers": {},
-                                  "Core Routers": {}
-                                },
-                                "Switches": {
-                                  "Managed Switches": {},
-                                  "Unmanaged Switches": {}
-                                },
-                                "Modems": {
-                                  "DSL Modems": {},
-                                  "Cable Modems": {}
-                                }
-                              }
                             },
                             "Mobile Devices": {
-                              "Phones": {
-                                "Smartphones": {
-                                  "Flagship Phones": {},
-                                  "Budget Phones": {}
+                                "Phones": {
+                                    "Smartphones": {
+                                        "Flagship Phones": {},
+                                        "Budget Phones": {}
+                                    },
+                                    "Feature Phones": {}
                                 },
-                                "Feature Phones": {}
-                              },
-                              "Wearables": {
-                                "Smartwatches": {
-                                  "Fitness Smartwatches": {},
-                                  "Luxury Smartwatches": {}
+                                "Wearables": {
+                                    "Smartwatches": {
+                                        "Fitness Smartwatches": {},
+                                        "Luxury Smartwatches": {}
+                                    },
+                                    "Fitness Trackers": {},
+                                    "VR Headsets": {}
                                 },
-                                "Fitness Trackers": {},
-                                "VR Headsets": {}
-                              },
-                              "Portable Media Devices": {
-                                "MP3 Players": {},
-                                "Portable Gaming Consoles": {}
-                              }
+                                "Portable Media Devices": {
+                                    "MP3 Players": {},
+                                    "Portable Gaming Consoles": {}
+                                }
                             },
                             "Entertainment Systems": {
-                              "Audio Equipment": {
-                                "Speakers": {
-                                  "Studio Monitors": {},
-                                  "Portable Speakers": {}
+                                "Audio Equipment": {
+                                    "Speakers": {
+                                        "Studio Monitors": {},
+                                        "Portable Speakers": {}
+                                    },
+                                    "Headphones": {
+                                        "Earbuds": {},
+                                        "Over-the-Ear": {}
+                                    },
+                                    "Amplifiers": {
+                                        "Integrated Amplifiers": {},
+                                        "Pre-Amplifiers": {}
+                                    }
                                 },
-                                "Headphones": {
-                                  "Earbuds": {},
-                                  "Over-the-Ear": {}
+                                "Video Equipment": {
+                                    "Televisions": {
+                                        "4K Televisions": {},
+                                        "Smart Televisions": {}
+                                    },
+                                    "Projectors": {
+                                        "4K Projectors": {},
+                                        "Portable Projectors": {}
+                                    },
+                                    "Media Players": {
+                                        "Streaming Devices": {},
+                                        "Blu-ray Players": {}
+                                    }
                                 },
-                                "Amplifiers": {
-                                  "Integrated Amplifiers": {},
-                                  "Pre-Amplifiers": {}
+                                "Gaming": {
+                                    "Consoles": {
+                                        "Home Gaming Consoles": {},
+                                        "Handheld Gaming Consoles": {}
+                                    },
+                                    "Gaming Accessories": {
+                                        "Controllers": {},
+                                        "VR Accessories": {}
+                                    }
                                 }
-                              },
-                              "Video Equipment": {
-                                "Televisions": {
-                                  "4K Televisions": {},
-                                  "Smart Televisions": {}
-                                },
-                                "Projectors": {
-                                  "4K Projectors": {},
-                                  "Portable Projectors": {}
-                                },
-                                "Media Players": {
-                                  "Streaming Devices": {},
-                                  "Blu-ray Players": {}
-                                }
-                              },
-                              "Gaming": {
-                                "Consoles": {
-                                  "Home Gaming Consoles": {},
-                                  "Handheld Gaming Consoles": {}
-                                },
-                                "Gaming Accessories": {
-                                  "Controllers": {},
-                                  "VR Accessories": {}
-                                }
-                              }
                             },
                             "Home & Office Appliances": {
-                              "Kitchen Appliances": {
-                                "Refrigerators": {
-                                  "French Door Refrigerators": {},
-                                  "Compact Refrigerators": {}
+                                "Kitchen Appliances": {
+                                    "Refrigerators": {
+                                        "French Door Refrigerators": {},
+                                        "Compact Refrigerators": {}
+                                    },
+                                    "Cooking Appliances": {
+                                        "Microwaves": {},
+                                        "Ovens": {}
+                                    },
+                                    "Dishwashers": {
+                                        "Built-in Dishwashers": {},
+                                        "Portable Dishwashers": {}
+                                    }
                                 },
-                                "Cooking Appliances": {
-                                  "Microwaves": {},
-                                  "Ovens": {}
+                                "Cleaning Appliances": {
+                                    "Vacuum Cleaners": {
+                                        "Upright Vacuum Cleaners": {},
+                                        "Robotic Vacuum Cleaners": {}
+                                    },
+                                    "Washing Machines": {
+                                        "Front Loading": {},
+                                        "Top Loading": {}
+                                    },
+                                    "Air Purifiers": {
+                                        "HEPA Air Purifiers": {},
+                                        "Ionic Air Purifiers": {}
+                                    }
                                 },
-                                "Dishwashers": {
-                                  "Built-in Dishwashers": {},
-                                  "Portable Dishwashers": {}
+                                "Office Equipment": {
+                                    "Printers": {
+                                        "Laser Printers": {},
+                                        "Inkjet Printers": {}
+                                    },
+                                    "Shredders": {
+                                        "Cross-Cut Shredders": {},
+                                        "Micro-Cut Shredders": {}
+                                    },
+                                    "Copiers": {
+                                        "Color Copiers": {},
+                                        "Monochrome Copiers": {}
+                                    }
                                 }
-                              },
-                              "Cleaning Appliances": {
-                                "Vacuum Cleaners": {
-                                  "Upright Vacuum Cleaners": {},
-                                  "Robotic Vacuum Cleaners": {}
-                                },
-                                "Washing Machines": {
-                                  "Front Loading": {},
-                                  "Top Loading": {}
-                                },
-                                "Air Purifiers": {
-                                  "HEPA Air Purifiers": {},
-                                  "Ionic Air Purifiers": {}
-                                }
-                              },
-                              "Office Equipment": {
-                                "Printers": {
-                                  "Laser Printers": {},
-                                  "Inkjet Printers": {}
-                                },
-                                "Shredders": {
-                                  "Cross-Cut Shredders": {},
-                                  "Micro-Cut Shredders": {}
-                                },
-                                "Copiers": {
-                                  "Color Copiers": {},
-                                  "Monochrome Copiers": {}
-                                }
-                              }
                             }
-                          },
+                        },
                         "Infrastructure": {
-                          "Transport": {
-                            "Roads": {},
-                            "Bridges": {},
-                            "Tunnels": {},
-                            "Airports": {},
-                            "Ports": {},
-                            "Subway Systems": {},
-                            "High-speed Rail": {},
-                            "Cable Cars": {},
-                            "Electric Charging Stations": {}
-                          },
-                          "Utilities": {
-                            "Power Plants": {},
-                            "Water Treatment": {},
-                            "Waste Management": {},
-                            "Solar Farms": {},
-                            "Wind Turbines": {},
-                            "Hydroelectric Dams": {},
-                            "Recycling Facilities": {}
-                          },
-                          "Communications": {
-                            "Internet": {
-                              "Data Centers": {},
-                              "Networking Hardware": {}
+                            "Transport": {
+                                "Roads": {},
+                                "Bridges": {},
+                                "Tunnels": {},
+                                "Airports": {},
+                                "Ports": {},
+                                "Subway Systems": {},
+                                "High-speed Rail": {},
+                                "Cable Cars": {},
+                                "Electric Charging Stations": {}
                             },
-                            "Postal": {},
-                            "Telecommunications": {
-                              "Cell Towers": {},
-                              "Undersea Cables": {}
+                            "Utilities": {
+                                "Power Plants": {},
+                                "Water Treatment": {},
+                                "Waste Management": {},
+                                "Solar Farms": {},
+                                "Wind Turbines": {},
+                                "Hydroelectric Dams": {},
+                                "Recycling Facilities": {}
                             },
-                            "Broadcasting Towers": {},
-                            "Optical Fiber Networks": {},
-                            "Satellite Dishes": {},
-                            "Radio Telescopes": {}
-                          }
+                            "Communications": {
+                                "Internet": {
+                                    "Data Centers": {},
+                                    "Networking Hardware": {}
+                                },
+                                "Postal": {},
+                                "Telecommunications": {
+                                    "Cell Towers": {},
+                                    "Undersea Cables": {}
+                                },
+                                "Broadcasting Towers": {},
+                                "Optical Fiber Networks": {},
+                                "Satellite Dishes": {},
+                                "Radio Telescopes": {}
+                            }
                         }
                     },
                     "Cultural Objects": {
@@ -916,7 +1058,7 @@
                             "Hieroglyphs": {}
                         }
                     }
-                }                
+                }
             }
         },
         "Time": {
@@ -1060,6 +1202,11 @@
         "Location": {
             "Geographic Location": {
                 "Natural Features": {
+                    "Mountains": {
+                        "Mountain Ranges": {},
+                        "Peaks": {},
+                        "Volcanoes": {}
+                    },
                     "Water Bodies": {
                         "Seas": {
                             "Inland Seas": {
@@ -1527,14 +1674,10 @@
                         }
                     },
                     "Cities and Towns": {
-                        "Capital Cities": {
-                        },
-                        "Metropolitan Areas": {
-                        },
-                        "Small Towns": {
-                        },
-                        "Villages": {
-                        }
+                        "Capital Cities": {},
+                        "Metropolitan Areas": {},
+                        "Small Towns": {},
+                        "Villages": {}
                     }
                 },
                 "Man-Made Features": {
@@ -1992,1335 +2135,1522 @@
                             "Kinetics": {},
                             "Surface Science": {}
                         }
+                    },
+                    "Computer and Information Sciences": {
+                        "Information Technology": {
+                            "Network Administration": {},
+                            "Cybersecurity": {},
+                            "Database Management": {},
+                            "Cloud Computing": {},
+                            "IT Support": {}
+                        },
+                        "Computer Science": {
+                            "Theoretical Computer Science": {
+                                "Algorithms": {
+                                    "Algorithm Types": {
+                                        "Sorting Algorithms": {
+                                            "Quick Sort": {},
+                                            "Merge Sort": {},
+                                            "Heap Sort": {},
+                                            "Bubble Sort": {}
+                                        },
+                                        "Search Algorithms": {
+                                            "Binary Search": {},
+                                            "Depth-First Search": {},
+                                            "Breadth-First Search": {}
+                                        },
+                                        "Graph Algorithms": {
+                                            "Dijkstra's Algorithm": {},
+                                            "A* Search Algorithm": {},
+                                            "Bellman-Ford Algorithm": {}
+                                        },
+                                        "Dynamic Programming": {
+                                            "Fibonacci Series": {},
+                                            "Knapsack Problem": {},
+                                            "Shortest Path Problems": {}
+                                        },
+                                        "Greedy Algorithms": {
+                                            "Huffman Coding": {},
+                                            "Prim's Algorithm": {}
+                                        }
+                                    },
+                                    "Algorithm Design Paradigms": {
+                                        "Divide and Conquer": {},
+                                        "Dynamic Programming": {},
+                                        "Backtracking": {},
+                                        "Greedy Technique": {}
+                                    },
+                                    "Complexity Theory": {
+                                        "Time Complexity": {},
+                                        "Space Complexity": {}
+                                    },
+                                    "Algorithmic Techniques": {
+                                        "Recursion": {},
+                                        "Memoization": {},
+                                        "Heuristic Methods": {}
+                                    },
+                                    "Cryptographic Algorithms": {
+                                        "Symmetric-Key Algorithms": {},
+                                        "Public-Key Algorithms": {},
+                                        "Hash Functions": {}
+                                    },
+                                    "Randomized Algorithms": {},
+                                    "Parallel Algorithms": {},
+                                    "Distributed Algorithms": {}
+                                },
+                                "Data Structures": {},
+                                "Computability Theory": {},
+                                "Quantum Computing": {},
+                                "Compiler Theory": {
+                                    "Lexical Analysis": {
+                                        "Tokenization": {},
+                                        "Lexical Conventions": {},
+                                        "Regular Expressions": {}
+                                    },
+                                    "Syntax Analysis": {
+                                        "Context-Free Grammars": {},
+                                        "Parse Trees": {},
+                                        "LL and LR Parsing": {}
+                                    },
+                                    "Semantic Analysis": {
+                                        "Type Checking": {},
+                                        "Symbol Table": {},
+                                        "Scope Resolution": {}
+                                    },
+                                    "Intermediate Code Generation": {
+                                        "Abstract Syntax Trees": {},
+                                        "Three-Address Code": {},
+                                        "Quadruples and Triples": {}
+                                    },
+                                    "Optimization": {
+                                        "Loop Optimization": {},
+                                        "Data Flow Analysis": {},
+                                        "Constant Propagation": {}
+                                    },
+                                    "Code Generation": {
+                                        "Instruction Selection": {},
+                                        "Register Allocation": {},
+                                        "Instruction Scheduling": {}
+                                    },
+                                    "Dependence Tests": {
+                                        "Banerjee Test": {},
+                                        "GCD Test": {},
+                                        "Lambda Test": {},
+                                        "Omega Test": {}
+                                    },
+                                    "Runtime Environment": {
+                                        "Stack Management": {},
+                                        "Heap Management": {},
+                                        "Garbage Collection": {}
+                                    },
+                                    "Parallelism": {
+                                        "Loop Parallelization": {},
+                                        "Instruction-Level Parallelism": {},
+                                        "Data Parallelism": {}
+                                    },
+                                    "Error Handling": {
+                                        "Syntax Errors": {},
+                                        "Semantic Errors": {},
+                                        "Runtime Exceptions": {}
+                                    }
+                                },
+                                "Software Development": {
+                                    "Software Engineering": {},
+                                    "Web Development": {},
+                                    "Mobile Application Development": {},
+                                    "Game Development": {},
+                                    "DevOps Practices": {}
+                                },
+                                "Programming Languages": {
+                                    "High-Level Languages": {
+                                        "Python": {},
+                                        "Java": {},
+                                        "C#": {},
+                                        "Ruby": {}
+                                    },
+                                    "Low-Level Languages": {
+                                        "C": {},
+                                        "Assembly Language": {}
+                                    },
+                                    "Scripting Languages": {
+                                        "JavaScript": {},
+                                        "PHP": {},
+                                        "Perl": {}
+                                    },
+                                    "Functional Languages": {
+                                        "Haskell": {},
+                                        "Erlang": {},
+                                        "Scala": {}
+                                    }
+                                },
+                                "Artificial Intelligence": {
+                                    "Machine Learning": {
+                                        "Deep Learning": {},
+                                        "Natural Language Processing": {}
+                                    },
+                                    "Robotics": {},
+                                    "Computer Vision": {},
+                                    "Expert Systems": {}
+                                },
+                                "Human-Computer Interaction": {
+                                    "User Experience Design": {},
+                                    "User Interface Design": {}
+                                },
+                                "Data Science": {
+                                    "Big Data": {},
+                                    "Data Mining": {},
+                                    "Statistical Analysis": {},
+                                    "Information Retrieval": {
+                                        "Indexing": {
+                                            "Inverted Index": {}
+                                        }
+                                    }
+                                },
+                                "Databases": {
+                                    "Database Design": {},
+                                    "Database Management Systems": {},
+                                    "Data Structures": {
+                                        "Indexing Structures": {
+                                            "Inverted Index": {}
+                                        }
+                                    }
+                                },
+                                "Hardware Engineering": {
+                                    "Computer Architecture": {},
+                                    "Microprocessors": {},
+                                    "Embedded Systems": {}
+                                }
+                            }
+                        }
+                    },
+                    "Humanities": {
+                        "History": {
+                            "Ancient": {
+                                "Classical Antiquity": {},
+                                "Prehistoric History": {},
+                                "Ancient Civilizations": {}
+                            },
+                            "Medieval": {
+                                "Feudalism": {},
+                                "Medieval Warfare": {},
+                                "Medieval Society": {}
+                            },
+                            "Modern": {
+                                "Industrial Revolution": {},
+                                "Contemporary History": {},
+                                "Post-Colonial Studies": {}
+                            }
+                        },
+                        "Literature": {
+                            "Classics": {
+                                "Greek Literature": {},
+                                "Roman Literature": {},
+                                "Classical Reception": {}
+                            },
+                            "Contemporary": {
+                                "Modernist Literature": {},
+                                "Postmodern Literature": {},
+                                "Digital Literature": {}
+                            },
+                            "World Literature": {
+                                "African Literature": {},
+                                "Asian Literature": {},
+                                "Latin American Literature": {}
+                            }
+                        },
+                        "Philosophy": {
+                            "Ethics": {
+                                "Virtue Ethics": {
+                                    "Aristotelian Ethics": {},
+                                    "Modern Virtue Ethics": {}
+                                },
+                                "Deontology": {
+                                    "Kantian Ethics": {},
+                                    "Rights-based Approaches": {}
+                                },
+                                "Consequentialism": {
+                                    "Utilitarianism": {},
+                                    "Ethical Egoism": {}
+                                }
+                            },
+                            "Logic": {
+                                "Symbolic Logic": {},
+                                "Philosophical Logic": {},
+                                "Mathematical Logic": {}
+                            },
+                            "Metaphysics": {
+                                "Ontology": {
+                                    "Existentialism": {},
+                                    "Phenomenology": {},
+                                    "Process Philosophy": {}
+                                },
+                                "Epistemology": {
+                                    "Skepticism": {},
+                                    "Rationalism": {},
+                                    "Empiricism": {}
+                                },
+                                "Cosmology": {
+                                    "Physical Cosmology": {},
+                                    "Philosophical Cosmology": {},
+                                    "Religious Cosmology": {}
+                                }
+                            }
+                        }
+                    },
+                    "Social Sciences": {
+                        "Psychology": {
+                            "Clinical": {
+                                "Psychotherapy": {},
+                                "Clinical Neuropsychology": {},
+                                "Child and Adolescent Psychology": {}
+                            },
+                            "Cognitive": {
+                                "Memory": {},
+                                "Perception": {},
+                                "Language Acquisition": {}
+                            },
+                            "Developmental": {
+                                "Lifespan Development": {},
+                                "Cognitive Development": {},
+                                "Social Development": {}
+                            }
+                        },
+                        "Sociology": {
+                            "Criminology": {
+                                "Juvenile Delinquency": {},
+                                "White-collar Crime": {},
+                                "Penology": {}
+                            },
+                            "Demography": {
+                                "Population Studies": {},
+                                "Migration": {},
+                                "Urbanization": {}
+                            },
+                            "Urban": {
+                                "Urban Planning": {},
+                                "Community Development": {},
+                                "Urban Sociology": {}
+                            }
+                        },
+                        "Economics": {
+                            "Microeconomics": {
+                                "Consumer Behavior": {},
+                                "Market Structure": {},
+                                "Game Theory": {}
+                            },
+                            "Macroeconomics": {
+                                "Economic Growth": {},
+                                "Monetary Policy": {},
+                                "Fiscal Policy": {}
+                            },
+                            "Econometrics": {
+                                "Regression Analysis": {},
+                                "Time Series Analysis": {},
+                                "Economic Forecasting": {}
+                            }
+                        }
                     }
                 },
-                "Humanities": {
-                    "History": {
-                        "Ancient": {
-                            "Classical Antiquity": {},
-                            "Prehistoric History": {},
-                            "Ancient Civilizations": {}
-                        },
-                        "Medieval": {
-                            "Feudalism": {},
-                            "Medieval Warfare": {},
-                            "Medieval Society": {}
-                        },
-                        "Modern": {
-                            "Industrial Revolution": {},
-                            "Contemporary History": {},
-                            "Post-Colonial Studies": {}
-                        }
-                    },
-                    "Literature": {
-                        "Classics": {
-                            "Greek Literature": {},
-                            "Roman Literature": {},
-                            "Classical Reception": {}
-                        },
-                        "Contemporary": {
-                            "Modernist Literature": {},
-                            "Postmodern Literature": {},
-                            "Digital Literature": {}
-                        },
-                        "World Literature": {
-                            "African Literature": {},
-                            "Asian Literature": {},
-                            "Latin American Literature": {}
-                        }
-                    },
-                    "Philosophy": {
-                        "Ethics": {
-                            "Virtue Ethics": {
-                                "Aristotelian Ethics": {},
-                                "Modern Virtue Ethics": {}
+                "Artistic Subject": {
+                    "Visual Arts": {
+                        "Painting": {
+                            "Oil Painting": {
+                                "Portrait Painting": {},
+                                "Landscape Painting": {},
+                                "Abstract Painting": {}
                             },
-                            "Deontology": {
-                                "Kantian Ethics": {},
-                                "Rights-based Approaches": {}
+                            "Watercolor": {
+                                "Still Life": {},
+                                "Urban Sketching": {},
+                                "Watercolor Portraiture": {}
                             },
-                            "Consequentialism": {
-                                "Utilitarianism": {},
-                                "Ethical Egoism": {}
+                            "Acrylics": {
+                                "Mixed Media": {},
+                                "Acrylic Pouring": {},
+                                "Pop Art": {}
                             }
                         },
-                        "Logic": {
-                            "Symbolic Logic": {},
-                            "Philosophical Logic": {},
-                            "Mathematical Logic": {}
+                        "Sculpture": {
+                            "Stone Carving": {
+                                "Marble Sculpture": {},
+                                "Limestone Carving": {},
+                                "Granite Sculpture": {}
+                            },
+                            "Bronze Casting": {
+                                "Lost-wax Casting": {},
+                                "Sand Casting": {},
+                                "Figurative Sculpture": {}
+                            },
+                            "Wood Sculpting": {
+                                "Relief Carving": {},
+                                "Whittling": {},
+                                "Chainsaw Carving": {}
+                            }
                         },
-                        "Metaphysics": {
-                            "Ontology": {
-                                "Existentialism": {},
-                                "Phenomenology": {},
-                                "Process Philosophy": {}
+                        "Photography": {
+                            "Portrait": {
+                                "Studio Photography": {},
+                                "Environmental Portraiture": {},
+                                "Headshots": {}
                             },
-                            "Epistemology": {
-                                "Skepticism": {},
-                                "Rationalism": {},
-                                "Empiricism": {}
+                            "Landscape": {
+                                "Nature Photography": {},
+                                "Urban Landscape": {},
+                                "Astrophotography": {}
                             },
-                            "Cosmology": {
-                                "Physical Cosmology": {},
-                                "Philosophical Cosmology": {},
-                                "Religious Cosmology": {}
+                            "Wildlife": {
+                                "Bird Photography": {},
+                                "Macro Photography": {},
+                                "Underwater Photography": {}
+                            }
+                        },
+                        "Digital Arts": {
+                            "Graphic Design": {
+                                "Branding": {},
+                                "Typography": {},
+                                "Web Design": {}
+                            },
+                            "3D Modeling": {
+                                "Character Design": {},
+                                "Architectural Visualization": {},
+                                "Product Modeling": {}
+                            },
+                            "Animation": {
+                                "2D Animation": {},
+                                "3D Animation": {},
+                                "Motion Graphics": {}
+                            }
+                        }
+                    },
+                    "Performing Arts": {
+                        "Music": {
+                            "Composition": {
+                                "Film Scoring": {},
+                                "Electronic Music": {},
+                                "Orchestral Composition": {}
+                            },
+                            "Performance": {
+                                "Solo": {
+                                    "Piano": {},
+                                    "Violin": {},
+                                    "Classical Guitar": {}
+                                },
+                                "Ensemble": {
+                                    "Chamber Music": {},
+                                    "Jazz Band": {},
+                                    "Rock Group": {}
+                                }
+                            },
+                            "Music Theory": {
+                                "Harmony": {},
+                                "Counterpoint": {},
+                                "Music Analysis": {}
+                            }
+                        },
+                        "Dance": {
+                            "Ballet": {
+                                "Classical Ballet": {},
+                                "Contemporary Ballet": {},
+                                "Neoclassical Ballet": {}
+                            },
+                            "Contemporary": {
+                                "Modern Dance": {},
+                                "Improvisation": {},
+                                "Dance Theater": {}
+                            },
+                            "Ballroom": {
+                                "Latin Dance": {},
+                                "Standard Ballroom": {},
+                                "Swing Dance": {}
+                            }
+                        },
+                        "Theater": {
+                            "Acting": {
+                                "Method Acting": {},
+                                "Classical Acting": {},
+                                "Physical Theater": {}
+                            },
+                            "Directing": {
+                                "Stage Direction": {},
+                                "Film Direction": {},
+                                "Opera Directing": {}
+                            },
+                            "Playwriting": {
+                                "Dramatic Writing": {},
+                                "Screenwriting": {},
+                                "Storytelling": {}
+                            }
+                        },
+                        "Circus Arts": {
+                            "Acrobatics": {
+                                "Tumbling": {},
+                                "Partner Acrobatics": {},
+                                "Aerial Silks": {}
+                            },
+                            "Clowning": {
+                                "Character Clown": {},
+                                "Physical Comedy": {},
+                                "Circus Clown": {}
+                            },
+                            "Juggling": {
+                                "Ball Juggling": {},
+                                "Club Juggling": {},
+                                "Fire Juggling": {}
+                            }
+                        }
+                    },
+                    "Literary Arts": {
+                        "Poetry": {
+                            "Lyric": {
+                                "Sonnet": {},
+                                "Haiku": {},
+                                "Free Verse": {}
+                            },
+                            "Narrative": {
+                                "Epic Poetry": {},
+                                "Ballad": {},
+                                "Verse Novel": {}
+                            },
+                            "Epic": {
+                                "Heroic Epic": {},
+                                "Mock Epic": {},
+                                "Modern Epic": {}
+                            }
+                        },
+                        "Prose": {
+                            "Fiction": {
+                                "Novel": {
+                                    "Historical Novel": {},
+                                    "Science Fiction": {},
+                                    "Fantasy": {}
+                                },
+                                "Short Story": {
+                                    "Flash Fiction": {},
+                                    "Anthology": {},
+                                    "Genre Fiction": {}
+                                }
+                            },
+                            "Non-Fiction": {
+                                "Essay": {
+                                    "Personal Essay": {},
+                                    "Argumentative Essay": {},
+                                    "Descriptive Essay": {}
+                                },
+                                "Biography": {
+                                    "Autobiography": {},
+                                    "Memoir": {},
+                                    "Literary Biography": {}
+                                },
+                                "Creative Nonfiction": {
+                                    "Travel Writing": {},
+                                    "Food Writing": {},
+                                    "Nature Writing": {}
+                                }
+                            }
+                        },
+                        "Drama": {
+                            "Tragedy": {
+                                "Greek Tragedy": {},
+                                "Shakespearean Tragedy": {},
+                                "Modern Tragedy": {}
+                            },
+                            "Comedy": {
+                                "Satire": {},
+                                "Romantic Comedy": {},
+                                "Commedia dell'arte": {}
+                            },
+                            "Tragicomedy": {
+                                "Dark Comedy": {},
+                                "Absurdist Fiction": {},
+                                "Dramedy": {}
                             }
                         }
                     }
                 },
-                "Social Sciences": {
-                    "Psychology": {
-                        "Clinical": {
-                            "Psychotherapy": {},
-                            "Clinical Neuropsychology": {},
-                            "Child and Adolescent Psychology": {}
-                        },
-                        "Cognitive": {
-                            "Memory": {},
-                            "Perception": {},
-                            "Language Acquisition": {}
-                        },
-                        "Developmental": {
-                            "Lifespan Development": {},
-                            "Cognitive Development": {},
-                            "Social Development": {}
-                        }
-                    },
-                    "Sociology": {
-                        "Criminology": {
-                            "Juvenile Delinquency": {},
-                            "White-collar Crime": {},
-                            "Penology": {}
-                        },
-                        "Demography": {
-                            "Population Studies": {},
-                            "Migration": {},
-                            "Urbanization": {}
-                        },
-                        "Urban": {
-                            "Urban Planning": {},
-                            "Community Development": {},
-                            "Urban Sociology": {}
-                        }
-                    },
-                    "Economics": {
-                        "Microeconomics": {
-                            "Consumer Behavior": {},
-                            "Market Structure": {},
-                            "Game Theory": {}
-                        },
-                        "Macroeconomics": {
-                            "Economic Growth": {},
-                            "Monetary Policy": {},
-                            "Fiscal Policy": {}
-                        },
-                        "Econometrics": {
-                            "Regression Analysis": {},
-                            "Time Series Analysis": {},
-                            "Economic Forecasting": {}
-                        }
-                    }
-                }
-            },
-            "Artistic Subject": {
-                "Visual Arts": {
-                    "Painting": {
-                        "Oil Painting": {
-                            "Portrait Painting": {},
-                            "Landscape Painting": {},
-                            "Abstract Painting": {}
-                        },
-                        "Watercolor": {
-                            "Still Life": {},
-                            "Urban Sketching": {},
-                            "Watercolor Portraiture": {}
-                        },
-                        "Acrylics": {
-                            "Mixed Media": {},
-                            "Acrylic Pouring": {},
-                            "Pop Art": {}
-                        }
-                    },
-                    "Sculpture": {
-                        "Stone Carving": {
-                            "Marble Sculpture": {},
-                            "Limestone Carving": {},
-                            "Granite Sculpture": {}
-                        },
-                        "Bronze Casting": {
-                            "Lost-wax Casting": {},
-                            "Sand Casting": {},
-                            "Figurative Sculpture": {}
-                        },
-                        "Wood Sculpting": {
-                            "Relief Carving": {},
-                            "Whittling": {},
-                            "Chainsaw Carving": {}
-                        }
-                    },
-                    "Photography": {
-                        "Portrait": {
-                            "Studio Photography": {},
-                            "Environmental Portraiture": {},
-                            "Headshots": {}
-                        },
-                        "Landscape": {
-                            "Nature Photography": {},
-                            "Urban Landscape": {},
-                            "Astrophotography": {}
-                        },
-                        "Wildlife": {
-                            "Bird Photography": {},
-                            "Macro Photography": {},
-                            "Underwater Photography": {}
-                        }
-                    },
-                    "Digital Arts": {
-                        "Graphic Design": {
-                            "Branding": {},
-                            "Typography": {},
-                            "Web Design": {}
-                        },
-                        "3D Modeling": {
-                            "Character Design": {},
-                            "Architectural Visualization": {},
-                            "Product Modeling": {}
-                        },
-                        "Animation": {
-                            "2D Animation": {},
-                            "3D Animation": {},
-                            "Motion Graphics": {}
-                        }
-                    }
-                },
-                "Performing Arts": {
-                    "Music": {
-                        "Composition": {
-                            "Film Scoring": {},
-                            "Electronic Music": {},
-                            "Orchestral Composition": {}
-                        },
-                        "Performance": {
-                            "Solo": {
-                                "Piano": {},
-                                "Violin": {},
-                                "Classical Guitar": {}
+                "Professional Subject": {
+                    "Engineering": {
+                        "Mechanical Engineering": {
+                            "Thermodynamics": {
+                                "Heat Transfer": {
+                                    "Conduction": {},
+                                    "Convection": {},
+                                    "Radiation": {}
+                                },
+                                "Energy Systems": {
+                                    "Renewable Energy": {},
+                                    "HVAC Systems": {},
+                                    "Power Plant Engineering": {}
+                                },
+                                "Combustion": {
+                                    "Internal Combustion Engines": {},
+                                    "Flame Dynamics": {},
+                                    "Emission Control": {},
+                                    "Fire Dynamics": {}
+                                }
                             },
-                            "Ensemble": {
-                                "Chamber Music": {},
-                                "Jazz Band": {},
-                                "Rock Group": {}
+                            "Mechatronics": {
+                                "Robotics": {
+                                    "Industrial Robots": {},
+                                    "Humanoid Robots": {},
+                                    "Drones": {},
+                                    "Service Robots": {}
+                                },
+                                "Control Systems": {
+                                    "PID Controllers": {},
+                                    "Embedded Systems": {},
+                                    "Feedback Loops": {}
+                                },
+                                "Automation": {
+                                    "Factory Automation": {},
+                                    "Home Automation": {},
+                                    "Automated Guided Vehicles": {},
+                                    "Assembly Lines": {},
+                                    "Building Automation": {}
+                                }
+                            },
+                            "Fluid Dynamics": {
+                                "Aerodynamics": {
+                                    "Aircraft Design": {},
+                                    "Wind Tunnels": {},
+                                    "Aeroelasticity": {},
+                                    "Wing Theory": {}
+                                },
+                                "Hydraulics": {
+                                    "Pumps and Motors": {},
+                                    "Fluid Power Systems": {},
+                                    "Hydraulic Machinery": {},
+                                    "Pneumatic Systems": {}
+                                },
+                                "Computational Fluid Dynamics": {
+                                    "Turbulence Modeling": {},
+                                    "Multiphase Flows": {},
+                                    "CFD Software": {}
+                                }
+                            },
+                            "Solid Mechanics": {
+                                "Elasticity": {
+                                    "Beam Theory": {},
+                                    "Stress Analysis": {}
+                                },
+                                "Plasticity": {
+                                    "Material Failure": {},
+                                    "Deformation Analysis": {}
+                                },
+                                "Fracture Mechanics": {
+                                    "Crack Propagation": {},
+                                    "Fatigue Analysis": {}
+                                }
+                            },
+                            "Materials Engineering": {
+                                "Metallurgy": {
+                                    "Alloys": {},
+                                    "Phase Transformation": {}
+                                },
+                                "Composites": {
+                                    "Fiber-Reinforced Polymers": {},
+                                    "Ceramic Matrix Composites": {}
+                                },
+                                "Nanomaterials": {
+                                    "Carbon Nanotubes": {},
+                                    "Quantum Dots": {}
+                                }
+                            },
+                            "Design and Manufacturing": {
+                                "Computer-Aided Design (CAD)": {
+                                    "3D Modeling": {},
+                                    "Drafting Standards": {}
+                                },
+                                "Computer-Aided Manufacturing (CAM)": {
+                                    "CNC Machining": {},
+                                    "Additive Manufacturing": {}
+                                },
+                                "Product Lifecycle Management (PLM)": {
+                                    "Concurrent Engineering": {},
+                                    "Supply Chain Management": {}
+                                }
+                            },
+                            "Dynamics and Vibration": {
+                                "Kinematics": {
+                                    "Motion Analysis": {},
+                                    "Mechanisms Design": {}
+                                },
+                                "Dynamics": {
+                                    "Vibrational Modes": {},
+                                    "System Dynamics": {}
+                                },
+                                "Acoustics": {
+                                    "Noise Control": {},
+                                    "Sound Engineering": {}
+                                }
+                            },
+                            "System Engineering": {
+                                "Project Management": {
+                                    "Risk Management": {},
+                                    "Quality Control": {}
+                                },
+                                "Reliability Engineering": {
+                                    "Failure Modes and Effects Analysis (FMEA)": {},
+                                    "Maintenance Strategies": {}
+                                },
+                                "Operations Research": {
+                                    "Optimization Techniques": {},
+                                    "Decision Analysis": {}
+                                }
+                            },
+                            "Thermal-Fluid Sciences": {
+                                "Heat Exchangers": {
+                                    "Radiators": {},
+                                    "Condensers": {}
+                                },
+                                "Refrigeration": {
+                                    "Vapor Compression Cycle": {},
+                                    "Absorption Refrigeration": {}
+                                },
+                                "Combustion and Propulsion": {
+                                    "Rocket Engines": {},
+                                    "Gas Turbines": {}
+                                }
                             }
                         },
-                        "Music Theory": {
-                            "Harmony": {},
-                            "Counterpoint": {},
-                            "Music Analysis": {}
-                        }
-                    },
-                    "Dance": {
-                        "Ballet": {
-                            "Classical Ballet": {},
-                            "Contemporary Ballet": {},
-                            "Neoclassical Ballet": {}
-                        },
-                        "Contemporary": {
-                            "Modern Dance": {},
-                            "Improvisation": {},
-                            "Dance Theater": {}
-                        },
-                        "Ballroom": {
-                            "Latin Dance": {},
-                            "Standard Ballroom": {},
-                            "Swing Dance": {}
-                        }
-                    },
-                    "Theater": {
-                        "Acting": {
-                            "Method Acting": {},
-                            "Classical Acting": {},
-                            "Physical Theater": {}
-                        },
-                        "Directing": {
-                            "Stage Direction": {},
-                            "Film Direction": {},
-                            "Opera Directing": {}
-                        },
-                        "Playwriting": {
-                            "Dramatic Writing": {},
-                            "Screenwriting": {},
-                            "Storytelling": {}
-                        }
-                    },
-                    "Circus Arts": {
-                        "Acrobatics": {
-                            "Tumbling": {},
-                            "Partner Acrobatics": {},
-                            "Aerial Silks": {}
-                        },
-                        "Clowning": {
-                            "Character Clown": {},
-                            "Physical Comedy": {},
-                            "Circus Clown": {}
-                        },
-                        "Juggling": {
-                            "Ball Juggling": {},
-                            "Club Juggling": {},
-                            "Fire Juggling": {}
-                        }
-                    }
-                },
-                "Literary Arts": {
-                    "Poetry": {
-                        "Lyric": {
-                            "Sonnet": {},
-                            "Haiku": {},
-                            "Free Verse": {}
-                        },
-                        "Narrative": {
-                            "Epic Poetry": {},
-                            "Ballad": {},
-                            "Verse Novel": {}
-                        },
-                        "Epic": {
-                            "Heroic Epic": {},
-                            "Mock Epic": {},
-                            "Modern Epic": {}
-                        }
-                    },
-                    "Prose": {
-                        "Fiction": {
-                            "Novel": {
-                                "Historical Novel": {},
-                                "Science Fiction": {},
-                                "Fantasy": {}
+                        "Electrical Engineering": {
+                            "Signal Processing": {
+                                "Digital Signal Processing": {
+                                    "Filtering": {},
+                                    "Fourier Analysis": {},
+                                    "Wavelets": {}
+                                },
+                                "Image Processing": {
+                                    "Computer Vision": {},
+                                    "Pattern Recognition": {},
+                                    "3D Reconstruction": {}
+                                },
+                                "Audio Engineering": {
+                                    "Acoustics": {},
+                                    "Psychoacoustics": {},
+                                    "Spatial Audio": {}
+                                }
                             },
-                            "Short Story": {
-                                "Flash Fiction": {},
-                                "Anthology": {},
-                                "Genre Fiction": {}
-                            }
-                        },
-                        "Non-Fiction": {
-                            "Essay": {
-                                "Personal Essay": {},
-                                "Argumentative Essay": {},
-                                "Descriptive Essay": {}
+                            "Power Systems": {
+                                "Renewable Energy": {
+                                    "Solar Power": {},
+                                    "Wind Power": {},
+                                    "Hydroelectric Power": {}
+                                },
+                                "Smart Grids": {
+                                    "Grid Cybersecurity": {},
+                                    "Energy Storage": {},
+                                    "Demand Response": {}
+                                },
+                                "High Voltage Engineering": {
+                                    "Insulation Technology": {},
+                                    "Lightning Protection": {},
+                                    "Electromagnetic Field Analysis": {}
+                                }
                             },
-                            "Biography": {
-                                "Autobiography": {},
-                                "Memoir": {},
-                                "Literary Biography": {}
+                            "Microelectronics": {
+                                "Semiconductor Devices": {
+                                    "Transistors": {},
+                                    "Diodes": {},
+                                    "MEMS": {}
+                                },
+                                "Integrated Circuits": {
+                                    "Analog Circuits": {},
+                                    "Digital Circuits": {},
+                                    "Mixed-Signal Circuits": {}
+                                },
+                                "VLSI Design": {
+                                    "Logic Synthesis": {},
+                                    "Physical Design": {},
+                                    "Circuit Simulation": {}
+                                }
                             },
-                            "Creative Nonfiction": {
-                                "Travel Writing": {},
-                                "Food Writing": {},
-                                "Nature Writing": {}
-                            }
-                        }
-                    },
-                    "Drama": {
-                        "Tragedy": {
-                            "Greek Tragedy": {},
-                            "Shakespearean Tragedy": {},
-                            "Modern Tragedy": {}
-                        },
-                        "Comedy": {
-                            "Satire": {},
-                            "Romantic Comedy": {},
-                            "Commedia dell'arte": {}
-                        },
-                        "Tragicomedy": {
-                            "Dark Comedy": {},
-                            "Absurdist Fiction": {},
-                            "Dramedy": {}
-                        }
-                    }
-                }
-            },
-            "Professional Subject": {
-                "Engineering": {
-                    "Mechanical Engineering": {
-                        "Thermodynamics": {
-                            "Heat Transfer": {
-                                "Conduction": {},
-                                "Convection": {},
-                                "Radiation": {}
-                            },
-                            "Energy Systems": {
-                                "Renewable Energy": {},
-                                "HVAC Systems": {},
-                                "Power Plant Engineering": {}
-                            },
-                            "Combustion": {
-                                "Internal Combustion Engines": {},
-                                "Flame Dynamics": {},
-                                "Emission Control": {},
-                                "Fire Dynamics": {}
-                            }
-                        },
-                        "Mechatronics": {
-                            "Robotics": {
-                                "Industrial Robots": {},
-                                "Humanoid Robots": {},
-                                "Drones": {},
-                                "Service Robots": {}
+                            "Communications Engineering": {
+                                "Wireless Communications": {
+                                    "Antennas": {},
+                                    "Satellite Communications": {},
+                                    "5G/6G Technologies": {}
+                                },
+                                "Network Engineering": {
+                                    "Network Protocols": {},
+                                    "Data Transmission": {},
+                                    "Network Security": {}
+                                },
+                                "Optical Communications": {
+                                    "Fiber Optics": {},
+                                    "Photonic Devices": {},
+                                    "Laser Systems": {}
+                                }
                             },
                             "Control Systems": {
-                                "PID Controllers": {},
-                                "Embedded Systems": {},
-                                "Feedback Loops": {}
+                                "Classical Control Theory": {
+                                    "PID Control": {},
+                                    "Root Locus": {},
+                                    "Frequency Response Analysis": {}
+                                },
+                                "Modern Control Theory": {
+                                    "State Space Analysis": {},
+                                    "Optimal Control": {},
+                                    "Robust Control": {}
+                                },
+                                "Automation": {
+                                    "Industrial Automation": {},
+                                    "Home Automation": {},
+                                    "Robotics Control": {}
+                                }
                             },
-                            "Automation": {
-                                "Factory Automation": {},
-                                "Home Automation": {},
-                                "Automated Guided Vehicles": {},
-                                "Assembly Lines": {},
-                                "Building Automation": {}
+                            "Electronic Design and Applications": {
+                                "Circuit Design": {
+                                    "PCB Layout": {},
+                                    "Component Selection": {},
+                                    "EMC/EMI Compliance": {}
+                                },
+                                "Consumer Electronics": {
+                                    "Mobile Devices": {},
+                                    "Wearable Technology": {},
+                                    "Smart Home Devices": {}
+                                },
+                                "Power Electronics": {
+                                    "Converters": {},
+                                    "Inverters": {},
+                                    "Motor Drives": {}
+                                }
+                            },
+                            "Computer Engineering": {
+                                "Hardware Systems": {
+                                    "Microprocessors": {},
+                                    "Computer Architecture": {},
+                                    "Embedded Systems": {}
+                                },
+                                "Software Systems": {
+                                    "Real-Time Systems": {},
+                                    "Operating Systems": {},
+                                    "System Software": {}
+                                },
+                                "Digital Systems": {
+                                    "Logic Design": {},
+                                    "Microcontrollers": {},
+                                    "FPGA Development": {}
+                                }
                             }
                         },
-                        "Fluid Dynamics": {
-                            "Aerodynamics": {
-                                "Aircraft Design": {},
-                                "Wind Tunnels": {},
-                                "Aeroelasticity": {},
-                                "Wing Theory": {}
+                        "Civil Engineering": {
+                            "Structural": {
+                                "Earthquake Engineering": {},
+                                "Bridge Design": {},
+                                "Building Structures": {},
+                                "Structural Dynamics": {
+                                    "Vibration Analysis": {},
+                                    "Structural Health Monitoring": {}
+                                },
+                                "Facade Engineering": {
+                                    "Curtain Wall Systems": {},
+                                    "Building Envelopes": {}
+                                },
+                                "Construction Engineering": {
+                                    "Construction Management": {},
+                                    "Building Information Modeling (BIM)": {}
+                                }
                             },
-                            "Hydraulics": {
-                                "Pumps and Motors": {},
-                                "Fluid Power Systems": {},
-                                "Hydraulic Machinery": {},
-                                "Pneumatic Systems": {}
+                            "Environmental": {
+                                "Water Resources": {},
+                                "Waste Management": {},
+                                "Environmental Impact Assessment": {},
+                                "Sustainable Engineering": {
+                                    "Green Buildings": {},
+                                    "Energy Efficiency": {}
+                                },
+                                "Geotechnical Engineering": {
+                                    "Soil Mechanics": {},
+                                    "Foundation Engineering": {}
+                                },
+                                "Hydrology": {
+                                    "Flood Risk Management": {},
+                                    "Water Quality": {}
+                                }
                             },
-                            "Computational Fluid Dynamics": {
-                                "Turbulence Modeling": {},
-                                "Multiphase Flows": {},
-                                "CFD Software": {}
+                            "Transportation": {
+                                "Traffic Engineering": {},
+                                "Highway Design": {},
+                                "Urban Transport Systems": {},
+                                "Railway Engineering": {
+                                    "Track Design": {},
+                                    "Signaling Systems": {}
+                                },
+                                "Port and Harbor Engineering": {
+                                    "Coastal Engineering": {},
+                                    "Marine Structures": {}
+                                },
+                                "Airport Engineering": {
+                                    "Runway Design": {},
+                                    "Airport Operations": {}
+                                }
+                            },
+                            "Urban Planning": {
+                                "Land Use Planning": {},
+                                "Transportation Planning": {},
+                                "Urban Design": {}
+                            },
+                            "Materials Engineering": {
+                                "Concrete Technology": {},
+                                "Pavement Engineering": {},
+                                "Smart Materials": {}
+                            },
+                            "Surveying": {
+                                "Geomatics": {},
+                                "Remote Sensing": {},
+                                "GIS Applications": {}
+                            },
+                            "Construction Technology": {
+                                "Modular Construction": {},
+                                "Automation in Construction": {},
+                                "Construction Equipment": {}
+                            },
+                            "Water Resources Engineering": {
+                                "Hydraulic Engineering": {},
+                                "Irrigation and Drainage": {},
+                                "River Engineering": {}
+                            },
+                            "Coastal and Ocean Engineering": {
+                                "Wave Mechanics": {},
+                                "Sediment Transport": {},
+                                "Coastal Management": {}
                             }
                         },
-                        "Solid Mechanics": {
-                            "Elasticity": {
-                                "Beam Theory": {},
-                                "Stress Analysis": {}
+                        "Software Engineering": {
+                            "System Architecture": {
+                                "Enterprise Systems": {},
+                                "Cloud Computing": {},
+                                "Microservices": {},
+                                "Serverless Architecture": {
+                                    "Function as a Service (FaaS)": {},
+                                    "Backend as a Service (BaaS)": {}
+                                },
+                                "Distributed Systems": {
+                                    "Scalability": {},
+                                    "Fault Tolerance": {},
+                                    "Consistency Models": {}
+                                }
                             },
-                            "Plasticity": {
-                                "Material Failure": {},
-                                "Deformation Analysis": {}
+                            "Software Development": {
+                                "Agile Methodologies": {},
+                                "DevOps": {},
+                                "Mobile App Development": {},
+                                "Frontend Development": {
+                                    "Web Frameworks": {},
+                                    "Responsive Design": {},
+                                    "User Experience (UX)": {}
+                                },
+                                "Backend Development": {
+                                    "Database Design": {},
+                                    "API Development": {},
+                                    "Security Best Practices": {}
+                                },
+                                "Software Testing": {
+                                    "Unit Testing": {},
+                                    "Integration Testing": {},
+                                    "Test Automation": {}
+                                }
                             },
-                            "Fracture Mechanics": {
-                                "Crack Propagation": {},
-                                "Fatigue Analysis": {}
-                            }
-                        },
-                        "Materials Engineering": {
-                            "Metallurgy": {
-                                "Alloys": {},
-                                "Phase Transformation": {}
+                            "Cybersecurity": {
+                                "Cryptology": {},
+                                "Network Security": {},
+                                "Information Assurance": {},
+                                "Application Security": {
+                                    "Secure Coding": {},
+                                    "Application Penetration Testing": {},
+                                    "Security Code Review": {}
+                                },
+                                "Cybersecurity Operations": {
+                                    "Incident Response": {},
+                                    "Threat Intelligence": {},
+                                    "Security Operations Center (SOC)": {}
+                                }
                             },
-                            "Composites": {
-                                "Fiber-Reinforced Polymers": {},
-                                "Ceramic Matrix Composites": {}
-                            },
-                            "Nanomaterials": {
-                                "Carbon Nanotubes": {},
-                                "Quantum Dots": {}
-                            }
-                        },
-                        "Design and Manufacturing": {
-                            "Computer-Aided Design (CAD)": {
-                                "3D Modeling": {},
-                                "Drafting Standards": {}
-                            },
-                            "Computer-Aided Manufacturing (CAM)": {
-                                "CNC Machining": {},
-                                "Additive Manufacturing": {}
-                            },
-                            "Product Lifecycle Management (PLM)": {
-                                "Concurrent Engineering": {},
-                                "Supply Chain Management": {}
-                            }
-                        },
-                        "Dynamics and Vibration": {
-                            "Kinematics": {
-                                "Motion Analysis": {},
-                                "Mechanisms Design": {}
-                            },
-                            "Dynamics": {
-                                "Vibrational Modes": {},
-                                "System Dynamics": {}
-                            },
-                            "Acoustics": {
-                                "Noise Control": {},
-                                "Sound Engineering": {}
-                            }
-                        },
-                        "System Engineering": {
-                            "Project Management": {
+                            "Software Project Management": {
+                                "Requirements Engineering": {},
                                 "Risk Management": {},
-                                "Quality Control": {}
+                                "Software Metrics": {}
                             },
-                            "Reliability Engineering": {
-                                "Failure Modes and Effects Analysis (FMEA)": {},
-                                "Maintenance Strategies": {}
+                            "Human-Computer Interaction (HCI)": {
+                                "User Interface Design": {},
+                                "Accessibility": {},
+                                "Interaction Design": {}
                             },
-                            "Operations Research": {
-                                "Optimization Techniques": {},
-                                "Decision Analysis": {}
-                            }
-                        },
-                        "Thermal-Fluid Sciences": {
-                            "Heat Exchangers": {
-                                "Radiators": {},
-                                "Condensers": {}
+                            "Data Science and Analytics": {
+                                "Big Data": {},
+                                "Machine Learning": {},
+                                "Business Intelligence": {}
                             },
-                            "Refrigeration": {
-                                "Vapor Compression Cycle": {},
-                                "Absorption Refrigeration": {}
+                            "Software Quality Assurance": {
+                                "Quality Standards": {},
+                                "Continuous Integration/Continuous Deployment (CI/CD)": {},
+                                "Performance Testing": {}
                             },
-                            "Combustion and Propulsion": {
-                                "Rocket Engines": {},
-                                "Gas Turbines": {}
-                            }
-                        }
-                    },
-                    "Electrical Engineering": {
-                        "Signal Processing": {
-                            "Digital Signal Processing": {
-                                "Filtering": {},
-                                "Fourier Analysis": {},
-                                "Wavelets": {}
+                            "Emerging Technologies": {
+                                "Artificial Intelligence": {},
+                                "Internet of Things (IoT)": {},
+                                "Blockchain Technology": {}
                             },
-                            "Image Processing": {
-                                "Computer Vision": {},
-                                "Pattern Recognition": {},
-                                "3D Reconstruction": {}
-                            },
-                            "Audio Engineering": {
-                                "Acoustics": {},
-                                "Psychoacoustics": {},
-                                "Spatial Audio": {}
-                            }
-                        },
-                        "Power Systems": {
-                            "Renewable Energy": {
-                                "Solar Power": {},
-                                "Wind Power": {},
-                                "Hydroelectric Power": {}
-                            },
-                            "Smart Grids": {
-                                "Grid Cybersecurity": {},
-                                "Energy Storage": {},
-                                "Demand Response": {}
-                            },
-                            "High Voltage Engineering": {
-                                "Insulation Technology": {},
-                                "Lightning Protection": {},
-                                "Electromagnetic Field Analysis": {}
-                            }
-                        },
-                        "Microelectronics": {
-                            "Semiconductor Devices": {
-                                "Transistors": {},
-                                "Diodes": {},
-                                "MEMS": {}
-                            },
-                            "Integrated Circuits": {
-                                "Analog Circuits": {},
-                                "Digital Circuits": {},
-                                "Mixed-Signal Circuits": {}
-                            },
-                            "VLSI Design": {
-                                "Logic Synthesis": {},
-                                "Physical Design": {},
-                                "Circuit Simulation": {}
-                            }
-                        },
-                        "Communications Engineering": {
-                            "Wireless Communications": {
-                                "Antennas": {},
-                                "Satellite Communications": {},
-                                "5G/6G Technologies": {}
-                            },
-                            "Network Engineering": {
-                                "Network Protocols": {},
-                                "Data Transmission": {},
-                                "Network Security": {}
-                            },
-                            "Optical Communications": {
-                                "Fiber Optics": {},
-                                "Photonic Devices": {},
-                                "Laser Systems": {}
-                            }
-                        },
-                        "Control Systems": {
-                            "Classical Control Theory": {
-                                "PID Control": {},
-                                "Root Locus": {},
-                                "Frequency Response Analysis": {}
-                            },
-                            "Modern Control Theory": {
-                                "State Space Analysis": {},
-                                "Optimal Control": {},
-                                "Robust Control": {}
-                            },
-                            "Automation": {
-                                "Industrial Automation": {},
-                                "Home Automation": {},
-                                "Robotics Control": {}
-                            }
-                        },
-                        "Electronic Design and Applications": {
-                            "Circuit Design": {
-                                "PCB Layout": {},
-                                "Component Selection": {},
-                                "EMC/EMI Compliance": {}
-                            },
-                            "Consumer Electronics": {
-                                "Mobile Devices": {},
-                                "Wearable Technology": {},
-                                "Smart Home Devices": {}
-                            },
-                            "Power Electronics": {
-                                "Converters": {},
-                                "Inverters": {},
-                                "Motor Drives": {}
-                            }
-                        },
-                        "Computer Engineering": {
-                            "Hardware Systems": {
-                                "Microprocessors": {},
-                                "Computer Architecture": {},
-                                "Embedded Systems": {}
-                            },
-                            "Software Systems": {
-                                "Real-Time Systems": {},
-                                "Operating Systems": {},
-                                "System Software": {}
-                            },
-                            "Digital Systems": {
-                                "Logic Design": {},
-                                "Microcontrollers": {},
-                                "FPGA Development": {}
+                            "Programming Languages and Tools": {
+                                "Language Paradigms": {},
+                                "Integrated Development Environments (IDEs)": {},
+                                "Build Tools": {}
                             }
                         }
                     },
-                    "Civil Engineering": {
-                        "Structural": {
-                            "Earthquake Engineering": {},
-                            "Bridge Design": {},
-                            "Building Structures": {},
-                            "Structural Dynamics": {
-                                "Vibration Analysis": {},
-                                "Structural Health Monitoring": {}
+                    "Medicine": {
+                        "General Practice": {
+                            "Primary Care": {
+                                "Family Medicine": {},
+                                "Geriatrics": {},
+                                "Pediatrics": {}
                             },
-                            "Facade Engineering": {
-                                "Curtain Wall Systems": {},
-                                "Building Envelopes": {}
+                            "Preventive Medicine": {
+                                "Public Health": {},
+                                "Occupational Medicine": {},
+                                "Epidemiology": {}
                             },
-                            "Construction Engineering": {
-                                "Construction Management": {},
-                                "Building Information Modeling (BIM)": {}
+                            "Community Health": {
+                                "Rural Health": {},
+                                "Urban Health": {},
+                                "Health Education": {}
+                            },
+                            "Telemedicine": {
+                                "Remote Diagnostics": {},
+                                "Virtual Consultations": {},
+                                "Digital Health Records": {}
                             }
                         },
-                        "Environmental": {
-                            "Water Resources": {},
-                            "Waste Management": {},
-                            "Environmental Impact Assessment": {},
-                            "Sustainable Engineering": {
-                                "Green Buildings": {},
-                                "Energy Efficiency": {}
+                        "Specializations": {
+                            "Cardiology": {
+                                "Interventional Cardiology": {},
+                                "Electrophysiology": {},
+                                "Heart Failure": {}
                             },
-                            "Geotechnical Engineering": {
-                                "Soil Mechanics": {},
-                                "Foundation Engineering": {}
+                            "Neurology": {
+                                "Stroke Medicine": {},
+                                "Neurodegenerative Disorders": {},
+                                "Clinical Neurophysiology": {}
                             },
-                            "Hydrology": {
-                                "Flood Risk Management": {},
-                                "Water Quality": {}
+                            "Pediatrics": {
+                                "Pediatric Oncology": {},
+                                "Neonatology": {},
+                                "Pediatric Immunology": {}
+                            },
+                            "Oncology": {
+                                "Medical Oncology": {},
+                                "Radiation Oncology": {},
+                                "Surgical Oncology": {}
+                            },
+                            "Psychiatry": {
+                                "Addiction Medicine": {},
+                                "Child and Adolescent Psychiatry": {},
+                                "Geriatric Psychiatry": {}
+                            },
+                            "Dermatology": {
+                                "Cosmetic Dermatology": {},
+                                "Dermatopathology": {},
+                                "Mohs Surgery": {}
                             }
                         },
-                        "Transportation": {
-                            "Traffic Engineering": {},
-                            "Highway Design": {},
-                            "Urban Transport Systems": {},
-                            "Railway Engineering": {
-                                "Track Design": {},
-                                "Signaling Systems": {}
+                        "Surgery": {
+                            "General Surgery": {
+                                "Laparoscopic Surgery": {},
+                                "Trauma Surgery": {},
+                                "Colorectal Surgery": {}
                             },
-                            "Port and Harbor Engineering": {
-                                "Coastal Engineering": {},
-                                "Marine Structures": {}
+                            "Orthopedic": {
+                                "Joint Replacement": {},
+                                "Spinal Surgery": {},
+                                "Sports Medicine": {}
                             },
-                            "Airport Engineering": {
-                                "Runway Design": {},
-                                "Airport Operations": {}
+                            "Cardiothoracic": {
+                                "Coronary Artery Bypass": {},
+                                "Heart Transplant": {},
+                                "Thoracic Oncology": {}
+                            },
+                            "Neurosurgery": {
+                                "Brain Tumor Surgery": {},
+                                "Cerebrovascular Surgery": {},
+                                "Functional Neurosurgery": {}
+                            },
+                            "Plastic Surgery": {
+                                "Reconstructive Surgery": {},
+                                "Aesthetic Surgery": {},
+                                "Burn Surgery": {}
+                            },
+                            "Urology": {
+                                "Endourology": {},
+                                "Urologic Oncology": {},
+                                "Pediatric Urology": {}
                             }
                         },
-                        "Urban Planning": {
-                            "Land Use Planning": {},
-                            "Transportation Planning": {},
-                            "Urban Design": {}
+                        "Internal Medicine": {
+                            "Endocrinology": {
+                                "Diabetes": {},
+                                "Thyroid Disorders": {}
+                            },
+                            "Gastroenterology": {
+                                "Hepatology": {},
+                                "Endoscopy": {}
+                            },
+                            "Pulmonology": {
+                                "Asthma": {},
+                                "Chronic Obstructive Pulmonary Disease (COPD)": {}
+                            }
                         },
-                        "Materials Engineering": {
-                            "Concrete Technology": {},
-                            "Pavement Engineering": {},
-                            "Smart Materials": {}
+                        "Women's Health": {
+                            "Obstetrics": {
+                                "Prenatal Care": {},
+                                "Maternal-Fetal Medicine": {}
+                            },
+                            "Gynecology": {
+                                "Reproductive Endocrinology": {},
+                                "Urogynecology": {}
+                            }
                         },
-                        "Surveying": {
-                            "Geomatics": {},
-                            "Remote Sensing": {},
-                            "GIS Applications": {}
+                        "Medical Research": {
+                            "Clinical Trials": {},
+                            "Biomedical Research": {},
+                            "Translational Medicine": {}
                         },
-                        "Construction Technology": {
-                            "Modular Construction": {},
-                            "Automation in Construction": {},
-                            "Construction Equipment": {}
+                        "Medical Imaging": {
+                            "Radiology": {
+                                "Interventional Radiology": {},
+                                "Neuroradiology": {}
+                            },
+                            "Nuclear Medicine": {
+                                "PET Imaging": {},
+                                "Radionuclide Therapy": {}
+                            }
                         },
-                        "Water Resources Engineering": {
-                            "Hydraulic Engineering": {},
-                            "Irrigation and Drainage": {},
-                            "River Engineering": {}
+                        "Pathology": {
+                            "Anatomic Pathology": {
+                                "Histopathology": {},
+                                "Cytopathology": {}
+                            },
+                            "Clinical Pathology": {
+                                "Hematology": {},
+                                "Microbiology": {}
+                            }
                         },
-                        "Coastal and Ocean Engineering": {
-                            "Wave Mechanics": {},
-                            "Sediment Transport": {},
-                            "Coastal Management": {}
+                        "Emergency Medicine": {
+                            "Trauma Care": {},
+                            "Acute Care": {},
+                            "Disaster Medicine": {}
+                        },
+                        "Alternative Medicine": {
+                            "Traditional Medicine": {
+                                "Traditional Chinese Medicine (TCM)": {
+                                    "Acupuncture": {},
+                                    "Herbal Medicine": {},
+                                    "Tai Chi": {}
+                                },
+                                "Ayurveda": {
+                                    "Diet and Lifestyle": {},
+                                    "Panchakarma Therapy": {},
+                                    "Yoga Therapy": {}
+                                },
+                                "Native American Medicine": {
+                                    "Plant-based Remedies": {},
+                                    "Spiritual Healing": {},
+                                    "Rituals and Ceremonies": {}
+                                }
+                            },
+                            "Body-Based Practices": {
+                                "Chiropractic": {
+                                    "Spinal Manipulation": {},
+                                    "Extremity Adjusting": {}
+                                },
+                                "Osteopathy": {
+                                    "Cranial-Sacral Therapy": {},
+                                    "Myofascial Release": {}
+                                },
+                                "Massage Therapy": {
+                                    "Swedish Massage": {},
+                                    "Deep Tissue Massage": {},
+                                    "Shiatsu": {}
+                                }
+                            },
+                            "Mind-Body Interventions": {
+                                "Meditation": {
+                                    "Mindfulness": {},
+                                    "Guided Imagery": {},
+                                    "Transcendental Meditation": {}
+                                },
+                                "Biofeedback": {
+                                    "Neurofeedback": {},
+                                    "Heart Rate Variability": {}
+                                },
+                                "Hypnotherapy": {
+                                    "Suggestion Therapy": {},
+                                    "Analytical Hypnotherapy": {},
+                                    "Self-Hypnosis": {}
+                                }
+                            },
+                            "Energy Therapies": {
+                                "Reiki": {
+                                    "Energy Healing": {},
+                                    "Distance Healing": {}
+                                },
+                                "Qigong": {
+                                    "Medical Qigong": {},
+                                    "Martial Qigong": {}
+                                },
+                                "Therapeutic Touch": {
+                                    "Healing Touch": {},
+                                    "Quantum Touch": {}
+                                }
+                            },
+                            "Dietary Supplements and Herbal Medicine": {
+                                "Vitamins and Minerals": {
+                                    "Megavitamin Therapy": {},
+                                    "Mineral Supplements": {}
+                                },
+                                "Herbalism": {
+                                    "Western Herbalism": {},
+                                    "Ethnobotany": {}
+                                },
+                                "Homeopathy": {
+                                    "Classical Homeopathy": {},
+                                    "Complex Homeopathy": {}
+                                }
+                            },
+                            "Naturopathy": {
+                                "Naturopathic Diagnostics": {},
+                                "Hydrotherapy": {},
+                                "Detoxification Therapies": {}
+                            },
+                            "Integrative Medicine": {
+                                "Integrative Therapies in Conventional Medical Settings": {},
+                                "Complementary Approaches with Mainstream Medicine": {},
+                                "Holistic Health Assessments": {}
+                            }
                         }
                     },
-                    "Software Engineering": {
-                        "System Architecture": {
-                            "Enterprise Systems": {},
-                            "Cloud Computing": {},
-                            "Microservices": {},
-                            "Serverless Architecture": {
-                                "Function as a Service (FaaS)": {},
-                                "Backend as a Service (BaaS)": {}
+                    "Law": {
+                        "Criminal Law": {
+                            "Defense": {
+                                "Public Defense": {},
+                                "Private Defense": {},
+                                "Juvenile Defense": {}
                             },
-                            "Distributed Systems": {
-                                "Scalability": {},
-                                "Fault Tolerance": {},
-                                "Consistency Models": {}
+                            "Prosecution": {
+                                "District Attorney": {},
+                                "Federal Prosecution": {},
+                                "Special Prosecution": {}
+                            },
+                            "Forensic Science": {
+                                "Crime Scene Investigation": {},
+                                "Forensic Pathology": {},
+                                "Digital Forensics": {}
                             }
                         },
-                        "Software Development": {
-                            "Agile Methodologies": {},
-                            "DevOps": {},
-                            "Mobile App Development": {},
-                            "Frontend Development": {
-                                "Web Frameworks": {},
-                                "Responsive Design": {},
-                                "User Experience (UX)": {}
+                        "Civil Law": {
+                            "Contract Law": {
+                                "Business Contracts": {},
+                                "Employment Contracts": {},
+                                "Lease Agreements": {}
                             },
-                            "Backend Development": {
-                                "Database Design": {},
-                                "API Development": {},
-                                "Security Best Practices": {}
+                            "Tort Law": {
+                                "Personal Injury": {},
+                                "Product Liability": {},
+                                "Defamation": {}
                             },
-                            "Software Testing": {
-                                "Unit Testing": {},
-                                "Integration Testing": {},
-                                "Test Automation": {}
+                            "Property Law": {
+                                "Real Estate": {},
+                                "Intellectual Property": {},
+                                "Landlord-Tenant": {}
                             }
                         },
-                        "Cybersecurity": {
-                            "Cryptology": {},
-                            "Network Security": {},
-                            "Information Assurance": {},
-                            "Application Security": {
-                                "Secure Coding": {},
-                                "Application Penetration Testing": {},
-                                "Security Code Review": {}
+                        "International Law": {
+                            "Human Rights": {
+                                "International Tribunals": {},
+                                "Refugee Law": {},
+                                "Child Rights": {}
                             },
-                            "Cybersecurity Operations": {
-                                "Incident Response": {},
-                                "Threat Intelligence": {},
-                                "Security Operations Center (SOC)": {}
+                            "Environmental Law": {
+                                "Climate Change": {},
+                                "Biodiversity": {},
+                                "Sustainable Development": {}
+                            },
+                            "Trade Law": {
+                                "WTO Law": {},
+                                "Customs Law": {},
+                                "Regional Trade Agreements": {}
                             }
-                        },
-                        "Software Project Management": {
-                            "Requirements Engineering": {},
-                            "Risk Management": {},
-                            "Software Metrics": {}
-                        },
-                        "Human-Computer Interaction (HCI)": {
-                            "User Interface Design": {},
-                            "Accessibility": {},
-                            "Interaction Design": {}
-                        },
-                        "Data Science and Analytics": {
-                            "Big Data": {},
-                            "Machine Learning": {},
-                            "Business Intelligence": {}
-                        },
-                        "Software Quality Assurance": {
-                            "Quality Standards": {},
-                            "Continuous Integration/Continuous Deployment (CI/CD)": {},
-                            "Performance Testing": {}
-                        },
-                        "Emerging Technologies": {
-                            "Artificial Intelligence": {},
-                            "Internet of Things (IoT)": {},
-                            "Blockchain Technology": {}
-                        },
-                        "Programming Languages and Tools": {
-                            "Language Paradigms": {},
-                            "Integrated Development Environments (IDEs)": {},
-                            "Build Tools": {}
-                        }
-                    }
-                },
-                "Medicine": {
-                    "General Practice": {
-                        "Primary Care": {
-                            "Family Medicine": {},
-                            "Geriatrics": {},
-                            "Pediatrics": {}
-                        },
-                        "Preventive Medicine": {
-                            "Public Health": {},
-                            "Occupational Medicine": {},
-                            "Epidemiology": {}
-                        },
-                        "Community Health": {
-                            "Rural Health": {},
-                            "Urban Health": {},
-                            "Health Education": {}
-                        },
-                        "Telemedicine": {
-                            "Remote Diagnostics": {},
-                            "Virtual Consultations": {},
-                            "Digital Health Records": {}
                         }
                     },
-                    "Specializations": {
-                        "Cardiology": {
-                            "Interventional Cardiology": {},
-                            "Electrophysiology": {},
-                            "Heart Failure": {}
+                    "Education": {
+                        "Early Childhood Education": {
+                            "Childhood Development": {},
+                            "Play-based Learning": {},
+                            "Early Literacy": {}
                         },
-                        "Neurology": {
-                            "Stroke Medicine": {},
-                            "Neurodegenerative Disorders": {},
-                            "Clinical Neurophysiology": {}
+                        "Primary Education": {
+                            "Curriculum Development": {},
+                            "Inclusive Education": {},
+                            "Educational Psychology": {}
                         },
-                        "Pediatrics": {
-                            "Pediatric Oncology": {},
-                            "Neonatology": {},
-                            "Pediatric Immunology": {}
+                        "Secondary Education": {
+                            "STEM Education": {},
+                            "Language Arts": {},
+                            "Social Studies": {}
                         },
-                        "Oncology": {
-                            "Medical Oncology": {},
-                            "Radiation Oncology": {},
-                            "Surgical Oncology": {}
+                        "Higher Education": {
+                            "University Teaching": {},
+                            "Academic Advising": {},
+                            "Curriculum Theory": {}
                         },
-                        "Psychiatry": {
-                            "Addiction Medicine": {},
-                            "Child and Adolescent Psychiatry": {},
-                            "Geriatric Psychiatry": {}
-                        },
-                        "Dermatology": {
-                            "Cosmetic Dermatology": {},
-                            "Dermatopathology": {},
-                            "Mohs Surgery": {}
+                        "Special Education": {
+                            "Learning Disabilities": {},
+                            "Gifted Education": {},
+                            "Assistive Technologies": {}
                         }
                     },
-                    "Surgery": {
-                        "General Surgery": {
-                            "Laparoscopic Surgery": {},
-                            "Trauma Surgery": {},
-                            "Colorectal Surgery": {}
+                    "Business": {
+                        "Management": {
+                            "Strategic Planning": {},
+                            "Organizational Behavior": {},
+                            "Human Resources": {}
                         },
-                        "Orthopedic": {
-                            "Joint Replacement": {},
-                            "Spinal Surgery": {},
-                            "Sports Medicine": {}
+                        "Finance": {
+                            "Corporate Finance": {},
+                            "Investment Banking": {},
+                            "Personal Finance": {}
                         },
-                        "Cardiothoracic": {
-                            "Coronary Artery Bypass": {},
-                            "Heart Transplant": {},
-                            "Thoracic Oncology": {}
+                        "Marketing": {
+                            "Digital Marketing": {},
+                            "Market Research": {},
+                            "Brand Management": {}
                         },
-                        "Neurosurgery": {
-                            "Brain Tumor Surgery": {},
-                            "Cerebrovascular Surgery": {},
-                            "Functional Neurosurgery": {}
+                        "Entrepreneurship": {
+                            "Startup Dynamics": {},
+                            "Venture Capital": {},
+                            "Innovation Management": {}
                         },
-                        "Plastic Surgery": {
-                            "Reconstructive Surgery": {},
-                            "Aesthetic Surgery": {},
-                            "Burn Surgery": {}
-                        },
-                        "Urology": {
-                            "Endourology": {},
-                            "Urologic Oncology": {},
-                            "Pediatric Urology": {}
-                        }
-                    },
-                    "Internal Medicine": {
-                        "Endocrinology": {
-                            "Diabetes": {},
-                            "Thyroid Disorders": {}
-                        },
-                        "Gastroenterology": {
-                            "Hepatology": {},
-                            "Endoscopy": {}
-                        },
-                        "Pulmonology": {
-                            "Asthma": {},
-                            "Chronic Obstructive Pulmonary Disease (COPD)": {}
-                        }
-                    },
-                    "Women's Health": {
-                        "Obstetrics": {
-                            "Prenatal Care": {},
-                            "Maternal-Fetal Medicine": {}
-                        },
-                        "Gynecology": {
-                            "Reproductive Endocrinology": {},
-                            "Urogynecology": {}
-                        }
-                    },
-                    "Medical Research": {
-                        "Clinical Trials": {},
-                        "Biomedical Research": {},
-                        "Translational Medicine": {}
-                    },
-                    "Medical Imaging": {
-                        "Radiology": {
-                            "Interventional Radiology": {},
-                            "Neuroradiology": {}
-                        },
-                        "Nuclear Medicine": {
-                            "PET Imaging": {},
-                            "Radionuclide Therapy": {}
-                        }
-                    },
-                    "Pathology": {
-                        "Anatomic Pathology": {
-                            "Histopathology": {},
-                            "Cytopathology": {}
-                        },
-                        "Clinical Pathology": {
-                            "Hematology": {},
-                            "Microbiology": {}
-                        }
-                    },
-                    "Emergency Medicine": {
-                        "Trauma Care": {},
-                        "Acute Care": {},
-                        "Disaster Medicine": {}
-                    },
-                    "Alternative Medicine": {
-                        "Traditional Medicine": {
-                            "Traditional Chinese Medicine (TCM)": {
-                                "Acupuncture": {},
-                                "Herbal Medicine": {},
-                                "Tai Chi": {}
-                            },
-                            "Ayurveda": {
-                                "Diet and Lifestyle": {},
-                                "Panchakarma Therapy": {},
-                                "Yoga Therapy": {}
-                            },
-                            "Native American Medicine": {
-                                "Plant-based Remedies": {},
-                                "Spiritual Healing": {},
-                                "Rituals and Ceremonies": {}
-                            }
-                        },
-                        "Body-Based Practices": {
-                            "Chiropractic": {
-                                "Spinal Manipulation": {},
-                                "Extremity Adjusting": {}
-                            },
-                            "Osteopathy": {
-                                "Cranial-Sacral Therapy": {},
-                                "Myofascial Release": {}
-                            },
-                            "Massage Therapy": {
-                                "Swedish Massage": {},
-                                "Deep Tissue Massage": {},
-                                "Shiatsu": {}
-                            }
-                        },
-                        "Mind-Body Interventions": {
-                            "Meditation": {
-                                "Mindfulness": {},
-                                "Guided Imagery": {},
-                                "Transcendental Meditation": {}
-                            },
-                            "Biofeedback": {
-                                "Neurofeedback": {},
-                                "Heart Rate Variability": {}
-                            },
-                            "Hypnotherapy": {
-                                "Suggestion Therapy": {},
-                                "Analytical Hypnotherapy": {},
-                                "Self-Hypnosis": {}
-                            }
-                        },
-                        "Energy Therapies": {
-                            "Reiki": {
-                                "Energy Healing": {},
-                                "Distance Healing": {}
-                            },
-                            "Qigong": {
-                                "Medical Qigong": {},
-                                "Martial Qigong": {}
-                            },
-                            "Therapeutic Touch": {
-                                "Healing Touch": {},
-                                "Quantum Touch": {}
-                            }
-                        },
-                        "Dietary Supplements and Herbal Medicine": {
-                            "Vitamins and Minerals": {
-                                "Megavitamin Therapy": {},
-                                "Mineral Supplements": {}
-                            },
-                            "Herbalism": {
-                                "Western Herbalism": {},
-                                "Ethnobotany": {}
-                            },
-                            "Homeopathy": {
-                                "Classical Homeopathy": {},
-                                "Complex Homeopathy": {}
-                            }
-                        },
-                        "Naturopathy": {
-                            "Naturopathic Diagnostics": {},
-                            "Hydrotherapy": {},
-                            "Detoxification Therapies": {}
-                        },
-                        "Integrative Medicine": {
-                            "Integrative Therapies in Conventional Medical Settings": {},
-                            "Complementary Approaches with Mainstream Medicine": {},
-                            "Holistic Health Assessments": {}
+                        "Accounting": {
+                            "Financial Accounting": {},
+                            "Managerial Accounting": {},
+                            "Auditing": {}
                         }
                     }
-                },
-                "Law": {
-                    "Criminal Law": {
-                        "Defense": {
-                            "Public Defense": {},
-                            "Private Defense": {},
-                            "Juvenile Defense": {}
+                }
+            },
+            "Idea": {
+                "Philosophy": {
+                    "Metaphysics": {
+                        "Ontology": {
+                            "Nature of Being": {
+                                "Individuals": {},
+                                "Relations": {},
+                                "Properties": {},
+                                "Events": {}
+                            },
+                            "Existence": {
+                                "Modal Realities": {},
+                                "Necessity & Possibility": {}
+                            },
+                            "Reality": {
+                                "Phenomenalism": {},
+                                "Physicalism": {},
+                                "Pluralism": {}
+                            }
                         },
-                        "Prosecution": {
-                            "District Attorney": {},
-                            "Federal Prosecution": {},
-                            "Special Prosecution": {}
+                        "Epistemology": {
+                            "Belief": {
+                                "Justified Belief": {},
+                                "Unjustified Belief": {}
+                            },
+                            "Knowledge": {
+                                "A Priori & A Posteriori": {},
+                                "Empirical Knowledge": {}
+                            },
+                            "Truth": {
+                                "Correspondence Theory": {},
+                                "Coherence Theory": {},
+                                "Constructivist Theory": {}
+                            }
                         },
-                        "Forensic Science": {
-                            "Crime Scene Investigation": {},
-                            "Forensic Pathology": {},
-                            "Digital Forensics": {}
+                        "Cosmology": {
+                            "Origin": {
+                                "Creation Myths": {},
+                                "Scientific Theories": {}
+                            },
+                            "Structure": {
+                                "Space-Time Concepts": {},
+                                "Multiverse Theories": {}
+                            },
+                            "Future": {
+                                "Eschatology": {},
+                                "Entropy & Heat Death": {}
+                            }
+                        },
+                        "Axiology": {}
+                    },
+                    "Ethics": {
+                        "Moral Philosophy": {
+                            "Virtue Ethics": {},
+                            "Deontology": {},
+                            "Consequentialism": {}
+                        },
+                        "Applied Ethics": {
+                            "Bioethics": {},
+                            "Business Ethics": {},
+                            "Environmental Ethics": {}
+                        },
+                        "Political Philosophy": {
+                            "Justice": {},
+                            "Liberty": {},
+                            "Rights": {}
                         }
                     },
-                    "Civil Law": {
-                        "Contract Law": {
-                            "Business Contracts": {},
-                            "Employment Contracts": {},
-                            "Lease Agreements": {}
-                        },
-                        "Tort Law": {
-                            "Personal Injury": {},
-                            "Product Liability": {},
-                            "Defamation": {}
-                        },
-                        "Property Law": {
-                            "Real Estate": {},
-                            "Intellectual Property": {},
-                            "Landlord-Tenant": {}
-                        }
-                    },
-                    "International Law": {
-                        "Human Rights": {
-                            "International Tribunals": {},
-                            "Refugee Law": {},
-                            "Child Rights": {}
-                        },
-                        "Environmental Law": {
-                            "Climate Change": {},
-                            "Biodiversity": {},
-                            "Sustainable Development": {}
-                        },
-                        "Trade Law": {
-                            "WTO Law": {},
-                            "Customs Law": {},
-                            "Regional Trade Agreements": {}
-                        }
+                    "Aesthetics": {
+                        "Theory of Art": {},
+                        "Philosophy of Beauty": {},
+                        "Criticism": {}
                     }
                 },
-                "Education": {
-                    "Early Childhood Education": {
-                        "Childhood Development": {},
-                        "Play-based Learning": {},
-                        "Early Literacy": {}
+                "Religion": {
+                    "World Religions": {
+                        "Christianity": {
+                            "Catholicism": {},
+                            "Protestantism": {},
+                            "Orthodoxy": {}
+                        },
+                        "Islam": {
+                            "Sunni": {},
+                            "Shi'a": {},
+                            "Sufism": {}
+                        },
+                        "Hinduism": {
+                            "Vaishnavism": {},
+                            "Shaivism": {},
+                            "Shaktism": {}
+                        }
                     },
-                    "Primary Education": {
-                        "Curriculum Development": {},
-                        "Inclusive Education": {},
-                        "Educational Psychology": {}
+                    "Indigenous Religions": {
+                        "Native American": {},
+                        "African Traditional": {},
+                        "Australian Aboriginal": {}
                     },
-                    "Secondary Education": {
-                        "STEM Education": {},
-                        "Language Arts": {},
-                        "Social Studies": {}
-                    },
-                    "Higher Education": {
-                        "University Teaching": {},
-                        "Academic Advising": {},
-                        "Curriculum Theory": {}
-                    },
-                    "Special Education": {
-                        "Learning Disabilities": {},
-                        "Gifted Education": {},
-                        "Assistive Technologies": {}
+                    "New Religious Movements": {
+                        "Scientology": {},
+                        "Neopaganism": {},
+                        "New Age": {}
                     }
                 },
-                "Business": {
-                    "Management": {
-                        "Strategic Planning": {},
-                        "Organizational Behavior": {},
-                        "Human Resources": {}
+                "Concept": {
+                    "Theoretical Concepts": {
+                        "Liberty": {
+                            "Political Freedom": {
+                                "Civil Liberties": {},
+                                "Electoral Rights": {}
+                            },
+                            "Free Will": {
+                                "Determinism": {},
+                                "Libertarianism": {}
+                            },
+                            "Freedom of Expression": {
+                                "Press Freedom": {},
+                                "Internet Censorship": {}
+                            }
+                        },
+                        "Justice": {
+                            "Social Justice": {
+                                "Distributive Justice": {},
+                                "Restorative Justice": {}
+                            },
+                            "Criminal Justice": {
+                                "Retributive Justice": {},
+                                "Penal Reform": {}
+                            },
+                            "Legal Justice": {
+                                "Procedural Fairness": {},
+                                "Judicial Equity": {}
+                            }
+                        },
+                        "Equality": {
+                            "Gender Equality": {
+                                "Feminism": {},
+                                "LGBT Rights": {}
+                            },
+                            "Racial Equality": {
+                                "Anti-Racism": {},
+                                "Affirmative Action": {}
+                            },
+                            "Economic Equality": {
+                                "Wealth Redistribution": {},
+                                "Basic Income": {}
+                            }
+                        }
                     },
-                    "Finance": {
-                        "Corporate Finance": {},
-                        "Investment Banking": {},
-                        "Personal Finance": {}
+                    "Practical Concepts": {
+                        "Democracy": {
+                            "Direct Democracy": {
+                                "Referendums": {},
+                                "Initiatives": {}
+                            },
+                            "Representative Democracy": {
+                                "Parliamentary System": {},
+                                "Presidential System": {}
+                            },
+                            "Constitutional Democracy": {
+                                "Rule of Law": {},
+                                "Separation of Powers": {}
+                            }
+                        },
+                        "Capitalism": {
+                            "Free Market": {
+                                "Laissez-faire": {},
+                                "Competition Law": {}
+                            },
+                            "Social Market": {
+                                "Welfare State": {},
+                                "Corporate Social Responsibility": {}
+                            },
+                            "State Capitalism": {
+                                "Sovereign Wealth Funds": {},
+                                "Public-Private Partnerships": {}
+                            }
+                        },
+                        "Sustainability": {
+                            "Environmental Sustainability": {
+                                "Conservation": {},
+                                "Renewable Energy": {}
+                            },
+                            "Economic Sustainability": {
+                                "Fiscal Prudence": {},
+                                "Green Economy": {}
+                            },
+                            "Social Sustainability": {
+                                "Community Development": {},
+                                "Inclusive Growth": {}
+                            }
+                        }
                     },
-                    "Marketing": {
-                        "Digital Marketing": {},
-                        "Market Research": {},
-                        "Brand Management": {}
-                    },
-                    "Entrepreneurship": {
-                        "Startup Dynamics": {},
-                        "Venture Capital": {},
-                        "Innovation Management": {}
-                    },
-                    "Accounting": {
-                        "Financial Accounting": {},
-                        "Managerial Accounting": {},
-                        "Auditing": {}
+                    "Abstract Concepts": {
+                        "Time": {
+                            "Chronology": {
+                                "Historical Periods": {},
+                                "Future Studies": {}
+                            }
+                        },
+                        "Space": {
+                            "Geographical Space": {
+                                "Territoriality": {},
+                                "Place Identity": {}
+                            }
+                        },
+                        "Identity": {
+                            "Personal Identity": {
+                                "Self-Concept": {},
+                                "Group Membership": {}
+                            }
+                        }
                     }
                 }
             }
-        },
-        "Idea": {
-            "Philosophy": {
-                "Metaphysics": {
-                    "Ontology": {
-                        "Nature of Being": {
-                            "Individuals": {},
-                            "Relations": {},
-                            "Properties": {},
-                            "Events": {}
-                        },
-                        "Existence": {
-                            "Modal Realities": {},
-                            "Necessity & Possibility": {}
-                        },
-                        "Reality": {
-                            "Phenomenalism": {},
-                            "Physicalism": {},
-                            "Pluralism": {}
-                        }
-                    },
-                    "Epistemology": {
-                        "Belief": {
-                            "Justified Belief": {},
-                            "Unjustified Belief": {}
-                        },
-                        "Knowledge": {
-                            "A Priori & A Posteriori": {},
-                            "Empirical Knowledge": {}
-                        },
-                        "Truth": {
-                            "Correspondence Theory": {},
-                            "Coherence Theory": {},
-                            "Constructivist Theory": {}
-                        }
-                    },
-                    "Cosmology": {
-                        "Origin": {
-                            "Creation Myths": {},
-                            "Scientific Theories": {}
-                        },
-                        "Structure": {
-                            "Space-Time Concepts": {},
-                            "Multiverse Theories": {}
-                        },
-                        "Future": {
-                            "Eschatology": {},
-                            "Entropy & Heat Death": {}
-                        }
-                    },
-                    "Axiology": {}
-                },
-                "Ethics": {
-                    "Moral Philosophy": {
-                        "Virtue Ethics": {},
-                        "Deontology": {},
-                        "Consequentialism": {}
-                    },
-                    "Applied Ethics": {
-                        "Bioethics": {},
-                        "Business Ethics": {},
-                        "Environmental Ethics": {}
-                    },
-                    "Political Philosophy": {
-                        "Justice": {},
-                        "Liberty": {},
-                        "Rights": {}
-                    }
-                },
-                "Aesthetics": {
-                    "Theory of Art": {},
-                    "Philosophy of Beauty": {},
-                    "Criticism": {}
-                }
-            },
-            "Religion": {
-                "World Religions": {
-                    "Christianity": {
-                        "Catholicism": {},
-                        "Protestantism": {},
-                        "Orthodoxy": {}
-                    },
-                    "Islam": {
-                        "Sunni": {},
-                        "Shi'a": {},
-                        "Sufism": {}
-                    },
-                    "Hinduism": {
-                        "Vaishnavism": {},
-                        "Shaivism": {},
-                        "Shaktism": {}
-                    }
-                },
-                "Indigenous Religions": {
-                    "Native American": {},
-                    "African Traditional": {},
-                    "Australian Aboriginal": {}
-                },
-                "New Religious Movements": {
-                    "Scientology": {},
-                    "Neopaganism": {},
-                    "New Age": {}
-                }
-            },
-            "Concept": {
-                "Theoretical Concepts": {
-                    "Liberty": {
-                        "Political Freedom": {
-                            "Civil Liberties": {},
-                            "Electoral Rights": {}
-                        },
-                        "Free Will": {
-                            "Determinism": {},
-                            "Libertarianism": {}
-                        },
-                        "Freedom of Expression": {
-                            "Press Freedom": {},
-                            "Internet Censorship": {}
-                        }
-                    },
-                    "Justice": {
-                        "Social Justice": {
-                            "Distributive Justice": {},
-                            "Restorative Justice": {}
-                        },
-                        "Criminal Justice": {
-                            "Retributive Justice": {},
-                            "Penal Reform": {}
-                        },
-                        "Legal Justice": {
-                            "Procedural Fairness": {},
-                            "Judicial Equity": {}
-                        }
-                    },
-                    "Equality": {
-                        "Gender Equality": {
-                            "Feminism": {},
-                            "LGBT Rights": {}
-                        },
-                        "Racial Equality": {
-                            "Anti-Racism": {},
-                            "Affirmative Action": {}
-                        },
-                        "Economic Equality": {
-                            "Wealth Redistribution": {},
-                            "Basic Income": {}
-                        }
-                    }
-                },
-                "Practical Concepts": {
-                    "Democracy": {
-                        "Direct Democracy": {
-                            "Referendums": {},
-                            "Initiatives": {}
-                        },
-                        "Representative Democracy": {
-                            "Parliamentary System": {},
-                            "Presidential System": {}
-                        },
-                        "Constitutional Democracy": {
-                            "Rule of Law": {},
-                            "Separation of Powers": {}
-                        }
-                    },
-                    "Capitalism": {
-                        "Free Market": {
-                            "Laissez-faire": {},
-                            "Competition Law": {}
-                        },
-                        "Social Market": {
-                            "Welfare State": {},
-                            "Corporate Social Responsibility": {}
-                        },
-                        "State Capitalism": {
-                            "Sovereign Wealth Funds": {},
-                            "Public-Private Partnerships": {}
-                        }
-                    },
-                    "Sustainability": {
-                        "Environmental Sustainability": {
-                            "Conservation": {},
-                            "Renewable Energy": {}
-                        },
-                        "Economic Sustainability": {
-                            "Fiscal Prudence": {},
-                            "Green Economy": {}
-                        },
-                        "Social Sustainability": {
-                            "Community Development": {},
-                            "Inclusive Growth": {}
-                        }
-                    }
-                },
-                "Abstract Concepts": {
-                    "Time": {
-                        "Chronology": {
-                            "Historical Periods": {},
-                            "Future Studies": {}
-                        }
-                    },
-                    "Space": {
-                        "Geographical Space": {
-                            "Territoriality": {},
-                            "Place Identity": {}
-                        }
-                    },
-                    "Identity": {
-                        "Personal Identity": {
-                            "Self-Concept": {},
-                            "Group Membership": {}
-                        }
-                    }
-                }
-            }            
         }
     }
 }
