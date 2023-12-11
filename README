@@ -1,0 +1,5 @@
+This project contains 2 approaches to generate a fine grained type ontology using GPT-4. The first attempt and its related code can be found in the foilder First_approach.
+That method tried to use the types list from the UltraFine paper to create a taxonomy
+
+The folder ontology-from-scratch contains all code and intermediate taxonomies from the approach of generating the taxonomy from scratch using GPT-4 and no restrictions on the terms
+The highest number result json file is the most recent version of the taxonomy. It can be viewed using any json viewing program, but due to the extensive nature of the taxonomy a tree style viewing is most interpretable from our experience.
